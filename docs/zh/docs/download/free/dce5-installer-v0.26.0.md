@@ -14,8 +14,8 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
-| offline-community-v0.26.0-amd64.tar | v0.26.0 | AMD 64 | 8.57GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.26.0-amd64.tar) | 2025-02-13 |
-| offline-community-v0.26.0-arm64.tar | v0.26.0 | <font color="green">ARM 64</font> | 8.21GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.26.0-arm64.tar) | 2025-02-13 |
+| offline-community-v0.26.0-amd64.tar | v0.26.0 | AMD 64 | 8.57 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.26.0-amd64.tar) | 2025-02-13 |
+| offline-community-v0.26.0-arm64.tar | v0.26.0 | <font color="green">ARM 64</font> | 8.21 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.26.0-arm64.tar) | 2025-02-13 |
 
 ## 校验
 
