@@ -9,7 +9,7 @@ hide:
 
 ## 下载
 
-| 版本  | 架构 | 文件大小 | 安装包      | 校验文件 | 更新日期   |
+| 版本  | 架构 | 文件大小 | 安装包      | 校验文件 | 更新日期  |
 | ---- | ---- | ------ | ---------- | ------- | -------- |
 | [v0.31.0](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 452.23 MB | [:arrow_down: ghippo_v0.31.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.31.0_arm64.tar) | [:arrow_down: ghippo_v0.31.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.31.0_arm64_checksum.sha512sum) | 2024-09-29 |
 | [v0.31.0](../../ghippo/intro/release-notes.md) | AMD 64 | 459.08 MB | [:arrow_down: ghippo_v0.31.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.31.0_amd64.tar) | [:arrow_down: ghippo_v0.31.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.31.0_amd64_checksum.sha512sum) | 2024-09-29 |
