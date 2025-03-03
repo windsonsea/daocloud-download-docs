@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-04-23
+date: 2025-03-03
 ---
 
 # DaoCloud Enterprise 5.0
@@ -13,8 +13,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Lastest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.24.0_amd64.tar.gz | v0.24.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.24.0_amd64.tar.gz) | 2024-12-09 |
-| prerequisite_v0.24.0_arm64.tar.gz | v0.24.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.24.0_arm64.tar.gz) | 2024-12-09 |
+| prerequisite_v0.26.0_amd64.tar.gz | v0.26.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.26.0_amd64.tar.gz) | 2025-02-13 |
+| prerequisite_v0.26.0_arm64.tar.gz | v0.26.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.26.0_arm64.tar.gz) | 2025-02-13 |
 
 ## Download DCE 5.0 Community
 
@@ -22,8 +22,8 @@ This package is dedicated to the community and is available for free trial.
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | --------- | ----------- |
-| offline-community-v0.24.0-arm64.tar | v0.24.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.24.0.md) | 2024-12-09 |
-| offline-community-v0.24.0-amd64.tar | v0.24.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.24.0.md) | 2024-12-09 |
+| offline-community-v0.26.0-arm64.tar | v0.26.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.26.0.md) | 2025-02-13 |
+| offline-community-v0.26.0-amd64.tar | v0.26.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.26.0.md) | 2025-02-13 |
 
 [Legacy Packages for DCE 5.0 Community](./free/dce5-installer-history.md){ .md-button } 
 
@@ -33,8 +33,8 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| offline-v0.24.0-arm64.tar | v0.24.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.24.0.md) | 2024-12-09 |
-| offline-v0.24.0-amd64.tar | v0.24.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.24.0.md) | 2024-12-09 |
+| offline-v0.26.0-arm64.tar | v0.26.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.26.0.md) | 2025-02-13 |
+| offline-v0.26.0-amd64.tar | v0.26.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.26.0.md) | 2025-02-13 |
 
 [Legacy Packages for DCE 5.0 Enterprise](./business/dce5-installer-history.md){ .md-button } 
 
@@ -44,9 +44,9 @@ DCE 5.0 provides comprehensive Addons for different use cases, which can be down
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| gpu-addon-offline-package-v0.24.0-amd64.tar.gz | v0.24.0 | [:arrow_right: Go to Download](./addon/v0.24.0.md) | 2024-12-09 |
-| standard-addon-offline-package-v0.24.0-arm64.tar.gz | v0.24.0 | [:arrow_right: Go to Download](./addon/v0.24.0.md) | 2024-12-09 |
-| standard-addon-offline-package-v0.24.0-amd64.tar.gz | v0.24.0 | [:arrow_right: Go to Download](./addon/v0.24.0.md) | 2024-12-09 |
+| gpu-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | [:arrow_right: Go to Download](./addon/v0.26.0.md) | 2025-02-11 |
+| standard-addon-offline-package-v0.26.0-arm64.tar.gz | v0.26.0 | [:arrow_right: Go to Download](./addon/v0.26.0.md) | 2025-02-11 |
+| standard-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | [:arrow_right: Go to Download](./addon/v0.26.0.md) | 2025-02-11 |
 
 [Legacy Packages for Addons](./addon/history.md){ .md-button } 
 
