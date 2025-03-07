@@ -56,8 +56,8 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | --------- | -------- | ----------- |
-| Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2024-12-01 |
-| Container | Container Management | 674.33 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2024-11-06 |
+| Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2025-03-04 |
+| Container | Container Management | 674.33 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-03-04 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
@@ -80,7 +80,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Redis |747.81 MB| [:arrow_right: Go to Download](./modules/middleware/redis.md) |2025-02-07|
 | | RocketMQ |599.68 MB| [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) |2024-12-12|
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2024-11-28 |
-| Management | Global Management | 458.24 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2024-09-29 |
+| Management | Global Management | 458.24 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-03-05 |
 | | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2024-12-02 |
 
 !!! note
