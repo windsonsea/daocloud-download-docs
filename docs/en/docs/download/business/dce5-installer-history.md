@@ -12,10 +12,10 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
-| offline-v0.26.0-arm64.tar | v0.26.0 | <font color="green">ARM 64</font>  | 29.16 GB | [:arrow_right: Go to Download](./dce5-installer-v0.26.0.md) | 2025-02-13 |
+| offline-v0.26.0-arm64.tar | v0.26.0 | <font color="green">ARM 64</font> | 29.16 GB | [:arrow_right: Go to Download](./dce5-installer-v0.26.0.md) | 2025-02-13 |
 | offline-v0.26.0-amd64.tar | v0.26.0 | AMD 64 | 33.01 GB | [:arrow_right: Go to Download](./dce5-installer-v0.26.0.md) | 2025-02-13 |
-| offline-v0.25.0-arm64.tar | v0.25.0 | <font color="green">ARM 64</font> |  | [:arrow_right: Go to Download](./dce5-installer-v0.25.0.md) | 2025-01-10 |
-| offline-v0.25.0-amd64.tar | v0.25.0 | AMD 64 |  | [:arrow_right: Go to Download](./dce5-installer-v0.25.0.md) | 2025-01-10 |
+| offline-v0.25.0-arm64.tar | v0.25.0 | <font color="green">ARM 64</font> | 28.9 GB | [:arrow_right: Go to Download](./dce5-installer-v0.25.0.md) | 2025-01-10 |
+| offline-v0.25.0-amd64.tar | v0.25.0 | AMD 64 | 32.7 GB | [:arrow_right: Go to Download](./dce5-installer-v0.25.0.md) | 2025-01-10 |
 | offline-v0.24.0-arm64.tar | v0.24.0 | <font color="green">ARM 64</font> | 28.93 GB | [:arrow_right: Go to Download](./dce5-installer-v0.24.0.md) | 2024-12-09 |
 | offline-v0.24.0-amd64.tar | v0.24.0 | AMD 64 | 32.73 GB | [:arrow_right: Go to Download](./dce5-installer-v0.24.0.md) | 2024-12-09 |
 | offline-v0.23.0-arm64.tar | v0.23.0 | <font color="green">ARM 64</font> | 29.80 GB | [:arrow_right: Go to Download](./dce5-installer-v0.23.0.md) | 2024-11-11 |
