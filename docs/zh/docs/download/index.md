@@ -1,7 +1,6 @@
 # DaoCloud Enterprise 5.0 下载导览页
 
 DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
-[点击下载 DCE 5.0 产品介绍 PDF](./DCE5.0-intro.pdf)：1.4 MB。
 
 目前下载中心仅提供离线安装包。有关在线安装方式，请参阅[在线安装](../install/index.md)。
 
@@ -87,6 +86,22 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
     - 欢迎扫描二维码，与开发者畅快交流：
 
     ![社区版交流群](https://docs.daocloud.io/daocloud-docs-images/docs/images/assist.png)
+
+## 下载产品文档
+
+本节提供 DCE 5.0 各个模块的离线文档 PDF 供查阅和下载。
+
+| 模块 | 文件大小 | 下载 | 更新日期 |
+| --- | ---- | ---- | ------ |
+| DCE 5.0 产品介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/DCE5.0-intro.pdf) | 2025-01-21 |
+| DCE 5.0 商业版安装部署手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2025-03-09 |
+| AI Lab 操作手册 | 10.3 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2024-12-31 |
+
+!!! tip
+
+    查阅 PDF 时，可借助 **书签** 和 **目录** 快速浏览并导航到对应章节。
+
+    ![书签和目录](./images/bookmark-toc.png)
 
 [安装 DCE 5.0](../install/index.md){ .md-button .md-button--primary }
 [申请社区免费体验](../dce/license0.md){ .md-button .md-button--primary }
