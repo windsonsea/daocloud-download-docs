@@ -97,5 +97,11 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | DCE 5.0 商业版安装部署手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2025-03-09 |
 | AI Lab 操作手册 | 10.3 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2024-12-31 |
 
+!!! tip
+
+    查阅 PDF 时，可借助 **书签** 和 **目录** 快速浏览并导航到对应章节。
+
+    ![书签和目录](./images/bookmark-toc.png)
+
 [安装 DCE 5.0](../install/index.md){ .md-button .md-button--primary }
 [申请社区免费体验](../dce/license0.md){ .md-button .md-button--primary }
