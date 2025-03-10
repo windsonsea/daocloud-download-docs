@@ -89,13 +89,27 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 
 ## 下载产品文档
 
-本节提供 DCE 5.0 各个模块的离线文档 PDF 供查阅和下载。
+本节提供 DCE 5.0 各个模块的离线文档 PDF 和 Docx 供查阅和下载。
 
-| 模块 | 文件大小 | 下载 | 更新日期 |
-| --- | ---- | ---- | ------ |
-| DCE 5.0 产品介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/DCE5.0-intro.pdf) | 2025-01-21 |
-| DCE 5.0 商业版安装部署手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2025-03-09 |
-| AI Lab 操作手册 | 10.3 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2024-12-31 |
+| 模块 | 文件大小 | 下载 | 更新日期 | 备注 |
+| --- | ---- | ---- | ------ | ---- |
+| DCE 5.0 产品介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/DCE5.0-intro.pdf) | 2025-01-21 | DCE 5.0 总体产品简介 |
+| 商业版安装部署手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2025-03-09 | [:arrow_down: 下载精修版 Docx](./modules/pdf/dce5.0-install.docx.zip) |
+| 应用工作台 | 1.9 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/amamba.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 容器管理 | 24.9 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kpanda.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 [md-docx 转换版](./modules/pdf/kpanda.docx.zip) |
+| 多云编排 | 3.1 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kairship.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 镜像仓库 | 2.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kangaroo.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 云原生网络 | 12.7 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/network.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 云原生存储 | 2.7 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/storage.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 虚拟机 | 5.3 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/virtnest.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 可观测性 | 798 KB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/insight.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 微服务引擎 | 9.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/skoala.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 服务网格 | 3.7 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/mspider.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 中间件 | 14.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/mcamel.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| AI Lab | 10.3 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2024-12-31 | [:arrow_down: 下载精修版 Docx](./modules/pdf/AI-Lab.docx.zip) |
+| 云边协同 | 3.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kant.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| 全局管理 | 5.7 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/ghippo.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
+| **除 Kpanda/AI-Lab/Install之外的 Docx 压缩包** | 77.8 MB | [:arrow_down: 下载 Docx 压缩包](./modules/pdf/docx-except-kpanda-ailab-install.zip) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 
 !!! tip
 
