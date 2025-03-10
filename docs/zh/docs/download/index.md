@@ -96,7 +96,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | DCE 5.0 产品介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/DCE5.0-intro.pdf) | 2025-01-21 | DCE 5.0 总体产品简介 |
 | 商业版安装部署手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/dce5.0-install.pdf) | 2025-03-09 | [:arrow_down: 下载精修版 Docx](./modules/pdf/dce5.0-install.docx.zip) |
 | 应用工作台 | 1.9 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/amamba.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
-| 容器管理 | 24.9 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kpanda.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 [md-docx 转换版](./modules/pdf/kpanda.docx.zip) |
+| 容器管理 | 24.9 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kpanda.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 [:arrow_down: md-docx 转换版](./modules/pdf/kpanda.docx.zip) |
 | 多云编排 | 3.1 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kairship.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | 镜像仓库 | 2.4 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/kangaroo.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | 云原生网络 | 12.7 MB | [:arrow_down: 查阅并下载 PDF](./modules/pdf/network.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
