@@ -114,7 +114,8 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 
 !!! tip
 
-    查阅 PDF 时，可借助 **书签** 和 **目录** 快速浏览并导航到对应章节。
+    - 有关批量生成 Docx 和 PDF，请参阅 [mdctl 批量生成操作步骤](https://docs.daocloud.io/native/git/md-docx)
+    - 查阅 PDF 时，可借助 **书签** 和 **目录** 快速浏览并导航到对应章节
 
     ![书签和目录](./images/bookmark-toc.png)
 
