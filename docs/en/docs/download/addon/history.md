@@ -11,7 +11,13 @@ This page lists all the Addon offline packages released for DCE 5.0.
 You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
-| -------- | ------- | ------------ | --------- | -------- | ----------- |
+| -------- | ------- | ------------ | ---- | -------- | ---- |
+| gpu-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | AMD 64 | 9.71 GB | [:arrow_right: Go to Download](./v0.26.0.md) | 2025-02-11 |
+| standard-addon-offline-package-v0.26.0-arm64.tar.gz | v0.26.0 | <font color="green">ARM 64</font> | 23.57 GB | [:arrow_right: Go to Download](./v0.26.0.md) | 2025-02-11 |
+| standard-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | AMD 64 | 32.83 GB | [:arrow_right: Go to Download](./v0.26.0.md) | 2025-02-11 |
+| gpu-addon-offline-package-v0.25.0-amd64.tar.gz | v0.25.0 | AMD 64 | 9.71 GB | [:arrow_right: Go to Download](./v0.25.0.md) | 2025-02-07 |
+| standard-addon-offline-package-v0.25.0-arm64.tar.gz | v0.25.0 | <font color="green">ARM 64</font> | 20.41 GB | [:arrow_right: Go to Download](./v0.25.0.md) | 2025-02-07 |
+| standard-addon-offline-package-v0.25.0-amd64.tar.gz | v0.25.0 | AMD 64 | 29.66 GB | [:arrow_right: Go to Download](./v0.25.0.md) | 2025-02-07 |
 | gpu-addon-offline-package-v0.24.0-amd64.tar.gz | v0.24.0 | AMD 64 | 9.71 GB | [:arrow_right: Go to Download](./v0.24.0.md) | 2024-12-09 |
 | standard-addon-offline-package-v0.24.0-arm64.tar.gz | v0.24.0 | <font color="green">ARM 64</font> | 20.68 GB | [:arrow_right: Go to Download](./v0.24.0.md) | 2024-12-09 |
 | standard-addon-offline-package-v0.24.0-amd64.tar.gz | v0.24.0 | AMD 64 | 30.40 GB | [:arrow_right: Go to Download](./v0.24.0.md) | 2024-12-09 |
@@ -52,6 +58,6 @@ You can choose and download the one you need.
 | addon-offline-full-package-v0.9.0-arm64.tar.gz | v0.9.0 | <font color="green">ARM 64</font> | 9.0 GB | [:arrow_right: Go to Download](./v0.9.0.md) | 2023-07-07 |
 | addon-offline-full-package-v0.9.0-amd64.tar.gz | v0.9.0 | AMD 64 | 14.4 GB | [:arrow_right: Go to Download](./v0.9.0.md) | 2023-07-07 |
 | addon-offline-full-package-v0.8.0-amd64.tar.gz | v0.8.0 | AMD64 | 13.8 GB | [:arrow_right: Go to Download](./v0.8.0.md) | 2023-06-01 |
-| addon-offline-full-package-v0.8.0-arm64.tar.gz | v0.8.0 | ARM64 | 13.8 GB | [:arrow_right: Go to Download](./v0.8.0.md) | 2023-06-01 |
+| addon-offline-full-package-v0.8.0-arm64.tar.gz | v0.8.0 | <font color="green">ARM 64</font>| 13.8 GB | [:arrow_right: Go to Download](./v0.8.0.md) | 2023-06-01 |
 | addon-offline-full-package-v0.6.0-amd64.tar.gz | v0.6.0 | AMD64 | 9.9 GB | [:arrow_right: Go to Download](./v0.6.0.md) | 2023-04-14 |
-| addon-offline-full-package-v0.6.0-arm64.tar.gz | v0.6.0 | ARM64 | 5.2 GB | [:arrow_right: Go to Download](./v0.6.0.md) | 2023-04-14 |
+| addon-offline-full-package-v0.6.0-arm64.tar.gz | v0.6.0 | <font color="green">ARM 64</font>| 5.2 GB | [:arrow_right: Go to Download](./v0.6.0.md) | 2023-04-14 |
