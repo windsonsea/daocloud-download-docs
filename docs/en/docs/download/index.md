@@ -13,8 +13,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Lastest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.26.0_amd64.tar.gz | v0.26.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.26.0_amd64.tar.gz) | 2025-02-13 |
-| prerequisite_v0.26.0_arm64.tar.gz | v0.26.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.26.0_arm64.tar.gz) | 2025-02-13 |
+| prerequisite_v0.27.0_amd64.tar.gz | v0.27.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.27.0_amd64.tar.gz) | 2025-02-13 |
+| prerequisite_v0.27.0_arm64.tar.gz | v0.27.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.27.0_arm64.tar.gz) | 2025-02-13 |
 
 ## Download DCE 5.0 Community
 
@@ -22,8 +22,8 @@ This package is dedicated to the community and is available for free trial.
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | --------- | ----------- |
-| offline-community-v0.26.0-arm64.tar | v0.26.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.26.0.md) | 2025-02-13 |
-| offline-community-v0.26.0-amd64.tar | v0.26.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.26.0.md) | 2025-02-13 |
+| offline-community-v0.27.0-arm64.tar | v0.27.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.27.0.md) | 2025-02-13 |
+| offline-community-v0.27.0-amd64.tar | v0.27.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.27.0.md) | 2025-02-13 |
 
 [Legacy Packages for DCE 5.0 Community](./free/dce5-installer-history.md){ .md-button } 
 
@@ -33,8 +33,8 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| offline-v0.26.0-arm64.tar | v0.26.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.26.0.md) | 2025-02-13 |
-| offline-v0.26.0-amd64.tar | v0.26.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.26.0.md) | 2025-02-13 |
+| offline-v0.27.0-arm64.tar | v0.27.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.27.0.md) | 2025-02-13 |
+| offline-v0.27.0-amd64.tar | v0.27.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.27.0.md) | 2025-02-13 |
 
 [Legacy Packages for DCE 5.0 Enterprise](./business/dce5-installer-history.md){ .md-button } 
 
@@ -44,20 +44,20 @@ DCE 5.0 provides comprehensive Addons for different use cases, which can be down
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| gpu-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | [:arrow_right: Go to Download](./addon/v0.26.0.md) | 2025-02-11 |
-| standard-addon-offline-package-v0.26.0-arm64.tar.gz | v0.26.0 | [:arrow_right: Go to Download](./addon/v0.26.0.md) | 2025-02-11 |
-| standard-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | [:arrow_right: Go to Download](./addon/v0.26.0.md) | 2025-02-11 |
+| gpu-addon-offline-package-v0.27.0-amd64.tar.gz | v0.27.0 | [:arrow_right: Go to Download](./addon/v0.27.0.md) | 2025-02-11 |
+| standard-addon-offline-package-v0.27.0-arm64.tar.gz | v0.27.0 | [:arrow_right: Go to Download](./addon/v0.27.0.md) | 2025-02-11 |
+| standard-addon-offline-package-v0.27.0-amd64.tar.gz | v0.27.0 | [:arrow_right: Go to Download](./addon/v0.27.0.md) | 2025-02-11 |
 
-[Legacy Packages for Addons](./addon/history.md){ .md-button } 
+[Legacy Packages for Addons](./addon/history.md){ .md-button }
 
 ## Download Modules
 
 The numerous modules included in DCE 5.0 can be downloaded separately to upgrade each module on demand.
 
 | Channel | Modules | Size | Download | Date |
-| ------- | ------- | --------- | -------- | ----------- |
+| ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2025-03-04 |
-| Container | Container Management | 674.33 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-03-04 |
+| Container | Container Management | 756.22 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-03-12 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
@@ -91,6 +91,36 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
     - Welcome to scan the QR code to communicate with developers:
 
     ![WeCom Group for DCE 5.0 Community](https://docs.daocloud.io/daocloud-docs-images/docs/images/assist.png)
+
+## Download Product Documentation
+
+This section provides offline documentation in PDF and Docx formats for various modules of DCE 5.0, available for viewing and download.
+
+| Module | File Size | Download | Updated Date | Notes |
+| --- | ---- | ---- | ------ | ---- |
+| DCE 5.0 Product Overview | 1.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2025-01-21 | General introduction to DCE 5.0 |
+| Commercial Package Installation & Deployment Guide | 5.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2025-03-09 | Refined version |
+| Workbench | 1.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Container Management | 24.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| MultiCloud Management | 3.1 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kairship.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Image Repository | 2.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Cloud Native Networking | 12.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/network.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Cloud Native Storage | 2.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/storage.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Virtual Machine | 5.3 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/virtnest.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Insight | 798 KB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Microservices Engine | 9.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/skoala.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Service Mesh | 3.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Middleware | 14.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| AI Lab | 10.3 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/AI-lab.pdf) | 2024-12-31 | Refined version |
+| Cloud Edge Collaboration | 3.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Global Management | 5.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| **Docx for All Modules** | 125.04 MB | [:arrow_down: Download Docx Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2025-03-10 | Includes Docx files corresponding to the above PDFs |
+| **PDF for All Modules** | 77.46 MB | [:arrow_down: Download PDF Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip) | 2025-03-10 | Collection of all the above PDFs |
+
+!!! tip
+
+    - For batch generation of Docx and PDF files, refer to [mdctl batch processing steps](https://docs.daocloud.io/native/git/md-docx).
+    - While viewing PDFs, you can use **bookmarks** and **table of contents** to quickly browse and navigate to specific sections.
 
 [Install DCE 5.0](../install/index.md){ .md-button .md-button--primary }
 [Free Trial](../dce/license0.md){ .md-button .md-button--primary }
