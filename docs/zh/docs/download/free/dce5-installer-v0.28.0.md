@@ -14,8 +14,8 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
-| offline-community-v0.28.0-amd64.tar | v0.28.0 | AMD 64 | 9.52GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.28.0-amd64.tar) | 2025-04-11 |
-| offline-community-v0.28.0-arm64.tar | v0.28.0 | <font color="green">ARM 64</font> | 9.01GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.28.0-arm64.tar) | 2025-04-11 |
+| offline-community-v0.28.0-amd64.tar | v0.28.0 | AMD 64 | 9.52 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.28.0-amd64.tar) | 2025-04-11 |
+| offline-community-v0.28.0-arm64.tar | v0.28.0 | <font color="green">ARM 64</font> | 9.01 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.28.0-arm64.tar) | 2025-04-11 |
 
 ## 校验
 
@@ -78,9 +78,9 @@ DCE 5.0 社区版默认包含以下模块：
 
 | 模块     | 介绍            | 最新动态         |
 | -------- | -------------- | -------------- |
-| 全局管理 | 负责用户访问控制、权限、工作空间与层级、审计日志、个性化外观设置等 | [](../../ghippo/intro/release-notes.md#) |
-| 容器管理 | 管理集群、节点、工作负载、Helm 应用、CRD、命名空间等 K8s 核心功能 | [](../../kpanda/intro/release-notes.md#) |
-| 可观测性 | 提供丰富的仪表盘、场景监控、数据查询、告警等图文信息 | [](../../insight/intro/release-notes.md#) |
+| 全局管理 | 负责用户访问控制、权限、工作空间与层级、审计日志、个性化外观设置等 | [0.35.0](../../ghippo/intro/release-notes.md#0350) |
+| 容器管理 | 管理集群、节点、工作负载、Helm 应用、CRD、命名空间等 K8s 核心功能 | [0.37.0](../../kpanda/intro/release-notes.md#0370) |
+| 可观测性 | 提供丰富的仪表盘、场景监控、数据查询、告警等图文信息 | [0.35.1](../../insight/intro/release-notes.md#0351) |
 
 ## 更多
 

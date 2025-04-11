@@ -8,8 +8,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 文件大小 | 下载 | 更新日期 |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.27.0_amd64.tar.gz | v0.27.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.27.0_amd64.tar.gz) | 2025-03-12 |
-| prerequisite_v0.27.0_arm64.tar.gz | v0.27.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.27.0_arm64.tar.gz) | 2025-03-12 |
+| prerequisite_v0.28.0_amd64.tar.gz | v0.28.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.28.0_amd64.tar.gz) | 2025-04-11 |
+| prerequisite_v0.28.0_arm64.tar.gz | v0.28.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.28.0_arm64.tar.gz) | 2025-04-11 |
 
 ## 下载社区版
 
@@ -45,7 +45,7 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 | standard-addon-offline-package-v0.28.0-arm64.tar.gz | v0.28.0 | [:arrow_right: 下载页](./addon/v0.28.0.md) | 2025-04-10 |
 | standard-addon-offline-package-v0.28.0-amd64.tar.gz | v0.28.0 | [:arrow_right: 下载页](./addon/v0.28.0.md) | 2025-04-10 |
 
-[Addon：更多历史版本](./addon/history.md){ .md-button } 
+[Addon：更多历史版本](./addon/history.md){ .md-button }
 
 ## 下载子模块
 
