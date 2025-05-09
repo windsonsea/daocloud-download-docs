@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-07-09
+date: 2025-04-07
 hide:
   - toc
 ---
@@ -12,6 +12,14 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
+| metax-addon-offline-package-v0.28.0-amd64.tar.gz | v0.28.0 | AMD 64 | 4.12 GB | [:arrow_right: Go to Download](./v0.28.0.md) | 2025-04-10 |
+| gpu-addon-offline-package-v0.28.0-arm64.tar.gz | v0.28.0 | <font color="green">ARM 64</font> | 4.05 GB | [:arrow_right: Go to Download](./v0.28.0.md) | 2025-04-10 |
+| gpu-addon-offline-package-v0.28.0-amd64.tar.gz | v0.28.0 | AMD 64 | 9.7 1GB | [:arrow_right: Go to Download](./v0.28.0.md) | 2025-04-10 |
+| standard-addon-offline-package-v0.28.0-arm64.tar.gz | v0.28.0 | <font color="green">ARM 64</font> | 19.35 GB | [:arrow_right: Go to Download](./v0.28.0.md) | 2025-04-10 |
+| standard-addon-offline-package-v0.28.0-amd64.tar.gz | v0.28.0 | AMD 64 | 28.15 GB | [:arrow_right: Go to Download](./v0.28.0.md) | 2025-04-10 |
+| gpu-addon-offline-package-v0.27.0-amd64.tar.gz | v0.27.0 | AMD 64 | 9.71 GB | [:arrow_right: Go to Download](./v0.27.0.md) | 2025-03-12 |
+| standard-addon-offline-package-v0.27.0-arm64.tar.gz | v0.27.0 | <font color="green">ARM 64</font> | 19.24 GB | [:arrow_right: Go to Download](./v0.27.0.md) | 2025-03-12 |
+| standard-addon-offline-package-v0.27.0-amd64.tar.gz | v0.27.0 | AMD 64 | 28.02 GB | [:arrow_right: Go to Download](./v0.27.0.md) | 2025-03-12 |
 | gpu-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | AMD 64 | 9.71 GB | [:arrow_right: Go to Download](./v0.26.0.md) | 2025-02-11 |
 | standard-addon-offline-package-v0.26.0-arm64.tar.gz | v0.26.0 | <font color="green">ARM 64</font> | 23.57 GB | [:arrow_right: Go to Download](./v0.26.0.md) | 2025-02-11 |
 | standard-addon-offline-package-v0.26.0-amd64.tar.gz | v0.26.0 | AMD 64 | 32.83 GB | [:arrow_right: Go to Download](./v0.26.0.md) | 2025-02-11 |

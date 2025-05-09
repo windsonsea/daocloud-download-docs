@@ -1,10 +1,10 @@
 ---
-date: 2025-03-12
+date: 2025-04-11
 hide:
   - navigation
 ---
 
-# DCE 5.0 商业版 v0.27.0
+# DCE 5.0 商业版 v0.28.0
 
 本页可下载 DCE 5.0 商业版的离线安装包和校验文件。
 
@@ -14,8 +14,8 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
-| offline-v0.27.0-amd64.tar | v0.27.0 | AMD 64 | 29.45 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.27.0-amd64.tar) | 2025-03-12 |
-| offline-v0.27.0-arm64.tar | v0.27.0 | <font color="green">ARM 64</font> | 25.93 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.27.0-arm64.tar) | 2025-03-12 |
+| offline-v0.28.0-amd64.tar | v0.28.0 | AMD 64 | 29.27 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.28.0-amd64.tar) | 2025-04-11 |
+| offline-v0.28.0-arm64.tar | v0.28.0 | <font color="green">ARM 64</font> | 26.01 GB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.28.0-arm64.tar) | 2025-04-11 |
 
 ## 校验
 
@@ -26,13 +26,13 @@ hide:
     执行以下命令校验安装包：
 
     ```sh
-    echo "9b10a525d805937e4cad648a4c05ab1d2086f2711cd8a115d5b90a69710ba3690bb276bb49c2c835109e43f35de1c93eb24defb5525f0a1ad72dffbdaf9c0477  offline-v0.27.0-amd64.tar" | sha512sum -c
+    echo "1dcdb7ec775610e7f0bdade37284533949163fd7d1f377e3f4fcb03e1f42391576fe6afbab928ded6368899c7d4d94e9e6d3dd4e5ab0c9a17750be676b2bd7fa  offline-v0.28.0-amd64.tar" | sha512sum -c
     ```
 
     校验成功会打印：
 
     ```none
-    offline-v0.27.0-amd64.tar: OK
+    offline-v0.28.0-amd64.tar: OK
     ```
 
 === "<font color="green">ARM 64</font>"
@@ -40,13 +40,13 @@ hide:
     执行以下命令校验安装包：
 
     ```sh
-    echo "039d9c9f84879704b7df87d335cd246cc2f96a3cb1f4d69d77994f48368f447cd5758724aaf6773c094ec000d38cf70ba8e283b288309ba9f8e9d19f9d37aa3c  offline-v0.27.0-arm64.tar" | sha512sum -c
+    echo "da12128060633d08313ee1edb2738aa9637b12707c4ff0a6500670202747ed765fb513124ba826a19427adcf1f78103afa124de59ee91c00f6c869cb7876b10a  offline-v0.28.0-arm64.tar" | sha512sum -c
     ```
 
     校验成功会打印：
 
     ```none
-    offline-v0.27.0-arm64.tar: OK
+    offline-v0.28.0-arm64.tar: OK
     ```
 
 ## 安装
@@ -58,7 +58,7 @@ hide:
     执行以下命令解压缩 tar 包：
 
     ```sh
-    tar -zxvf offline-v0.27.0-amd64.tar
+    tar -zxvf offline-v0.28.0-amd64.tar
     ```
 
 === "<font color="green">ARM 64</font>"
@@ -66,7 +66,7 @@ hide:
     执行以下命令解压缩 tar 包：
 
     ```sh
-    tar -zxvf offline-v0.27.0-arm64.tar
+    tar -zxvf offline-v0.28.0-arm64.tar
     ```
 
 - 安装请参阅[商业版安装流程](../../install/commercial/start-install.md)
@@ -84,7 +84,7 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 | 应用工作台 | 基于容器的 DevOps 应用平台，支持 Jenkins, Tekton, GitOps 等流水线作业 | [0.35.0](../../amamba/intro/release-notes.md#0350) |
 | 多云编排 | 集中管理多云、混合云、跨云资源的应用编排，具备多云灾备、故障恢复等能力 | [0.24.0](../../kairship/intro/release-notes.md#0240) |
 | 微服务引擎 | 提供注册发现、服务治理、配置管理、微服务网关等治理能力 | [0.45.0](../../skoala/intro/release-notes.md#0450) |
-| 服务网格 | 基于 Istio 开源技术构建的面向云原生应用的下一代服务网格 | [v0.34.0](../../mspider/intro/release-notes.md#v0340) |
+| 服务网格 | 基于 Istio 开源技术构建的面向云原生应用的下一代服务网格 | [v0.34.1](../../mspider/intro/release-notes.md#v0341) |
 | 中间件 Elasticsearch | 目前首选的全文搜索引擎 | [0.24.0](../../middleware/elasticsearch/release-notes.md#0240) |
 | 中间件 Kafka | 基于开源软件 Kafka 提供的分布式消息队列服务 | [0.23.0](../../middleware/kafka/release-notes.md#0230) |
 | 中间件 MinIO | 一款非常热门的轻量、开源对象存储方案 | [0.21.0](../../middleware/minio/release-notes.md#0210) |
