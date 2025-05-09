@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-01-18
+date: 2025-05-08
 hide:
   - toc
 ---
@@ -13,6 +13,8 @@ On this page, you can download offline packages for different versions of the se
 
 | Version | Architecture | Size | Package | Checksum | Date |
 |----------|-------------|------|---------|----------|------|
+| [v0.35.0](../../mspider/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.08 GB | [:arrow_down: mspider_v0.35.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_arm64.tar) | [:arrow_down: mspider_v0.35.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_arm64_checksum.sha512sum) | 2025-05-07 |
+| [v0.35.0](../../mspider/intro/release-notes.md) | AMD 64 | 1.14 GB | [:arrow_down: mspider_v0.35.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_amd64.tar) | [:arrow_down: mspider_v0.35.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_amd64_checksum.sha512sum) | 2025-05-07 |
 | [v0.34.2](../../mspider/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.13 GB | [:arrow_down: mspider_v0.34.2_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.2_arm64.tar) | [:arrow_down: mspider_v0.34.2_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.2_arm64_checksum.sha512sum) | 2025-04-29 |
 | [v0.34.2](../../mspider/intro/release-notes.md) | AMD 64 | 1.19 GB | [:arrow_down: mspider_v0.34.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.2_amd64.tar) | [:arrow_down: mspider_v0.34.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.2_amd64_checksum.sha512sum) | 2025-04-29 |
 | [v0.34.1](../../mspider/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.12 GB | [:arrow_down: mspider_v0.34.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.1_arm64.tar) | [:arrow_down: mspider_v0.34.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.1_arm64_checksum.sha512sum) | 2025-03-24 |

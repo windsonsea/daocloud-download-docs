@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-08-05
+date: 2025-05-09
 hide:
   - toc
 ---
@@ -13,6 +13,8 @@ This page provides offline packages for different versions of the Container Mana
 
 | Version  | Architecture | Size | Package | Checksum | Date |
 |----------|--------------|------|---------|----------|------|
+| [0.39.0](../../kpanda/intro/release-notes.md) | <font color="green">ARM 64</font> | 669.62 MB | [:arrow_down: kpanda_0.39.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.0_arm64.tar) | [:arrow_down: kpanda_0.39.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.0_arm64_checksum.sha512sum) | 2025-05-08 |
+| [0.39.0](../../kpanda/intro/release-notes.md) | AMD 64 | 685.97 MB | [:arrow_down: kpanda_0.39.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.0_amd64.tar) | [:arrow_down: kpanda_0.39.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.0_amd64_checksum.sha512sum) | 2025-05-08 |
 | [0.38.0](../../kpanda/intro/release-notes.md) | <font color="green">ARM 64</font> | 667.23 MB | [:arrow_down: kpanda_0.38.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.38.0_arm64.tar) | [:arrow_down: kpanda_0.38.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.38.0_arm64_checksum.sha512sum) | 2025-04-01 |
 | [0.38.0](../../kpanda/intro/release-notes.md) | AMD 64 | 683.43 MB | [:arrow_down: kpanda_0.38.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.38.0_amd64.tar) | [:arrow_down: kpanda_0.38.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.38.0_amd64_checksum.sha512sum) | 2025-04-01 |
 | [0.37.0](../../kpanda/intro/release-notes.md) | AMD 64 | 758.00 MB | [:arrow_down: kpanda_0.37.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.37.0_amd64.tar) | [:arrow_down: kpanda_0.37.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.37.0_amd64_checksum.sha512sum) | 2025-03-04 |
