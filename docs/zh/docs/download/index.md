@@ -67,15 +67,15 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 仪表盘| 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎| 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
 | | 服务网格 | 1.04 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2025-05-07 |
-| 中间件 | Elasticsearch |1.96 GB| [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) |2025-03-11|
-| | Kafka |1.07 GB| [:arrow_right: 下载页](./modules/middleware/kafka.md) |2025-03-11|
-| | MinIO |233.30 MB| [:arrow_right: 下载页](./modules/middleware/minio.md) |2024-12-12|
-| | MongoDB |376.88 MB| [:arrow_right: 下载页](./modules/middleware/mongodb.md) |2024-12-12|
-| | MySQL |1.78 GB| [:arrow_right: 下载页](./modules/middleware/mysql.md) |2025-03-11|
-| | PostgreSQL |1.84 GB| [:arrow_right: 下载页](./modules/middleware/postgresql.md) |2024-12-12|
-| | RabbitMQ |306.27 MB| [:arrow_right: 下载页](./modules/middleware/rabbitmq.md) |2025-02-07|
-| | Redis |732.52 MB| [:arrow_right: 下载页](./modules/middleware/redis.md) |2025-03-11|
-| | RocketMQ |600.97 MB| [:arrow_right: 下载页](./modules/middleware/rocketmq.md) |2025-03-11|
+| 中间件 | Elasticsearch |1.96 GB| [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) |2025-05-13|
+| | Kafka |1.07 GB| [:arrow_right: 下载页](./modules/middleware/kafka.md) |2025-05-13|
+| | MinIO |181.39 MB| [:arrow_right: 下载页](./modules/middleware/minio.md) |2025-05-13|
+| | MongoDB |383.70 MB| [:arrow_right: 下载页](./modules/middleware/mongodb.md) |2025-05-13|
+| | MySQL |1.86 GB| [:arrow_right: 下载页](./modules/middleware/mysql.md) |2025-05-13|
+| | PostgreSQL |1.28 GB| [:arrow_right: 下载页](./modules/middleware/postgresql.md) |2025-05-13|
+| | RabbitMQ |306.52 MB| [:arrow_right: 下载页](./modules/middleware/rabbitmq.md) |2025-05-13|
+| | Redis |732.78 MB| [:arrow_right: 下载页](./modules/middleware/redis.md) |2025-05-13|
+| | RocketMQ |697.28 MB| [:arrow_right: 下载页](./modules/middleware/rocketmq.md) |2025-05-13|
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2024-11-28 |
 | 管理 | 全局管理 | 458.30 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2025-05-08 |
 | | 运营管理 | 96.41 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2024-12-02 |
