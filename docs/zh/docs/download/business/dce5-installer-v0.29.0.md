@@ -78,22 +78,24 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 
 | 模块 | 介绍 | 最新动态 |
 | ---- | --- | ------ |
-| 全局管理 | 负责用户访问控制、权限、工作空间与层级、审计日志、个性化外观设置等 | [](../../ghippo/intro/release-notes.md#) |
-| 容器管理 | 管理集群、节点、工作负载、Helm 应用、CRD、命名空间等 K8s 核心功能 | [](../../kpanda/intro/release-notes.md#) |
-| 可观测性 | 提供丰富的仪表盘、场景监控、数据查询、告警等图文信息 | [](../../insight/intro/release-notes.md#) |
-| 应用工作台 | 基于容器的 DevOps 应用平台，支持 Jenkins, Tekton, GitOps 等流水线作业 | [](../../amamba/intro/release-notes.md#) |
-| 多云编排 | 集中管理多云、混合云、跨云资源的应用编排，具备多云灾备、故障恢复等能力 | [](../../kairship/intro/release-notes.md#) |
-| 微服务引擎 | 提供注册发现、服务治理、配置管理、微服务网关等治理能力 | [](../../skoala/intro/release-notes.md#) |
-| 服务网格 | 基于 Istio 开源技术构建的面向云原生应用的下一代服务网格 | [](../../mspider/intro/release-notes.md#) |
-| 中间件 Elasticsearch | 目前首选的全文搜索引擎 | [](../../middleware/elasticsearch/release-notes.md#) |
-| 中间件 Kafka | 基于开源软件 Kafka 提供的分布式消息队列服务 | [](../../middleware/kafka/release-notes.md#) |
-| 中间件 MinIO | 一款非常热门的轻量、开源对象存储方案 | [](../../middleware/minio/release-notes.md#) |
-| 中间件 MySQL | 应用最广泛的开源关系数据库 | [](../../middleware/mysql/release-notes.md#) |
-| 中间件 RabbitMQ | 实现了高级消息队列协议 (AMQP) 的开源消息代理软件 | [](../../middleware/rabbitmq/release-notes.md#) |
-| 中间件 Redis | 一款内存数据库缓存服务 | [](../../middleware/redis/release-notes.md#) |
-| 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [](../../kangaroo/intro/release-notes.md) |
-| 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [](../../network/intro/release-notes.md) |
-| 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [](../../storage/hwameistor/release-notes.md) |
+| 全局管理 | 负责用户访问控制、权限、工作空间与层级、审计日志、个性化外观设置等 | [0.36.0](../../ghippo/intro/release-notes.md#0360) |
+| 容器管理 | 管理集群、节点、工作负载、Helm 应用、CRD、命名空间等 K8s 核心功能 | [0.39.0](../../kpanda/intro/release-notes.md#0390) |
+| 可观测性 | 提供丰富的仪表盘、场景监控、数据查询、告警等图文信息 | [0.36.1](../../insight/intro/release-notes.md#0361) |
+| 应用工作台 | 基于容器的 DevOps 应用平台，支持 Jenkins, Tekton, GitOps 等流水线作业 | [0.36.0](../../amamba/intro/release-notes.md#0360) |
+| 多云编排 | 集中管理多云、混合云、跨云资源的应用编排，具备多云灾备、故障恢复等能力 | [0.24.0](../../kairship/intro/release-notes.md#0240) |
+| 微服务引擎 | 提供注册发现、服务治理、配置管理、微服务网关等治理能力 | [0.46.0](../../skoala/intro/release-notes.md#0460) |
+| 服务网格 | 基于 Istio 开源技术构建的面向云原生应用的下一代服务网格 | [v0.35.0](../../mspider/intro/release-notes.md#v0350) |
+| 中间件 Elasticsearch | 目前首选的全文搜索引擎 | [0.24.1](../../middleware/elasticsearch/release-notes.md#0241) |
+| 中间件 Kafka | 基于开源软件 Kafka 提供的分布式消息队列服务 | [0.24.0](../../middleware/kafka/release-notes.md#0240) |
+| 中间件 MinIO | 一款非常热门的轻量、开源对象存储方案 | [0.21.1](../../middleware/minio/release-notes.md#0211) |
+| 中间件 MySQL | 应用最广泛的开源关系数据库 | [0.26.1](../../middleware/mysql/release-notes.md#0261) |
+| 中间件 RabbitMQ | 实现了高级消息队列协议 (AMQP) 的开源消息代理软件 | [0.27.1](../../middleware/rabbitmq/release-notes.md#0271) |
+| 中间件 Redis | 一款内存数据库缓存服务 | [0.27.1](../../middleware/redis/release-notes.md#0271) |
+| 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [0.24.0](../../kangaroo/intro/release-notes.md) |
+| 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [0.16.2](../../network/intro/release-notes.md) |
+| 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v0.16.3](../../storage/hwameistor/release-notes.md) |
+| AI Lab | 整合异构算力，优化 GPU 性能，实现算力资源统一调度和运营 | [v0.16.1](../../baize/intro/release-notes#v0161) |
+| 云边协同 | 将云原生能力延伸至边缘，采用边缘节点模式，将数据处理、业务应用、AI模型等下沉到边缘端执行 | [v0.19.1](../../kant/intro/release-notes#v0191) |
 
 ## 更多
 
