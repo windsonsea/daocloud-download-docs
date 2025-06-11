@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2025-04-07
+date: 2025-06-11
 hide:
   - toc
 ---
@@ -12,6 +12,8 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
+| offline-community-v0.30.0-arm64.tar | v0.30.0 | <font color="green">ARM 64</font> | 12.48 GB | [:arrow_right: Go to Download](./dce5-installer-v0.30.0.md) | 2025-06-09 |
+| offline-community-v0.30.0-amd64.tar | v0.30.0 | AMD 64 | 13.17 GB | [:arrow_right: Go to Download](./dce5-installer-v0.30.0.md) | 2025-06-09 |
 | offline-community-v0.29.0-arm64.tar | v0.29.0 | <font color="green">ARM 64</font> | 9.02 GB | [:arrow_right: Go to Download](./dce5-installer-v0.29.0.md) | 2025-05-14 |
 | offline-community-v0.29.0-amd64.tar | v0.29.0 | AMD 64 | 9.54 GB | [:arrow_right: Go to Download](./dce5-installer-v0.29.0.md) | 2025-05-14 |
 | offline-community-v0.28.0-arm64.tar | v0.28.0 | <font color="green">ARM 64</font> | 9.01 GB | [:arrow_right: Go to Download](./dce5-installer-v0.28.0.md) | 2025-04-11 |
