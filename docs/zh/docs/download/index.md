@@ -39,11 +39,11 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 |--------| ---- | --- | --------- |
-| metax-addon-offline-package-v0.29.0-amd64.tar.gz | v0.29.0 | [:arrow_right: 下载页](./addon/v0.29.0.md) | 2025-05-15 |
-| gpu-addon-offline-package-v0.29.0-arm64.tar.gz | v0.29.0 | [:arrow_right: 下载页](./addon/v0.29.0.md) | 2025-05-15 |
-| gpu-addon-offline-package-v0.29.0-amd64.tar.gz | v0.29.0 | [:arrow_right: 下载页](./addon/v0.29.0.md) | 2025-05-15 |
-| standard-addon-offline-package-v0.29.0-arm64.tar.gz | v0.29.0 | [:arrow_right: 下载页](./addon/v0.29.0.md) | 2025-05-15 |
-| standard-addon-offline-package-v0.29.0-amd64.tar.gz | v0.29.0 | [:arrow_right: 下载页](./addon/v0.29.0.md) | 2025-05-15 |
+| metax-addon-offline-package-v0.30.0-amd64.tar.gz | v0.30.0 | [:arrow_right: 下载页](./addon/v0.30.0.md) | 2025-06-11 |
+| gpu-addon-offline-package-v0.30.0-arm64.tar.gz | v0.30.0 | [:arrow_right: 下载页](./addon/v0.30.0.md) | 2025-06-11 |
+| gpu-addon-offline-package-v0.30.0-amd64.tar.gz | v0.30.0 | [:arrow_right: 下载页](./addon/v0.30.0.md) | 2025-06-11 |
+| standard-addon-offline-package-v0.30.0-arm64.tar.gz | v0.30.0 | [:arrow_right: 下载页](./addon/v0.30.0.md) | 2025-06-11 |
+| standard-addon-offline-package-v0.30.0-amd64.tar.gz | v0.30.0 | [:arrow_right: 下载页](./addon/v0.30.0.md) | 2025-06-11 |
 
 [Addon：更多历史版本](./addon/history.md){ .md-button }
 
