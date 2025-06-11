@@ -94,6 +94,7 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 | 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [v0.16.3](../../network/intro/release-notes.md#v0163) |
 | 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v0.16.3](../../storage/hwameistor/release-notes.md#v0163) |
+| 云边协同 | 将云原生能力延伸至边缘，采用边缘节点模式，将数据处理、业务应用、AI模型等下沉到边缘端执行 | [v0.19.1](../../kant/intro/release-notes#v0191) |
 
 ## 更多
 
