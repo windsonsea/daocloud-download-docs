@@ -2,13 +2,15 @@
 hide:
   - toc
 ---
+
 # 设备管理
 
 本页可下载设备管理各版本的离线安装包。
 
 !!! tip
 
-`topohub` 是设备管理的内部开发代号。
+    `topohub` 是设备管理的内部开发代号。
+
 ## 下载
 
 
@@ -23,11 +25,13 @@ hide:
 ```sh
 echo "$(cat topohub_v0.2.0_amd64_checksum.sha512sum)" | sha512sum -c
 ```
+
 校验成功后打印结果类似于：
 
 ```none
 topohub_v0.2.0_amd64.tar: ok
 ```
+
 ## 安装
 
 参阅[离线升级设备管理模块](../../topohub/intro/offline-upgrade.md)进行安装。
