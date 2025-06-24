@@ -2,13 +2,15 @@
 hide:
   - toc
 ---
+
 # Device Management
 
 This page provides offline packages for different versions of the device management module.
 
 !!! tip
 
-`topohub` is the internal dev code for device management.
+    `topohub` is the internal dev code for device management.
+
 ## Download
 
 
