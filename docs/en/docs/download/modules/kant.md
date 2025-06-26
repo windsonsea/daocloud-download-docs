@@ -17,6 +17,7 @@ This page provides offline packages for different versions of the Cloud Edge Col
 ## Download Edge Components
 
 These edge component offline pacakges are used when joinning edge nodes.
+
 - keadm_init.sh: This shell script used to initialize the offline environment, decompress the offline package and copy the decompressed files to the specified working directory.
 - keadm_{arch}.tar.gz: This tar.gz package contains the KubeEdge installation tool keadm, which is used to install EdgeCore on edge nodes.
 - keadm_containerd_{arch}.tar.gz: This tar.gz package contains the KubeEdge installation tool keadm and the default version of Containerd, which is used to install EdgeCore on edge nodes with default container runtime.
@@ -24,8 +25,7 @@ These edge component offline pacakges are used when joinning edge nodes.
 
 | Package | Architecture | Size | Checksum | Date |
 | ------------- | ----- | --------- | ------------- | ----------- |
-| [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | AMD 64 | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
-| [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | <font color="green">ARM 64</font> | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
+| [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | AMD 64 / <font color="green">ARM 64</font> | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_amd64.tar.gz) | AMD 64 | 31.40 MB | [:arrow_down: keadm_amd64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_amd64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_arm64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_arm64.tar.gz) | <font color="green">ARM 64</font> | 55.78 MB | [:arrow_down: keadm_arm64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_arm64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_containerd_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_amd64.tar.gz) | AMD 64 | 158.69 MB | [:arrow_down: keadm_containerd_amd64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_amd64.tar.gz_checksum.sha512sum) | 2025-06-23 |

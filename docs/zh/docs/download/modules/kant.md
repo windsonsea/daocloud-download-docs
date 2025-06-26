@@ -14,6 +14,7 @@ hide:
 ## 下载边端组件
 
 这些边端组件离线包在接入边缘节点时使用。
+
 - keadm_init.sh：用于初始化离线环境的Shell脚本，将离线包解压并将解压后的文件拷贝到指定工作目录；
 - keadm_{arch}.tar.gz：KubeEdge安装工具keadm的压缩包；
 - keadm_containerd_{arch}.tar.gz KubeEdge安装工具keadm的压缩包，并且包含了默认版本的Containerd安装包，可用于初始化默认容器运行时；
@@ -21,8 +22,7 @@ hide:
 
 | 安装包 | 架构 | 文件大小 | 校验文件 | 更新日期 |
 | ------- | ---- | --------- | -------- | --------- |
-| [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | AMD 64 | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
-| [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | <font color="green">ARM 64</font> | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
+| [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | AMD 64 / <font color="green">ARM 64</font> | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_amd64.tar.gz) | AMD 64 | 31.40 MB | [:arrow_down: keadm_amd64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_amd64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_arm64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_arm64.tar.gz) | <font color="green">ARM 64</font> | 55.78 MB | [:arrow_down: keadm_arm64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_arm64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_containerd_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_amd64.tar.gz) | AMD 64 | 158.69 MB | [:arrow_down: keadm_containerd_amd64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_amd64.tar.gz_checksum.sha512sum) | 2025-06-23 |
