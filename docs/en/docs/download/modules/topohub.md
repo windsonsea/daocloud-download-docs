@@ -16,6 +16,7 @@ This page provides offline packages for different versions of the device managem
 
 | Version  | Architecture | Size | Package | Checksum | Date |
 | ---- | ---- | -------- | ------ | -------- | -------- |
+| [v0.3.0](../../topohub/intro/release-notes.md) | AMD64 | 47.89 MB | [:arrow_down: topohub_v0.3.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/topohub_v0.3.0_amd64.tar) | [:arrow_down: topohub_v0.3.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/topohub_v0.3.0_amd64_checksum.sha512sum) | 2025-06-27 |
 | [v0.2.0](../../topohub/intro/release-notes.md) | AMD64 | 47.89 MB | [:arrow_down: topohub_v0.2.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/topohub_v0.2.0_amd64.tar) | [:arrow_down: topohub_v0.2.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/topohub_v0.2.0_amd64_checksum.sha512sum) | 2025-06-17 |
 
 ## Verification
