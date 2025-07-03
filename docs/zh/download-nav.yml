@@ -37,3 +37,4 @@ nav:
               - 全局&运营管理:
                   - 全局管理: download/modules/ghippo.md
                   - 运营管理: download/modules/gmagpie.md
+                  - 设备管理: download/modules/topohub.md
