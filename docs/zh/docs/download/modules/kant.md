@@ -15,10 +15,9 @@ hide:
 
 这些边端组件离线包在接入边缘节点时使用。
 
-- keadm_init.sh：用于初始化离线环境的Shell脚本，将离线包解压并将解压后的文件拷贝到指定工作目录；
-- keadm_{arch}.tar.gz：KubeEdge安装工具keadm的压缩包；
-- keadm_containerd_{arch}.tar.gz KubeEdge安装工具keadm的压缩包，并且包含了默认版本的Containerd安装包，可用于初始化默认容器运行时；
-
+- `keadm_init.sh`：用于初始化离线环境的 Shell 脚本，将离线包解压并将解压后的文件拷贝到指定工作目录
+- `keadm_{arch}.tar.gz`：KubeEdge 安装工具 keadm 的压缩包
+- `keadm_containerd_{arch}.tar.gz`：KubeEdge 安装工具 keadm 的压缩包，并且包含了默认版本的 containerd 安装包，可用于初始化默认容器运行时
 
 | 安装包 | 架构 | 文件大小 | 校验文件 | 更新日期 |
 | ------- | ---- | --------- | -------- | --------- |
@@ -28,14 +27,12 @@ hide:
 | [:arrow_down: keadm_containerd_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_amd64.tar.gz) | AMD 64 | 158.69 MB | [:arrow_down: keadm_containerd_amd64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_amd64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_containerd_arm64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_arm64.tar.gz) | <font color="green">ARM 64</font> | 163.86 MB | [:arrow_down: keadm_containerd_arm64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_containerd_arm64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 
-
 ## 下载云端组件
 
 | 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
 | ----- | --- | --------- | -------- | -------- | --------- |
 | [0.20.0](../../kant/intro/release-notes.md) | AMD 64 | 168.19 MB | [:arrow_down: kant_v0.20.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_amd64.tar) | [:arrow_down: kant_v0.20.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_amd64_checksum.sha512sum) | 2025-06-23 |
 | [0.20.0](../../kant/intro/release-notes.md) | <font color="green">ARM 64</font> | 160.84 MB | [:arrow_down: kant_v0.20.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_arm64.tar) | [:arrow_down: kant_v0.20.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_arm64_checksum.sha512sum) | 2025-06-23 |
-
 
 ??? note "展开查看历史版本"
 
@@ -60,7 +57,6 @@ hide:
     | [0.16.1](../../kant/intro/release-notes.md) | AMD 64 | 15 MB | [:arrow_down: kantadm_v0.16.1_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kantadm_v0.16.1_amd64.tar.gz) | [:arrow_down: kantadm_v0.16.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kantadm_v0.16.1_amd64_checksum.sha512sum) | 2024-11-04 | 边端 amd 安装包 |
     | [0.16.1](../../kant/intro/release-notes.md) | <font color="green">ARM 64</font> | 13 MB | [:arrow_down: kantadm_v0.16.1_arm64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kantadm_v0.16.1_arm64.tar.gz) | [:arrow_down: kantadm_v0.16.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kantadm_v0.16.1_arm64_checksum.sha512sum) | 2024-11-04 | 边端 arm64 安装包 |
     | [0.16.1](../../kant/intro/release-notes.md) | <font color="green">ARM 32</font> | 14 MB | [:arrow_down: kantadm_v0.16.1_arm.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kantadm_v0.16.1_arm.tar.gz) | [:arrow_down: kantadm_v0.16.1_arm_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kantadm_v0.16.1_arm_checksum.sha512sum) | 2024-11-04 | 边端 arm 安装包 |
-
 
 ## 校验
 
