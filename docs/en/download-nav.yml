@@ -37,3 +37,4 @@ nav:
               - Management:
                   - Global Management: download/modules/ghippo.md
                   - Operation Management: download/modules/gmagpie.md
+                  - Device Management: download/modules/topohub.md
