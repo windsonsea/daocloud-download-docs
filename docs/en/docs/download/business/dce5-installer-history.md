@@ -16,6 +16,11 @@ You can choose and download the one you need.
 | offline-v0.31.0-amd64.tar | v0.31.0 | AMD 64 | 32.95 GB | [:arrow_right: Go to Download](./dce5-installer-v0.31.0.md) | 2025-07-07 |
 | offline-v0.30.0-arm64.tar | v0.30.0 | <font color="green">ARM 64</font> | 29.44 GB | [:arrow_right: Go to Download](./dce5-installer-v0.30.0.md) | 2025-06-09 |
 | offline-v0.30.0-amd64.tar | v0.30.0 | AMD 64 | 32.43 GB | [:arrow_right: Go to Download](./dce5-installer-v0.30.0.md) | 2025-06-09 |
+
+<details>
+<summary>Click to view history releases</summary>
+| Filename | Version | Architecture | Size | Download | Date |
+| -------- | ------- | ------------ | ---- | -------- | ---- |
 | offline-v0.29.0-arm64.tar | v0.29.0 | <font color="green">ARM 64</font> | 26.79 GB | [:arrow_right: Go to Download](./dce5-installer-v0.29.0.md) | 2025-05-14 |
 | offline-v0.29.0-amd64.tar | v0.29.0 | AMD 64 | 30.06 GB | [:arrow_right: Go to Download](./dce5-installer-v0.29.0.md) | 2025-05-14 |
 | offline-v0.28.0-arm64.tar | v0.28.0 | <font color="green">ARM 64</font> | 26.01 GB | [:arrow_right: Go to Download](./dce5-installer-v0.28.0.md) | 2025-04-11 |
@@ -74,5 +79,6 @@ You can choose and download the one you need.
 | offline-v0.6.0-amd64.tar | v0.6.0 | AMD 64 | 16.36 GB | [:arrow_right: Go to Download](./dce5-installer-v0.6.0.md) | 2023-04-07 |
 | offline-v0.5.0-arm64.tar | v0.5.0 | <font color="green">ARM 64</font> | 14.56 GB | [:arrow_right: Go to Download](./dce5-installer-v0.5.0.md) | 2023-03-06 |
 | offline-v0.5.0-amd64.tar | v0.5.0 | AMD 64 | 15.86 GB | [:arrow_right: Go to Download](./dce5-installer-v0.5.0.md) | 2023-03-06 |
+</details>
 
 Refer to [DCE 5.0 Enterprise Installation](../../install/index.md#install-dce-50-enterprise).

@@ -13,6 +13,11 @@ hide:
 | --- | --- | -------- | ----- | ------ | ------- |
 | [v0.16.2](../../../middleware/mongodb/release-notes.md) | <font color=green>ARM 64</font> | 359.88 MB | [:arrow_down: mongodb_0.16.2_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.2_arm64.tar) | [:arrow_down: mongodb_0.16.2_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.2_arm64_checksum.sha512sum) | 2025-05-13 |
 | [v0.16.2](../../../middleware/mongodb/release-notes.md) | AMD 64 | 383.70 MB | [:arrow_down: mongodb_0.16.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.2_amd64.tar) | [:arrow_down: mongodb_0.16.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.2_amd64_checksum.sha512sum) | 2025-05-13 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| --- | --- | -------- | ----- | ------ | ------- |
 | [v0.16.0](../../../middleware/mongodb/release-notes.md) | <font color=green>ARM 64</font> | 353.76 MB | [:arrow_down: mongodb_0.16.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.0_arm64.tar) | [:arrow_down: mongodb_0.16.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.0_arm64_checksum.sha512sum) | 2024-12-12 |
 | [v0.16.0](../../../middleware/mongodb/release-notes.md) | AMD 64 | 376.88 MB | [:arrow_down: mongodb_0.16.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.0_amd64.tar) | [:arrow_down: mongodb_0.16.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.16.0_amd64_checksum.sha512sum) | 2024-12-12 |
 | [v0.15.0](../../../middleware/mongodb/release-notes.md) | <font color=green>ARM 64</font> | 353.75 MB | [:arrow_down: mongodb_0.15.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.15.0_arm64.tar) | [:arrow_down: mongodb_0.15.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.15.0_arm64_checksum.sha512sum) | 2024-11-05 |
@@ -36,6 +41,7 @@ hide:
 | [v0.5.0](../../../middleware/mongodb/release-notes.md) | AMD 64 | 144.09 MB | [:arrow_down: mongodb_0.5.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.5.0_amd64.tar) | [:arrow_down: mongodb_0.5.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.5.0_amd64_checksum.sha512sum) | 2023-12-10 |
 | [v0.4.0](../../../middleware/mongodb/release-notes.md) | AMD 64 | 73.37 MB | [:arrow_down: mongodb_0.4.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.4.0_amd64.tar) | [:arrow_down: mongodb_0.4.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.4.0_amd64_checksum.sha512sum) | 2023-11-02 |
 | [v0.3.1](../../../middleware/mongodb/release-notes.md) | AMD 64 | 72.96 MB | [:arrow_down: mongodb_0.3.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.3.1_amd64.tar) | [:arrow_down: mongodb_0.3.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mongodb_0.3.1_amd64_checksum.sha512sum) | 2023-10-20 |
+</details>
 
 ## 校验
 

@@ -14,6 +14,11 @@ hide:
 | [v0.26.2](../../../middleware/mysql/release-notes.md) | AMD 64 | 1.86 GB | [:arrow_down: mysql_0.26.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.26.2_amd64.tar) | [:arrow_down: mysql_0.26.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.26.2_amd64_checksum.sha512sum) | 2025-05-13 |
 | [v0.26.0](../../../middleware/mysql/release-notes.md) | <font color=green>ARM 64</font> | 1.58 GB | [:arrow_down: mysql_0.26.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.26.0_arm64.tar) | [:arrow_down: mysql_0.26.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.26.0_arm64_checksum.sha512sum) | 2025-03-11 |
 | [v0.26.0](../../../middleware/mysql/release-notes.md) | AMD 64 | 1.78 GB | [:arrow_down: mysql_0.26.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.26.0_amd64.tar) | [:arrow_down: mysql_0.26.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.26.0_amd64_checksum.sha512sum) | 2025-03-11 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| --- | ---- | ------ | ------ | ------ | ------- |
 | [v0.25.1](../../../middleware/mysql/release-notes.md) | <font color=green>ARM 64</font> | 1.57 GB | [:arrow_down: mysql_0.25.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.25.1_arm64.tar) | [:arrow_down: mysql_0.25.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.25.1_arm64_checksum.sha512sum) | 2025-01-07 |
 | [v0.25.1](../../../middleware/mysql/release-notes.md) | AMD 64 | 1.77 GB | [:arrow_down: mysql_0.25.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.25.1_amd64.tar) | [:arrow_down: mysql_0.25.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.25.1_amd64_checksum.sha512sum) | 2025-01-07 |
 | [v0.25.0](../../../middleware/mysql/release-notes.md) | <font color=green>ARM 64</font> | 1.57 GB | [:arrow_down: mysql_0.25.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.25.0_arm64.tar) | [:arrow_down: mysql_0.25.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.25.0_arm64_checksum.sha512sum) | 2025-01-02 |
@@ -41,6 +46,7 @@ hide:
 | [v0.13.0](../../../middleware/mysql/release-notes.md) | AMD 64 | 1.17 GB | [:arrow_down: mysql_0.13.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.13.0_amd64.tar) | [:arrow_down: mysql_0.13.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.13.0_amd64_checksum.sha512sum) | 2023-12-10 |
 | [v0.12.0](../../../middleware/mysql/release-notes.md) | AMD 64 | 1.17 GB | [:arrow_down: mysql_0.12.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.12.0_amd64.tar) | [:arrow_down: mysql_0.12.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.12.0_amd64_checksum.sha512sum) | 2023-11-02 |
 | [v0.11.1](../../../middleware/mysql/release-notes.md) | AMD 64 | 1.17 GB | [:arrow_down: mysql_0.11.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.11.1_amd64.tar) | [:arrow_down: mysql_0.11.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-mysql_0.11.1_amd64_checksum.sha512sum) | 2023-10-20 |
+</details>
 
 ## 校验
 

@@ -14,6 +14,9 @@ hide:
 | [v0.23.0](../../kairship/intro/release-notes.md) | AMD 64 | 667.06 MB | [:arrow_down: kairship_v0.23.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.23.0_amd64.tar) | [:arrow_down: kairship_v0.23.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.23.0_amd64_checksum.sha512sum) | 2024-10-09 |
 | [v0.22.0](../../kairship/intro/release-notes.md) | AMD 64 | 664.83 MB | [:arrow_down: kairship_v0.22.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.22.0_amd64.tar) | [:arrow_down: kairship_v0.22.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.22.0_amd64_checksum.sha512sum) | 2024-09-02 |
 | [v0.20.0](../../kairship/intro/release-notes.md) | AMD 64 | 663.57 MB | [:arrow_down: kairship_v0.20.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.20.0_amd64.tar) | [:arrow_down: kairship_v0.20.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.20.0_amd64_checksum.sha512sum) | 2024-06-28 |
+
+<details>
+<summary>点击查看历史版本</summary>
 | [v0.18.0](../../kairship/intro/release-notes.md) | AMD 64 | 583.51 MB | [:arrow_down: kairship_v0.18.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.18.0_amd64.tar) | [:arrow_down: kairship_v0.18.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.18.0_amd64_checksum.sha512sum) | 2024-04-24 |
 | [v0.15.0](../../kairship/intro/release-notes.md) | AMD 64 | 524.68 MB | [:arrow_down: kairship_v0.15.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.15.0_amd64.tar) | [:arrow_down: kairship_v0.15.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.15.0_amd64_checksum.sha512sum) | 2024-01-02 |
 | [v0.14.0](../../kairship/intro/release-notes.md) | AMD 64 | 524.58 MB | [:arrow_down: kairship_v0.14.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.14.0_amd64.tar) | [:arrow_down: kairship_v0.14.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.14.0_amd64_checksum.sha512sum) | 2023-12-01 |
@@ -21,6 +24,7 @@ hide:
 | [v0.13.0](../../kairship/intro/release-notes.md) | AMD 64 | 527.09 MB | [:arrow_down: kairship_v0.13.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.13.0_amd64.tar) | [:arrow_down: kairship_v0.13.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.13.0_amd64_checksum.sha512sum) | 2023-10-26 |
 | [v0.12.0](../../kairship/intro/release-notes.md) | AMD 64 | 525.11 MB | [:arrow_down: kairship_v0.12.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.12.0_amd64.tar) | [:arrow_down: kairship_v0.12.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.12.0_amd64_checksum.sha512sum) | 2023-09-01 |
 | [v0.11.0](../../kairship/intro/release-notes.md) | AMD64 | 486 MB | [:arrow_down: kairship_v0.11.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.4.0_amd64.tar) | [:arrow_down: kairship_v0.11.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kairship_v0.4.0_amd64_checksum.sha512sum) | 2023-7-31 |
+</details>
 
 ## 校验
 

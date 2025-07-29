@@ -15,6 +15,11 @@ hide:
 | [v0.24.0](../../../middleware/kafka/release-notes.md) | AMD 64 | 1.07 GB | [:arrow_down: kafka_0.24.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.24.0_amd64.tar) | [:arrow_down: kafka_0.24.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.24.0_amd64_checksum.sha512sum) | 2025-05-13 |
 | [v0.23.0](../../../middleware/kafka/release-notes.md) | <font color=green>ARM 64</font> | 1.05 GB | [:arrow_down: kafka_0.23.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.23.0_arm64.tar) | [:arrow_down: kafka_0.23.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.23.0_arm64_checksum.sha512sum) | 2025-03-11 |
 | [v0.23.0](../../../middleware/kafka/release-notes.md) | AMD 64 | 1.07 GB | [:arrow_down: kafka_0.23.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.23.0_amd64.tar) | [:arrow_down: kafka_0.23.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.23.0_amd64_checksum.sha512sum) | 2025-03-11 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| ---- | --- | ------ | ----- | ------- | ------- |
 | [v0.22.0](../../../middleware/kafka/release-notes.md) | <font color=green>ARM 64</font> | 1.15 GB | [:arrow_down: kafka_0.22.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.22.0_arm64.tar) | [:arrow_down: kafka_0.22.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.22.0_arm64_checksum.sha512sum) | 2025-02-07 |
 | [v0.22.0](../../../middleware/kafka/release-notes.md) | AMD 64 | 1.16 GB | [:arrow_down: kafka_0.22.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.22.0_amd64.tar) | [:arrow_down: kafka_0.22.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.22.0_amd64_checksum.sha512sum) | 2025-02-07 |
 | [v0.21.0](../../../middleware/kafka/release-notes.md) | <font color=green>ARM 64</font> | 1.41 GB | [:arrow_down: kafka_0.21.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.21.0_arm64.tar) | [:arrow_down: kafka_0.21.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.21.0_arm64_checksum.sha512sum) | 2024-12-12 |
@@ -40,6 +45,7 @@ hide:
 | [v0.10.0](../../../middleware/kafka/release-notes.md) | AMD 64 | 964.64 MB | [:arrow_down: kafka_0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.10.0_amd64.tar) | [:arrow_down: kafka_0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.10.0_amd64_checksum.sha512sum) | 2023-12-10 |
 | [v0.9.0](../../../middleware/kafka/release-notes.md) | AMD 64 | 957.66 MB | [:arrow_down: kafka_0.9.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.9.0_amd64.tar) | [:arrow_down: kafka_0.9.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.9.0_amd64_checksum.sha512sum) | 2023-11-02 |
 | [v0.8.1](../../../middleware/kafka/release-notes.md) | AMD 64 | 957.22 MB | [:arrow_down: kafka_0.8.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.8.1_amd64.tar) | [:arrow_down: kafka_0.8.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-kafka_0.8.1_amd64_checksum.sha512sum) | 2023-10-20 |
+</details>
 
 ## 校验
 

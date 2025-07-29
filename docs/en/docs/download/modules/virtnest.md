@@ -17,6 +17,11 @@ On this page, you can download the offline packages for different versions of th
 | [v0.18.1](../../virtnest/intro/release-notes.md) | AMD 64 | 1.43 GB | [:arrow_down: virtnest_v0.18.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.18.1_amd64.tar) | [:arrow_down: virtnest_v0.18.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.18.1_amd64_checksum.sha512sum) | 2025-07-01 |
 | [v0.18.0](../../virtnest/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.42 GB | [:arrow_down: virtnest_v0.18.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.18.0_arm64.tar) | [:arrow_down: virtnest_v0.18.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.18.0_arm64_checksum.sha512sum) | 2025-07-01 |
 | [v0.18.0](../../virtnest/intro/release-notes.md) | AMD 64 | 1.43 GB | [:arrow_down: virtnest_v0.18.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.18.0_amd64.tar) | [:arrow_down: virtnest_v0.18.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.18.0_amd64_checksum.sha512sum) | 2025-07-01 |
+
+<details>
+<summary>Click to view history releases</summary>
+| Version  | Architecture | Size | Package | Checksum | Date |
+|----------|--------------|------|---------|----------|------|
 | [v0.17.0](../../virtnest/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.42 GB | [:arrow_down: virtnest_v0.17.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.17.0_arm64.tar) | [:arrow_down: virtnest_v0.17.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.17.0_arm64_checksum.sha512sum) | 2025-05-06 |
 | [v0.17.0](../../virtnest/intro/release-notes.md) | AMD 64 | 1.43 GB | [:arrow_down: virtnest_v0.17.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.17.0_amd64.tar) | [:arrow_down: virtnest_v0.17.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.17.0_amd64_checksum.sha512sum) | 2025-05-06 |
 | [v0.16.0](../../virtnest/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.42 GB | [:arrow_down: virtnest_v0.16.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.16.0_arm64.tar) | [:arrow_down: virtnest_v0.16.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.16.0_arm64_checksum.sha512sum) | 2025-02-28 |
@@ -46,6 +51,7 @@ On this page, you can download the offline packages for different versions of th
 | [v0.5.0](../../virtnest/intro/release-notes.md) | AMD 64 | 1.43 GB | [:arrow_down: virtnest_v0.5.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.5.0_amd64.tar) | [:arrow_down: virtnest_v0.5.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.5.0_amd64_checksum.sha512sum) | 2024-01-04 |
 | [v0.4.0](../../virtnest/intro/release-notes.md) | AMD 64 | 1.43 GB | [:arrow_down: virtnest_v0.4.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.4.0_amd64.tar) | [:arrow_down: virtnest_v0.4.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.4.0_amd64_checksum.sha512sum) | 2023-11-30 |
 | [v0.3.0](../../virtnest/intro/release-notes.md) | AMD 64 | 1.45 GB | [:arrow_down: virtnest_v0.3.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.3.0_amd64.tar) | [:arrow_down: virtnest_v0.3.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/virtnest_v0.3.0_amd64_checksum.sha512sum) | 2023-11-06 |
+</details>
 
 ## Verification
 

@@ -12,9 +12,14 @@ This page provides downloadable offline packages for various versions of Redis.
 ## Download
 
 | Version | Architecture | Size | Package   | Checksum | Date |
-| ------ | ------------ | --------- | ---------- | ------------ | ------------ |
+| ------ | ------------ | ----- | --------- | -------- | ---- |
 | [v0.27.1](../../../middleware/redis/release-notes.md) | <font color=green>ARM 64</font> | 708.76 MB | [:arrow_down: redis_0.27.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.1_arm64.tar) | [:arrow_down: redis_0.27.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.1_arm64_checksum.sha512sum) | 2025-05-13 |
 | [v0.27.1](../../../middleware/redis/release-notes.md) | AMD 64 | 732.78 MB | [:arrow_down: redis_0.27.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.1_amd64.tar) | [:arrow_down: redis_0.27.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.1_amd64_checksum.sha512sum) | 2025-05-13 |
+
+<details>
+<summary>Click to view history releases</summary>
+| Version | Architecture | Size | Package   | Checksum | Date |
+| ------ | ------------ | ----- | --------- | -------- | ---- |
 | [v0.27.0](../../../middleware/redis/release-notes.md) | <font color=green>ARM 64</font> | 708.54 MB | [:arrow_down: redis_0.27.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.0_arm64.tar) | [:arrow_down: redis_0.27.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.0_arm64_checksum.sha512sum) | 2025-03-11 |
 | [v0.27.0](../../../middleware/redis/release-notes.md) | AMD 64 | 732.52 MB | [:arrow_down: redis_0.27.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.0_amd64.tar) | [:arrow_down: redis_0.27.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.27.0_amd64_checksum.sha512sum) | 2025-03-11 |
 | [v0.26.0](../../../middleware/redis/release-notes.md) | <font color=green>ARM 64</font> | 720.37 MB | [:arrow_down: redis_0.26.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.26.0_arm64.tar) | [:arrow_down: redis_0.26.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.26.0_arm64_checksum.sha512sum) | 2025-02-07 |
@@ -44,6 +49,7 @@ This page provides downloadable offline packages for various versions of Redis.
 | [v0.13.0](../../../middleware/redis/release-notes.md) | AMD 64 | 534.33 MB | [:arrow_down: redis_0.13.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.13.0_amd64.tar) | [:arrow_down: redis_0.13.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.13.0_amd64_checksum.sha512sum) | 2023-12-10 |
 | [v0.12.0](../../../middleware/redis/release-notes.md) | AMD 64 | 531.92 MB | [:arrow_down: redis_0.12.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.12.0_amd64.tar) | [:arrow_down: redis_0.12.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.12.0_amd64_checksum.sha512sum) | 2023-11-08 |
 | [v0.11.1](../../../middleware/redis/release-notes.md) | AMD 64 | 537.81 MB | [:arrow_down: redis_0.11.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.11.1_amd64.tar) | [:arrow_down: redis_0.11.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-redis_0.11.1_amd64_checksum.sha512sum) | 2023-10-20 |
+</details>
 
 ## Verification
 

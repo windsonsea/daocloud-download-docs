@@ -13,6 +13,11 @@ hide:
 | ---- | --- | ------ | ------ | ------ | ------- |
 | [v0.21.1](../../../middleware/minio/release-notes.md) | <font color=green>ARM 64</font> | 170.42 MB | [:arrow_down: minio_0.21.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.1_arm64.tar) | [:arrow_down: minio_0.21.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.1_arm64_checksum.sha512sum) | 2025-05-13 |
 | [v0.21.1](../../../middleware/minio/release-notes.md) | AMD 64 | 181.39 MB | [:arrow_down: minio_0.21.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.1_amd64.tar) | [:arrow_down: minio_0.21.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.1_amd64_checksum.sha512sum) | 2025-05-13 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| ---- | --- | ------ | ------ | ------ | ------- |
 | [v0.21.0](../../../middleware/minio/release-notes.md) | <font color=green>ARM 64</font> | 222.45 MB | [:arrow_down: minio_0.21.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.0_arm64.tar) | [:arrow_down: minio_0.21.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.0_arm64_checksum.sha512sum) | 2024-12-12 |
 | [v0.21.0](../../../middleware/minio/release-notes.md) | AMD 64 | 233.30 MB | [:arrow_down: minio_0.21.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.0_amd64.tar) | [:arrow_down: minio_0.21.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.21.0_amd64_checksum.sha512sum) | 2024-12-12 |
 | [v0.20.0](../../../middleware/minio/release-notes.md) | <font color=green>ARM 64</font> | 222.56 MB | [:arrow_down: minio_0.20.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.20.0_arm64.tar) | [:arrow_down: minio_0.20.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.20.0_arm64_checksum.sha512sum) | 2024-11-05 |
@@ -36,6 +41,7 @@ hide:
 | [v0.10.0](../../../middleware/minio/release-notes.md) | AMD 64 | 256.16 MB | [:arrow_down: minio_0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.10.0_amd64.tar) | [:arrow_down: minio_0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.10.0_amd64_checksum.sha512sum) | 2023-12-10 |
 | [v0.9.0](../../../middleware/minio/release-notes.md) | AMD 64 | 253.79 MB | [:arrow_down: minio_0.9.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.9.0_amd64.tar) | [:arrow_down: minio_0.9.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.9.0_amd64_checksum.sha512sum) | 2023-11-02 |
 | [v0.8.1](../../../middleware/minio/release-notes.md) | AMD 64 | 219.92 MB | [:arrow_down: minio_0.8.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.8.1_amd64.tar) | [:arrow_down: minio_0.8.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-minio_0.8.1_amd64_checksum.sha512sum) | 2023-10-20 |
+</details>
 
 ## 校验
 

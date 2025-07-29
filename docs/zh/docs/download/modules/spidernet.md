@@ -13,6 +13,11 @@ hide:
 | ---- | ----- | ------ | ------ | ------ | ------- |
 | [v0.16.3](../../spidernet/intro/release-notes.md) | AMD 64 | 63.76 MB | [:arrow_down: spidernet_v0.16.3_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.3_amd64.tar) | [:arrow_down: spidernet_v0.16.3_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.3_amd64_checksum.sha512sum) | 2025-06-27 |
 | [v0.16.3](../../spidernet/intro/release-notes.md) | AMD 64 | 63.76 MB | [:arrow_down: spidernet_v0.16.3_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.3_amd64.tar) | [:arrow_down: spidernet_v0.16.3_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.3_amd64_checksum.sha512sum) | 2025-04-29 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 |  架构  | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| ---- | ----- | ------ | ------ | ------ | ------- |
 | [v0.16.2](../../network/intro/release-notes.md) | AMD 64 | 63.76 MB | [:arrow_down: spidernet_v0.16.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.2_amd64.tar) | [:arrow_down: spidernet_v0.16.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.2_amd64_checksum.sha512sum) | 2024-11-28 |
 | [v0.16.1](../../network/intro/release-notes.md) | AMD 64 | 63.76 MB | [:arrow_down: spidernet_v0.16.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.1_amd64.tar) | [:arrow_down: spidernet_v0.16.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.1_amd64_checksum.sha512sum) | 2024-10-29 |
 | [v0.16.0](../../network/intro/release-notes.md) | AMD 64 | 63.76 MB | [:arrow_down: spidernet_v0.16.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.0_amd64.tar) | [:arrow_down: spidernet_v0.16.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.0_amd64_checksum.sha512sum) | 2024-09-26 |
@@ -22,6 +27,7 @@ hide:
 | [v0.12.0](../../network/intro/release-notes.md) | AMD 64 | 64.03 MB | [:arrow_down: spidernet_v0.12.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.12.0_amd64.tar) | [:arrow_down: spidernet_v0.12.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.12.0_amd64_checksum.sha512sum) | 2023-12-26 |
 | [v0.6.0](../../network/intro/release-notes.md) | AMD64 | 55.47 MB | [:arrow_down: spidernet_v0.6.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.6.0_amd64.tar) | [:arrow_down: spidernet_v0.6.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.6.0_amd64_checksum.sha512sum) | 2023-04-26 |
 | [v0.5.0](../../network/intro/release-notes.md) | AMD64 | 51.68 MB | [:arrow_down: spidernet_v0.5.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.5.0_amd64.tar) | [:arrow_down: spidernet_v0.5.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.5.0_amd64_checksum.sha512sum) | 2023-04-25 |
+</details>
 
 ## 校验
 

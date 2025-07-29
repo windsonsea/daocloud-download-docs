@@ -15,6 +15,11 @@ hide:
 | [v0.35.2](../../mspider/intro/release-notes.md) | AMD 64 | 1.14 GB | [:arrow_down: mspider_v0.35.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.2_amd64.tar) | [:arrow_down: mspider_v0.35.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.2_amd64_checksum.sha512sum) | 2025-06-30 |
 | [v0.35.1](../../mspider/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.08 GB | [:arrow_down: mspider_v0.35.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.1_arm64.tar) | [:arrow_down: mspider_v0.35.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.1_arm64_checksum.sha512sum) | 2025-06-30 |
 | [v0.35.1](../../mspider/intro/release-notes.md) | AMD 64 | 1.14 GB | [:arrow_down: mspider_v0.35.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.1_amd64.tar) | [:arrow_down: mspider_v0.35.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.1_amd64_checksum.sha512sum) | 2025-06-30 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| ---- | --- | ------ | ------ | ------ | ------- |
 | [v0.35.0](../../mspider/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.08 GB | [:arrow_down: mspider_v0.35.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_arm64.tar) | [:arrow_down: mspider_v0.35.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_arm64_checksum.sha512sum) | 2025-05-07 |
 | [v0.35.0](../../mspider/intro/release-notes.md) | AMD 64 | 1.14 GB | [:arrow_down: mspider_v0.35.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_amd64.tar) | [:arrow_down: mspider_v0.35.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.35.0_amd64_checksum.sha512sum) | 2025-05-07 |
 | [v0.34.2](../../mspider/intro/release-notes.md) | <font color="green">ARM 64</font> | 1.13 GB | [:arrow_down: mspider_v0.34.2_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.2_arm64.tar) | [:arrow_down: mspider_v0.34.2_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.34.2_arm64_checksum.sha512sum) | 2025-04-29 |
@@ -58,6 +63,7 @@ hide:
 | [v0.20.0](../../mspider/intro/release-notes.md) | AMD 64 | 949.40 MB | [:arrow_down: mspider_v0.20.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.20.0_amd64.tar) | [:arrow_down: mspider_v0.20.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.20.0_amd64_checksum.sha512sum) | 2023-10-12 |
 | [v0.19.0](../../mspider/intro/release-notes.md) | AMD 64 | 866.88 MB | [:arrow_down: mspider_v0.19.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.19.0_amd64.tar) | [:arrow_down: mspider_v0.19.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.19.0_amd64_checksum.sha512sum) | 2023-08-31 |
 | [v0.18.0](../../mspider/intro/release-notes.md) | AMD64 | 2.41 GB | [:arrow_down: mspider_v0.18.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.18.0_x86_64.tar) | [:arrow_down: mspider_v0.18.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mspider_v0.18.0_x86_64_checksum.sha512sum) | 2023-08-23 |
+</details>
 
 ## 校验
 
