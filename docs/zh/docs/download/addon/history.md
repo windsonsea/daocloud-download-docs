@@ -15,6 +15,11 @@ hide:
 | gpu-addon-offline-package-v0.31.0-amd64.tar.gz | v0.31.0 | AMD 64 | 17.40 GB | [:arrow_right: 下载页](./v0.31.0.md) | 2025-07-10 |
 | standard-addon-offline-package-v0.31.0-arm64.tar.gz | v0.31.0 | <font color="green">ARM 64</font> | 19.76 GB | [:arrow_right: 下载页](./v0.31.0.md) | 2025-07-10 |
 | standard-addon-offline-package-v0.31.0-amd64.tar.gz | v0.31.0 | AMD 64 | 29.72 GB | [:arrow_right: 下载页](./v0.31.0.md) | 2025-07-10 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
+| ------- | --- | ---- | ------ | --- | ------- |
 | metax-addon-offline-package-v0.30.0-amd64.tar.gz | v0.30.0 | AMD 64 | 4.12 GB | [:arrow_right: 下载页](./v0.30.0.md) | 2025-06-11 |
 | gpu-addon-offline-package-v0.30.0-arm64.tar.gz | v0.30.0 | <font color="green">ARM 64</font> | 4.21 GB | [:arrow_right: 下载页](./v0.30.0.md) | 2025-06-11 |
 | gpu-addon-offline-package-v0.30.0-amd64.tar.gz | v0.30.0 | AMD 64 | 13.51 GB | [:arrow_right: 下载页](./v0.30.0.md) | 2025-06-11 |
@@ -82,3 +87,4 @@ hide:
 | addon-offline-full-package-v0.8.0-arm64.tar.gz | v0.8.0 | <font color="green">ARM 64</font> | 13.8 GB | [:arrow_right: 下载页](./v0.8.0.md) | 2023-06-01 |
 | addon-offline-full-package-v0.6.0-amd64.tar.gz | v0.6.0 | AMD 64 | 9.9 GB | [:arrow_right: 下载页](./v0.6.0.md) | 2023-04-14 |
 | addon-offline-full-package-v0.6.0-arm64.tar.gz | v0.6.0 | <font color="green">ARM 64</font> | 5.2 GB | [:arrow_right: 下载页](./v0.6.0.md) | 2023-04-14 |
+</details>

@@ -17,6 +17,11 @@ This page allows you to download the offline packages for different versions of 
 | [v0.12.0](../../gmagpie/intro/release-notes.md) | AMD 64 | 96.60 MB | [:arrow_down: gmagpie_v0.12.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.12.0_amd64.tar) | [:arrow_down: gmagpie_v0.12.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.12.0_amd64_checksum.sha512sum) | 2025-07-01 |
 | [v0.11.0](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 91.05 MB | [:arrow_down: gmagpie_v0.11.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.11.0_arm64.tar) | [:arrow_down: gmagpie_v0.11.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.11.0_arm64_checksum.sha512sum) | 2024-12-02 |
 | [v0.11.0](../../ghippo/intro/release-notes.md) | AMD 64 | 96.46 MB | [:arrow_down: gmagpie_v0.11.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.11.0_amd64.tar) | [:arrow_down: gmagpie_v0.11.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.11.0_amd64_checksum.sha512sum) | 2024-12-02 |
+
+<details>
+<summary>Click to view history releases</summary>
+| Version | Architecture | Size | Package | Checksum | Date |
+| ------- | ------------ | ---- | ------- | -------- | ---- |
 | [v0.10.0](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 91.04 MB | [:arrow_down: gmagpie_v0.10.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.10.0_arm64.tar) | [:arrow_down: gmagpie_v0.10.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.10.0_arm64_checksum.sha512sum) | 2024-09-29 |
 | [v0.10.0](../../ghippo/intro/release-notes.md) | AMD 64 | 96.45 MB | [:arrow_down: gmagpie_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.10.0_amd64.tar) | [:arrow_down: gmagpie_v0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.10.0_amd64_checksum.sha512sum) | 2024-09-29 |
 | [v0.9.0](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 91.04 MB | [:arrow_down: gmagpie_v0.9.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.9.0_arm64.tar) | [:arrow_down: gmagpie_v0.9.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.9.0_arm64_checksum.sha512sum) | 2024-09-02 |
@@ -43,6 +48,7 @@ This page allows you to download the offline packages for different versions of 
 | [v0.3.2](../../ghippo/intro/release-notes.md) | AMD 64 | 91.85 MB | [:arrow_down: gmagpie_v0.3.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.3.2_amd64.tar) | [:arrow_down: gmagpie_v0.3.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.3.2_amd64_checksum.sha512sum) | 2023-08-02 |
 | [v0.3.0](../../ghippo/intro/release-notes.md) | AMD 64 | 56.90 MB | [:arrow_down: gmagpie_v0.3.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.3.0_amd64.tar) | [:arrow_down: gmagpie_v0.3.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.3.0_amd64_checksum.sha512sum) | 2023-06-28 |
 | [v0.2.2](../../ghippo/intro/release-notes.md) | AMD64 | 37.1 MB | [:arrow_down: gmagpie_v0.2.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.2.2_amd64.tar) | [:arrow_down: gmagpie_v0.2.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/gmagpie_v0.2.2_amd64_checksum.sha512sum) | 2023-5-30 |
+</details>
 
 ## Verification
 

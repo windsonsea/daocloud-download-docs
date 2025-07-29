@@ -14,6 +14,11 @@ hide:
 | [v0.12.2](../../kpanda/intro/release-notes.md) | AMD 64 | 86.59 MB | [:arrow_down: kcoral_v0.12.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.12.2_amd64.tar) | [:arrow_down: kcoral_v0.12.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.12.2_amd64_checksum.sha512sum) | 2024-12-03 |
 | [v0.12.1](../../kpanda/intro/release-notes.md) | AMD 64 | 86.59 MB | [:arrow_down: kcoral_v0.12.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.12.1_amd64.tar) | [:arrow_down: kcoral_v0.12.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.12.1_amd64_checksum.sha512sum) | 2024-09-29 |
 | [v0.11.0](../../kpanda/intro/release-notes.md) | AMD 64 | 85.06 MB | [:arrow_down: kcoral_v0.11.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.11.0_amd64.tar) | [:arrow_down: kcoral_v0.11.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.11.0_amd64_checksum.sha512sum) | 2024-06-07 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 |  校验文件 | 更新日期 |
+| ---- | --- | ------ | ------ | ------- | ------- |
 | [v0.10.0](../../kpanda/intro/release-notes.md) | AMD 64 | 85.04 MB | [:arrow_down: kcoral_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.10.0_amd64.tar) | [:arrow_down: kcoral_v0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.10.0_amd64_checksum.sha512sum) | 2024-04-03 |
 | [v0.9.1](../../kpanda/intro/release-notes.md) | AMD 64 | 84.99 MB | [:arrow_down: kcoral_v0.9.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.9.1_amd64.tar) | [:arrow_down: kcoral_v0.9.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.9.1_amd64_checksum.sha512sum) | 2024-01-31 |
 | [v0.8.0](../../kpanda/intro/release-notes.md) | AMD 64 | 84.96 MB | [:arrow_down: kcoral_v0.8.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.8.0_amd64.tar) | [:arrow_down: kcoral_v0.8.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.8.0_amd64_checksum.sha512sum) | 2024-01-02 |
@@ -22,6 +27,7 @@ hide:
 | [v0.6.0](../../kpanda/intro/release-notes.md) | AMD 64 | 59.38 MB | [:arrow_down: kcoral_v0.6.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.6.0_amd64.tar) | [:arrow_down: kcoral_v0.6.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.6.0_amd64_checksum.sha512sum) | 2023-10-26 |
 | [v0.5.0](../../kpanda/intro/release-notes.md) | AMD 64 | 59.30 MB | [:arrow_down: kcoral_v0.5.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.5.0_amd64.tar) | [:arrow_down: kcoral_v0.5.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.5.0_amd64_checksum.sha512sum) | 2023-09-01 |
 | [v0.4.0](../../kpanda/intro/release-notes.md) | AMD64 | 59.29 MB | [:arrow_down: kcoral_v0.4.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.4.0_amd64.tar) | [:arrow_down: kcoral_v0.4.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcoral_v0.4.0_amd64_checksum.sha512sum) | 2023-08-08 |
+</details>
 
 ## 校验
 

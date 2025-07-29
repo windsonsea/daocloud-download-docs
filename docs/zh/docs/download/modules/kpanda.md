@@ -17,6 +17,11 @@ hide:
 | [0.40.1](../../kpanda/intro/release-notes.md) | AMD 64 | 767.67 MB | [:arrow_down: kpanda_0.40.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.40.1_amd64.tar) | [:arrow_down: kpanda_0.40.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.40.1_amd64_checksum.sha512sum) | 2025-06-30 |
 | [0.40.0](../../kpanda/intro/release-notes.md) | <font color="green">ARM 64</font> | 747.64 MB | [:arrow_down: kpanda_0.40.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.40.0_arm64.tar) | [:arrow_down: kpanda_0.40.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.40.0_arm64_checksum.sha512sum) | 2025-06-04 |
 | [0.40.0](../../kpanda/intro/release-notes.md) | AMD 64 | 767.67 MB | [:arrow_down: kpanda_0.40.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.40.0_amd64.tar) | [:arrow_down: kpanda_0.40.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.40.0_amd64_checksum.sha512sum) | 2025-06-04 |
+
+<details>
+<summary>点击查看历史版本</summary>
+| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| ---- | --- | ------ | ------ | ------ | ------- |
 | [0.39.1](../../kpanda/intro/release-notes.md) | <font color="green">ARM 64</font> | 669.62 MB | [:arrow_down: kpanda_0.39.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.1_arm64.tar) | [:arrow_down: kpanda_0.39.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.1_arm64_checksum.sha512sum) | 2025-05-09 |
 | [0.39.1](../../kpanda/intro/release-notes.md) | AMD 64 | 685.96 MB | [:arrow_down: kpanda_0.39.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.1_amd64.tar) | [:arrow_down: kpanda_0.39.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.1_amd64_checksum.sha512sum) | 2025-05-09 |
 | [0.39.0](../../kpanda/intro/release-notes.md) | <font color="green">ARM 64</font> | 669.62 MB | [:arrow_down: kpanda_0.39.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.0_arm64.tar) | [:arrow_down: kpanda_0.39.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.39.0_arm64_checksum.sha512sum) | 2025-05-08 |
@@ -51,6 +56,7 @@ hide:
 | [0.23.0](../../kpanda/intro/release-notes.md) | AMD 64 | 616.29 MB | [:arrow_down: kpanda_0.23.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.23.0_amd64.tar) | [:arrow_down: kpanda_0.23.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.23.0_amd64_checksum.sha512sum) | 2023-12-04 |
 | [0.22.2](../../kpanda/intro/release-notes.md) | AMD 64 | 615.81 MB | [:arrow_down: kpanda_0.22.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.22.2_amd64.tar) | [:arrow_down: kpanda_0.22.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.22.2_amd64_checksum.sha512sum) | 2023-11-14 |
 | [0.21.1](../../kpanda/intro/release-notes.md) | AMD 64 | 716.15 MB | [:arrow_down: kpanda_0.21.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.21.1_amd64.tar) | [:arrow_down: kpanda_0.21.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kpanda_0.21.1_amd64_checksum.sha512sum) | 2023-09-15 |
+</details>
 
 ## 校验
 
