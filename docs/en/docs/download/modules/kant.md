@@ -22,7 +22,7 @@ These edge component offline pacakges are used when joinning edge nodes.
 - `keadm_containerd_{arch}.tar.gz`: This tar.gz package contains the KubeEdge installation tool keadm and the default version of containerd, which is used to install EdgeCore on edge nodes with default container runtime.
 
 | Package | Architecture | Size | Checksum | Date |
-| ------------- | ----- | --------- | ------------- | ----------- |
+| ------- | ----- | --------- | ---------- | ---- |
 | [:arrow_down: keadm_init.sh](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init.sh) | AMD 64 / <font color="green">ARM 64</font> | 2.31 KB | [:arrow_down: keadm_init_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_init_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_amd64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_amd64.tar.gz) | AMD 64 | 31.40 MB | [:arrow_down: keadm_amd64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_amd64.tar.gz_checksum.sha512sum) | 2025-06-23 |
 | [:arrow_down: keadm_arm64.tar.gz](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_arm64.tar.gz) | <font color="green">ARM 64</font> | 55.78 MB | [:arrow_down: keadm_arm64.tar.gz_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/keadm_arm64.tar.gz_checksum.sha512sum) | 2025-06-23 |
@@ -32,11 +32,11 @@ These edge component offline pacakges are used when joinning edge nodes.
 ## Download Cloud Components
 
 | Version | Architecture | Size | Package | Checksum | Date |
-| ------- | ----- | ---------- | ------------- | ------------- | ----------- |
+| ------- | ----- | -------- | ---------- | -------- | ---- |
 | [0.20.0](../../kant/intro/release-notes.md) | AMD 64 | 168.19 MB | [:arrow_down: kant_v0.20.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_amd64.tar) | [:arrow_down: kant_v0.20.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_amd64_checksum.sha512sum) | 2025-06-23 |
 | [0.20.0](../../kant/intro/release-notes.md) | <font color="green">ARM 64</font> | 160.84 MB | [:arrow_down: kant_v0.20.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_arm64.tar) | [:arrow_down: kant_v0.20.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_arm64_checksum.sha512sum) | 2025-06-23 |
 
-??? note "Click to view historical versions"
+??? note "Click to view historical releases"
 
     | Version | Architecture | Size | Package | Checksum | Date | Notes |
     | ------- | ----- | ---------- | ------------- | ------------- | ----------- | ---- |
