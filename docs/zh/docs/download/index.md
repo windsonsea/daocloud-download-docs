@@ -60,7 +60,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 安全管理 | 167.29 MB | [:arrow_right: 下载页](./modules/dowl.md) | 2023-11-26 |
 | | 多云编排 | 663.57 MB | [:arrow_right: 下载页](./modules/kairship.md) | 2024-10-09 |
 | | 镜像仓库 | 304.16 MB | [:arrow_right: 下载页](./modules/kangaroo.md) | 2024-10-11 |
-| | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-06-27 |
+| | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 2.21 GB | [:arrow_right: 下载页](./modules/insight.md) | 2025-07-02 |

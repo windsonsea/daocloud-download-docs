@@ -13,6 +13,7 @@ This page allows you to download the offline packages of various versions of the
 
 | Version  | Architecture | Size | Package | Checksum | Date |
 |----------|--------------|------|---------|----------|------|
+| [v0.16.4](../../spidernet/intro/release-notes.md) | AMD 64 | 66.83 MB | [:arrow_down: spidernet_v0.16.4_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.4_amd64.tar) | [:arrow_down: spidernet_v0.16.4_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.4_amd64_checksum.sha512sum) | 2025-07-31 |
 | [v0.16.3](../../spidernet/intro/release-notes.md) | AMD 64 | 63.76 MB | [:arrow_down: spidernet_v0.16.3_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.3_amd64.tar) | [:arrow_down: spidernet_v0.16.3_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/spidernet_v0.16.3_amd64_checksum.sha512sum) | 2025-04-29 |
 
 ??? note "Click to view historical releases"
