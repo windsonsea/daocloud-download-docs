@@ -65,7 +65,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
 | | MultiCloud Management | 663.57 MB | [:arrow_right: Go to Download](./modules/kairship.md) | 2024-10-09 |
 | | Container Registry | 304.16 MB | [:arrow_right: Go to Download](./modules/kangaroo.md) | 2024-10-11 |
-| | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-06-27 |
+| | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
 | Microservice | Insight | 2.62 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-07-02 |
