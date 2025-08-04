@@ -59,7 +59,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2025-05-03 |
-| Container | Container Management | 756.22 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-06-30 |
+| Container | Container Management | 756.22 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-08-03 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
@@ -71,7 +71,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | Microservice | Insight | 2.62 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-07-02 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 1.66 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2024-12-30 |
-| | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-06-30 |
+| | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-08-01 |
 | Middleware| Elasticsearch |1.96 GB| [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) |2025-05-13|
 | | Kafka |1.07 GB| [:arrow_right: Go to Download](./modules/middleware/kafka.md) |2025-05-13|
 | | MinIO |181.39 MB| [:arrow_right: Go to Download](./modules/middleware/minio.md) |2025-05-13|
@@ -82,8 +82,8 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Redis |732.78 MB| [:arrow_right: Go to Download](./modules/middleware/redis.md) |2025-05-13|
 | | RocketMQ |697.28 MB| [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) |2025-05-13|
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
-| Management | Global Management | 458.24 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-07-09 |
-| | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2025-07-01 |
+| Management | Global Management | 458.24 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-08-04 |
+| | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2025-08-04 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
 
 !!! note
