@@ -33,6 +33,8 @@ nav:
                   - Redis: download/modules/middleware/redis.md
                   - RocketMQ: download/modules/middleware/rocketmq.md
               - Cloud Edge Collaboration: download/modules/kant.md
+              - Device: download/modules/topohub.md
               - Management:
                   - Global Management: download/modules/ghippo.md
                   - Operation Management: download/modules/gmagpie.md
+                  - Device Management: download/modules/topohub.md

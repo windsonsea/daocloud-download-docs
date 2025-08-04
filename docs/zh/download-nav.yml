@@ -33,6 +33,8 @@ nav:
                   - Redis: download/modules/middleware/redis.md
                   - RocketMQ: download/modules/middleware/rocketmq.md
               - 云边协同: download/modules/kant.md
+              - 设备: download/modules/topohub.md
               - 全局&运营管理:
                   - 全局管理: download/modules/ghippo.md
                   - 运营管理: download/modules/gmagpie.md
+                  - 设备管理: download/modules/topohub.md
