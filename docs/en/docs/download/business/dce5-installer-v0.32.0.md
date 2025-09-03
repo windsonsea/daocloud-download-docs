@@ -15,8 +15,8 @@ This page provides downloads for the offline installation package and verificati
 
 | Filename | Version | Architecture | Size | Download | Date |
 | --------- | ------ | ------------ | ---- | -------- | ---- |
-| offline-v0.32.0-amd64.tar | v0.32.0 | AMD 64 | 32.43 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.32.0-amd64.tar) | 2025-07-07 |
-| offline-v0.32.0-arm64.tar | v0.32.0 | <font color="green">ARM 64</font> | 29.44 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.32.0-arm64.tar) | 2025-07-07 |
+| offline-v0.32.0-amd64.tar | v0.32.0 | AMD 64 | 33.92 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.32.0-amd64.tar) | 2025-08-08 |
+| offline-v0.32.0-arm64.tar | v0.32.0 | <font color="green">ARM 64</font> | 30.84 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.32.0-arm64.tar) | 2025-08-08 |
 
 ## Verification
 
