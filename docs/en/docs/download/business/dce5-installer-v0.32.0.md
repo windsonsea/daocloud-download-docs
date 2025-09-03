@@ -92,7 +92,7 @@ DCE 5.0 Enterprise includes the following modules, which can be used on-demand t
 | Middleware MySQL | The most widely used open-source relational database. | [v0.26.3](../../middleware/mysql/release-notes.md#v0262) |
 | Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.27.2](../../middleware/rabbitmq/release-notes.md#v0272) |
 | Middleware Redis | An in-memory database caching service. | [v0.27.2](../../middleware/redis/release-notes.md#v0270) |
-| Container Regisry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0240) |
+| Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0240) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.4](../../network/intro/release-notes.md#v0164) |
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.4](../../storage/hwameistor/release-notes.md#v0164) |
 | AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.19.1](../../baize/intro/release-notes#v0191) |
