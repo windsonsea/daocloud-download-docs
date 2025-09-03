@@ -59,7 +59,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2025-07-20 |
-| Container | Container Management | 767.78 MB| [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-09-01 |
+| Container | Container Management | 767.78 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-09-01 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
