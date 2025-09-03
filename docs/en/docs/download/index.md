@@ -13,8 +13,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Lastest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.31.0_amd64.tar.gz | v0.31.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.31.0_amd64.tar.gz) | 2025-07-07 |
-| prerequisite_v0.31.0_arm64.tar.gz | v0.31.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.31.0_arm64.tar.gz) | 2025-07-07 |
+| prerequisite_v0.32.0_amd64.tar.gz | v0.32.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.32.0_amd64.tar.gz) | 2025-07-07 |
+| prerequisite_v0.32.0_arm64.tar.gz | v0.32.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.32.0_arm64.tar.gz) | 2025-07-07 |
 
 ## Download DCE 5.0 Community
 
@@ -22,8 +22,8 @@ This package is dedicated to the community and is available for free trial.
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | --------- | ----------- |
-| offline-community-v0.31.0-arm64.tar | v0.31.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.31.0.md) | 2025-07-07 |
-| offline-community-v0.31.0-amd64.tar | v0.31.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.31.0.md) | 2025-07-07 |
+| offline-community-v0.32.0-arm64.tar | v0.32.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.32.0.md) | 2025-07-07 |
+| offline-community-v0.32.0-amd64.tar | v0.32.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.32.0.md) | 2025-07-07 |
 
 [Legacy Packages for DCE 5.0 Community](./free/dce5-installer-history.md){ .md-button } 
 
@@ -33,8 +33,8 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| offline-v0.31.0-arm64.tar | v0.31.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.31.0.md) | 2025-07-07 |
-| offline-v0.31.0-amd64.tar | v0.31.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.31.0.md) | 2025-07-07 |
+| offline-v0.32.0-arm64.tar | v0.32.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.32.0.md) | 2025-07-07 |
+| offline-v0.32.0-amd64.tar | v0.32.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.32.0.md) | 2025-07-07 |
 
 [Legacy Packages for DCE 5.0 Enterprise](./business/dce5-installer-history.md){ .md-button } 
 
@@ -44,11 +44,11 @@ DCE 5.0 provides comprehensive Addons for different use cases, which can be down
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| metax-addon-offline-package-v0.31.0-amd64.tar.gz | v0.31.0 | [:arrow_right: Go to Download](./addon/v0.31.0.md) | 2025-06-11 |
-| gpu-addon-offline-package-v0.31.0-arm64.tar.gz | v0.31.0 | [:arrow_right: Go to Download](./addon/v0.31.0.md) | 2025-06-11 |
-| gpu-addon-offline-package-v0.31.0-amd64.tar.gz | v0.31.0 | [:arrow_right: Go to Download](./addon/v0.31.0.md) | 2025-06-11 |
-| standard-addon-offline-package-v0.31.0-arm64.tar.gz | v0.31.0 | [:arrow_right: Go to Download](./addon/v0.31.0.md) | 2025-06-11 |
-| standard-addon-offline-package-v0.31.0-amd64.tar.gz | v0.31.0 | [:arrow_right: Go to Download](./addon/v0.31.0.md) | 2025-06-11 |
+| metax-addon-offline-package-v0.32.0-amd64.tar.gz | v0.32.0 | [:arrow_right: Go to Download](./addon/v0.32.0.md) | 2025-06-11 |
+| gpu-addon-offline-package-v0.32.0-arm64.tar.gz | v0.32.0 | [:arrow_right: Go to Download](./addon/v0.32.0.md) | 2025-06-11 |
+| gpu-addon-offline-package-v0.32.0-amd64.tar.gz | v0.32.0 | [:arrow_right: Go to Download](./addon/v0.32.0.md) | 2025-06-11 |
+| standard-addon-offline-package-v0.32.0-arm64.tar.gz | v0.32.0 | [:arrow_right: Go to Download](./addon/v0.32.0.md) | 2025-06-11 |
+| standard-addon-offline-package-v0.32.0-amd64.tar.gz | v0.32.0 | [:arrow_right: Go to Download](./addon/v0.32.0.md) | 2025-06-11 |
 
 [Legacy Packages for Addons](./addon/history.md){ .md-button }
 
@@ -58,8 +58,8 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
-| Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2025-05-03 |
-| Container | Container Management | 756.22 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-08-03 |
+| Workbench | Workbench | 386.41 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2025-07-20 |
+| Container | Container Management | 767.78 MB| [:arrow_right: Go to Download](./modules/kpanda.md) | 2025-09-01 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
@@ -68,7 +68,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
-| Microservice | Insight | 2.62 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-07-02 |
+| Microservice | Insight | 2.45 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-09-03 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 1.66 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2024-12-30 |
 | | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-08-01 |
@@ -82,7 +82,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Redis |732.78 MB| [:arrow_right: Go to Download](./modules/middleware/redis.md) |2025-05-13|
 | | RocketMQ |697.28 MB| [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) |2025-05-13|
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
-| Management | Global Management | 458.24 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-08-04 |
+| Management | Global Management | 515.62 MB| [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-09-01 |
 | | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2025-08-04 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
 
