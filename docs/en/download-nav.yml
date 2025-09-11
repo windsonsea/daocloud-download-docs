@@ -32,6 +32,8 @@ nav:
                   - RabbitMQ: download/modules/middleware/rabbitmq.md
                   - Redis: download/modules/middleware/redis.md
                   - RocketMQ: download/modules/middleware/rocketmq.md
+              - Cloud Native AI:
+                  - LLM Studio: download/modules/hydra.md
               - Cloud Edge Collaboration: download/modules/kant.md
               - Device: download/modules/topohub.md
               - Management:
