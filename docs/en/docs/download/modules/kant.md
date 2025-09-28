@@ -33,6 +33,8 @@ These edge component offline pacakges are used when joinning edge nodes.
 
 | Version | Architecture | Size | Package | Checksum | Date |
 | ------- | ----- | -------- | ---------- | -------- | ---- |
+| [0.21.0](../../kant/intro/release-notes.md) | AMD 64 | 171.45 MB | [:arrow_down: kant_v0.21.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.21.0_amd64.tar) | [:arrow_down: kant_v0.21.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.21.0_amd64_checksum.sha512sum) | 2025-09-25 |
+| [0.21.0](../../kant/intro/release-notes.md) | <font color="green">ARM 64</font> | 164.02 MB | [:arrow_down: kant_v0.21.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.21.0_arm64.tar) | [:arrow_down: kant_v0.21.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.21.0_arm64_checksum.sha512sum) | 2025-09-25 |
 | [0.20.0](../../kant/intro/release-notes.md) | AMD 64 | 168.19 MB | [:arrow_down: kant_v0.20.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_amd64.tar) | [:arrow_down: kant_v0.20.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_amd64_checksum.sha512sum) | 2025-06-23 |
 | [0.20.0](../../kant/intro/release-notes.md) | <font color="green">ARM 64</font> | 160.84 MB | [:arrow_down: kant_v0.20.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_arm64.tar) | [:arrow_down: kant_v0.20.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kant_v0.20.0_arm64_checksum.sha512sum) | 2025-06-23 |
 
