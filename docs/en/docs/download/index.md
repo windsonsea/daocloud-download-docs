@@ -68,10 +68,10 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
-| Microservice | Insight | 2.46 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-09-04 |
+| Microservice | Insight | 2.46 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-09-17 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 1.66 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2024-12-30 |
-| | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-08-01 |
+| | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-09-23 |
 | Middleware| Elasticsearch |1.96 GB| [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) |2025-05-13|
 | | Kafka |1.07 GB| [:arrow_right: Go to Download](./modules/middleware/kafka.md) |2025-05-13|
 | | MinIO |181.39 MB| [:arrow_right: Go to Download](./modules/middleware/minio.md) |2025-05-13|
@@ -106,7 +106,7 @@ This section provides offline documentation in PDF and Docx formats for various 
 | Workbench | 1.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Container Management | 24.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | MultiCloud Management | 3.1 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kairship.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Image Repository | 2.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
+| Container Registry | 2.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Cloud Native Networking | 12.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/network.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Cloud Native Storage | 2.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/storage.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Virtual Machine | 5.3 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/virtnest.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
