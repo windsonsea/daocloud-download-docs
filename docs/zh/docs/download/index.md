@@ -8,8 +8,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 文件大小 | 下载 | 更新日期 |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.34.0_amd64.tar.gz | v0.34.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.34.0_amd64.tar.gz) | 2025-10-15 |
-| prerequisite_v0.34.0_arm64.tar.gz | v0.34.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.34.0_arm64.tar.gz) | 2025-10-15 |
+| prerequisite_v0.35.0_amd64.tar.gz | v0.35.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.35.0_amd64.tar.gz) | 2025-10-15 |
+| prerequisite_v0.35.0_arm64.tar.gz | v0.35.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.35.0_arm64.tar.gz) | 2025-10-15 |
 
 ## 下载社区版
 
