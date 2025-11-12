@@ -90,10 +90,10 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 | 云边协同 | 将云原生能力延伸至边缘，采用边缘节点模式，将数据处理、业务应用、AI模型等下沉到边缘端执行 | [v0.21.0](../../mspider/intro/release-notes.md#v0210) |
 | 设备管理 | 面向智算中心打造的 Kubernetes 云原生基础设施管理组件，能够统一管理主机、交换机等硬件资源 | [v0.5.0](../../mspider/intro/release-notes.md#v050) |
 | 中间件 Elasticsearch | 目前首选的全文搜索引擎 | [v0.25.2](../../middleware/elasticsearch/release-notes.md#v0252) |
-| 中间件 Kafka | 基于开源软件 Kafka 提供的分布式消息队列服务 | [v0.25.0](../../middleware/kafka/release-notes.md#v0250) |
-| 中间件 MinIO | 一款非常热门的轻量、开源对象存储方案 | [v0.21.1](../../middleware/minio/release-notes.md#v0211) |
+| 中间件 Kafka | 基于开源软件 Kafka 提供的分布式消息队列服务 | [v0.26.0](../../middleware/kafka/release-notes.md#v0260) |
+| 中间件 MinIO | 一款非常热门的轻量、开源对象存储方案 | [v0.22.0](../../middleware/minio/release-notes.md#v0220) |
 | 中间件 MySQL | 应用最广泛的开源关系数据库 | [v0.27.1](../../middleware/mysql/release-notes.md#v0271) |
-| 中间件 RabbitMQ | 实现了高级消息队列协议 (AMQP) 的开源消息代理软件 | [v0.27.3](../../middleware/rabbitmq/release-notes.md#v0273) |
+| 中间件 RabbitMQ | 实现了高级消息队列协议 (AMQP) 的开源消息代理软件 | [v0.28.0](../../middleware/rabbitmq/release-notes.md#v0280) |
 | 中间件 Redis | 一款内存数据库缓存服务 | [v0.28.0](../../middleware/redis/release-notes.md#v0280) |
 | 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [v0.16.5](../../network/intro/release-notes.md#v0165) |
