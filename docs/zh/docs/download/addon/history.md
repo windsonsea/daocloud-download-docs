@@ -10,11 +10,11 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
-| metax-addon-offline-package-v0.35.0-amd64.tar.gz | v0.35.0 | AMD 64 | 4.12GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
-| gpu-addon-offline-package-v0.35.0-arm64.tar.gz | v0.35.0 | ARM 64 | 8.27GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
-| gpu-addon-offline-package-v0.35.0-amd64.tar.gz | v0.35.0 | AMD 64 | 17.74GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
-| standard-addon-offline-package-v0.35.0-arm64.tar.gz | v0.35.0 | ARM 64 | 19.82GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
-| standard-addon-offline-package-v0.35.0-amd64.tar.gz | v0.35.0 | AMD 64 | 29.49GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
+| metax-addon-offline-package-v0.35.0-amd64.tar.gz | v0.35.0 | AMD 64 | 4.12 GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
+| gpu-addon-offline-package-v0.35.0-arm64.tar.gz | v0.35.0 | <font color="green">ARM 64</font> | 8.27 GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
+| gpu-addon-offline-package-v0.35.0-amd64.tar.gz | v0.35.0 | AMD 64 | 17.74 GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
+| standard-addon-offline-package-v0.35.0-arm64.tar.gz | v0.35.0 | <font color="green">ARM 64</font> | 19.82 GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
+| standard-addon-offline-package-v0.35.0-amd64.tar.gz | v0.35.0 | AMD 64 | 29.49 GB | [:arrow_right: 下载页](./v0.35.0.md) | 2025-11-12 |
 | metax-addon-offline-package-v0.34.0-amd64.tar.gz | v0.34.0 | AMD 64 | 4.12 GB | [:arrow_right: 下载页](./v0.34.0.md) | 2025-10-20 |
 | gpu-addon-offline-package-v0.34.0-arm64.tar.gz | v0.34.0 | <font color="green">ARM 64</font> | 8.11 GB | [:arrow_right: 下载页](./v0.34.0.md) | 2025-10-20 |
 | gpu-addon-offline-package-v0.34.0-amd64.tar.gz | v0.34.0 | AMD 64 | 17.56 GB | [:arrow_right: 下载页](./v0.34.0.md) | 2025-10-20 |
