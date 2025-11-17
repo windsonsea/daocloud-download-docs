@@ -97,7 +97,7 @@ DCE 5.0 Enterprise includes the following modules, which can be used on-demand t
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.5](../../storage/hwameistor/release-notes.md#v0165) |
 | AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.22.0](../../baize/intro/release-notes.md#v0220) |
 | LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities | [v0.11.0](../../hydra/intro/release-notes.md#v0110) |
-| Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.21.0](../../kant/intro/release-notes#v0210) |
+| Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.21.0](../../kant/intro/release-notes.md#v0210) |
 
 ## More
 
