@@ -81,8 +81,8 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 | 全局管理 | 负责用户访问控制、权限、工作空间与层级、审计日志、个性化外观设置等 | [v0.42.2](../../ghippo/intro/release-notes.md#v0422) |
 | 容器管理 | 管理集群、节点、工作负载、Helm 应用、CRD、命名空间等 K8s 核心功能 | [v0.43.1](../../kpanda/intro/release-notes.md#v0431) |
 | 可观测性 | 提供丰富的仪表盘、场景监控、数据查询、告警等图文信息 | [v0.39.0](../../insight/intro/release-notes.md#v0390) |
-| 大模型服务平台 | 提供从模型部署到运维管理的全生命周期服务，帮助企业和开发者高效地接入和使用各类大模型能力 | [v0.11.0](../../insight/intro/release-notes.md#v0110) |
-| AI Lab | 训推一体化平台，算力资源统一调度，简化 AI 应用开发和部署 | [v0.22.0](../../insight/intro/release-notes.md#v0220) |
+| 大模型服务平台 | 提供从模型部署到运维管理的全生命周期服务，帮助企业和开发者高效地接入和使用各类大模型能力 | [v0.11.0](../../hydra/intro/release-notes.md#v0110) |
+| AI Lab | 训推一体化平台，算力资源统一调度，简化 AI 应用开发和部署 | [v0.22.0](../../baize/intro/release-notes.md#v0220) |
 | 应用工作台 | 基于容器的 DevOps 应用平台，支持 Jenkins, Tekton, GitOps 等流水线作业 | [v0.38.1](../../amamba/intro/release-notes.md#v0381) |
 | 多云编排 | 集中管理多云、混合云、跨云资源的应用编排，具备多云灾备、故障恢复等能力 | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
 | 微服务引擎 | 提供注册发现、服务治理、配置管理、微服务网关等治理能力 | [v0.50.1](../../skoala/intro/release-notes.md#v0501) |
@@ -97,7 +97,7 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 | 中间件 Redis | 一款内存数据库缓存服务 | [v0.28.0](../../middleware/redis/release-notes.md#v0280) |
 | 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [v0.16.5](../../network/intro/release-notes.md#v0165) |
-| 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v1.0.1](../../storage/hwameistor/release-notes.md#v101) |
+| 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v0.16.5](../../storage/hwameistor/release-notes.md#v0165) |
 
 ## 更多
 

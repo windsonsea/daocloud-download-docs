@@ -95,8 +95,8 @@ DCE 5.0 Enterprise includes the following modules, which can be used on-demand t
 | Container Regisry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0240) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.3](../../network/intro/release-notes.md#v0163) |
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.3](../../storage/hwameistor/release-notes.md#v0163) |
-| AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.16.1](../../baize/intro/release-notes#v0161) |
-| Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.20.0](../../kant/intro/release-notes#v0200) |
+| AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.16.1](../../baize/intro/release-notes.md#v0161) |
+| Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.20.0](../../kant/intro/release-notes.md#v0200) |
 
 ## More
 
