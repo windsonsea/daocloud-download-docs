@@ -22,8 +22,8 @@ This package is dedicated to the community and is available for free trial.
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | --------- | ----------- |
-| offline-community-v0.35.0-arm64.tar | v0.35.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.35.0.md) | 2025-11-10 |
 | offline-community-v0.35.0-amd64.tar | v0.35.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.35.0.md) | 2025-11-10 |
+| offline-community-v0.35.0-arm64.tar | v0.35.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.35.0.md) | 2025-11-10 |
 
 [Legacy Packages for DCE 5.0 Community](./free/dce5-installer-history.md){ .md-button } 
 
