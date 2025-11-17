@@ -33,8 +33,8 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| offline-v0.35.0-arm64.tar | v0.35.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.35.0.md) | 2025-11-10 |
 | offline-v0.35.0-amd64.tar | v0.35.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.35.0.md) | 2025-11-10 |
+| offline-v0.35.0-arm64.tar | v0.35.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.35.0.md) | 2025-11-10 |
 
 [Legacy Packages for DCE 5.0 Enterprise](./business/dce5-installer-history.md){ .md-button } 
 
