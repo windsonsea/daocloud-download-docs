@@ -68,7 +68,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
-| Microservice | Insight | 2.46 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-11-04 |
+| Microservice | Insight | 2.53 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2025-11-21 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 1.66 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2024-12-30 |
 | | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-11-03 |

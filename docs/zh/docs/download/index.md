@@ -110,6 +110,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | 服务网格 | 3.7 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | 中间件 | 14.8 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | AI Lab | 10.3 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/AI-lab.pdf) | 2024-12-31 | 精修版 |
+| 大模型服务平台 | 5.2 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra-docs.pdf) | 2025-11-24 | 精修版 |
 | 云边协同 | 3.8 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | 全局管理 | 5.7 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | **以上所有模块的 Docx 压缩包** | 125.04 MB | [:arrow_down: 下载 Docx 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2025-03-10 | 以上 PDF 对应的所有 Docx 文件 |
