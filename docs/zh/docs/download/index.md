@@ -53,7 +53,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 
 | 频道 | 模块 | 文件大小 | 下载 | 更新日期 |
 | --- | ---- | ------ | ---- | ------ |
-| 工作台 | 应用工作台 | 460.35 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2025-11-26 |
+| 工作台 | 应用工作台 | 460.59 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2025-12-02 |
 | 容器 | 容器管理 | 699.51 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2025-12-03 |
 | | 集群巡检 | 174.30 MB | [:arrow_right: 下载页](./modules/kcollie.md) | 2024-09-29 |
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
@@ -63,7 +63,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
-| 微服务 | 可观测性 | 2.53 GB | [:arrow_right: 下载页](./modules/insight.md) | 2025-11-21 |
+| 微服务 | 可观测性 | 2.53 GB | [:arrow_right: 下载页](./modules/insight.md) | 2025-12-03 |
 | | 仪表盘| 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎| 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2025-11-03 |
