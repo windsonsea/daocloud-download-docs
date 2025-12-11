@@ -97,7 +97,8 @@ DCE 5.0 商业版包含以下模块，按需即插即用满足各类应用场景
 | 中间件 Redis | 一款内存数据库缓存服务 | [v0.29.0](../../middleware/redis/release-notes.md#v0280) |
 | 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [v0.16.6](../../network/intro/release-notes.md#v0166) |
-| 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v1.0.1](../../storage/hwameistor/release-notes.md#v101) |
+| 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v0.16.5](../../storage/hwameistor/release-notes.md#v0165) |
+
 ## 更多
 
 - [在线文档](../../dce/index.md)
