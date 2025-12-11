@@ -13,8 +13,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Lastest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.36.0_amd64.tar.gz | v0.36.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.36.0_amd64.tar.gz) | 2025-12-09 |
-| prerequisite_v0.36.0_arm64.tar.gz | v0.36.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.36.0_arm64.tar.gz) | 2025-12-09 |
+| prerequisite_v0.36.0_amd64.tar.gz | v0.36.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.36.0_amd64.tar.gz) | 2025-12-09 |
+| prerequisite_v0.36.0_arm64.tar.gz | v0.36.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.36.0_arm64.tar.gz) | 2025-12-09 |
 
 ## Download DCE 5.0 Community
 
