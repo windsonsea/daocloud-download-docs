@@ -11,6 +11,8 @@ hide:
 
 | 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
 | ---- | --- | ------- | ----- | ------ | ------- |
+| [v0.17.0](../../../middleware/rocketmq/release-notes.md) | <font color=green>ARM 64</font> | 958.54 MB | [:arrow_down: rocketmq_0.17.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.17.0_arm64.tar) | [:arrow_down: rocketmq_0.17.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.17.0_arm64_checksum.sha512sum) | 2025-12-16 |
+| [v0.17.0](../../../middleware/rocketmq/release-notes.md) | AMD 64 | 961.70 MB | [:arrow_down: rocketmq_0.17.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.17.0_amd64.tar) | [:arrow_down: rocketmq_0.17.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.17.0_amd64_checksum.sha512sum) | 2025-12-16 |
 | [v0.15.0](../../../middleware/rocketmq/release-notes.md) | <font color=green>ARM 64</font> | 694.10 MB | [:arrow_down: rocketmq_0.15.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.15.0_arm64.tar) | [:arrow_down: rocketmq_0.15.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.15.0_arm64_checksum.sha512sum) | 2025-05-13 |
 | [v0.15.0](../../../middleware/rocketmq/release-notes.md) | AMD 64 | 697.28 MB | [:arrow_down: rocketmq_0.15.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.15.0_amd64.tar) | [:arrow_down: rocketmq_0.15.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/mcamel-rocketmq_0.15.0_amd64_checksum.sha512sum) | 2025-05-13 |
 
