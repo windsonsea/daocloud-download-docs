@@ -72,15 +72,15 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 1.66 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2024-12-30 |
 | | Service Mesh | 1.04 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2025-11-03 |
-| Middleware| Elasticsearch |1.95 GB| [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) |2025-12-16|
-| | Kafka |1.29 GB| [:arrow_right: Go to Download](./modules/middleware/kafka.md) |2025-12-16|
-| | MinIO |180.98 MB| [:arrow_right: Go to Download](./modules/middleware/minio.md) |2025-12-16|
-| | MongoDB |383.35 MB| [:arrow_right: Go to Download](./modules/middleware/mongodb.md) |2025-12-16|
-| | MySQL |1.83 GB| [:arrow_right: Go to Download](./modules/middleware/mysql.md) |2025-12-16|
-| | PostgreSQL |974.28 MB| [:arrow_right: Go to Download](./modules/middleware/postgresql.md) |2025-12-16|
-| | RabbitMQ |365.17 MB| [:arrow_right: Go to Download](./modules/middleware/rabbitmq.md) |2025-12-16|
-| | Redis |607.47 MB| [:arrow_right: Go to Download](./modules/middleware/redis.md) |2025-12-16|
-| | RocketMQ |961.70 MB| [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) |2025-12-16|
+| Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
+| | Kafka | 1.29 GB | [:arrow_right: Go to Download](./modules/middleware/kafka.md) | 2025-12-16 |
+| | MinIO | 180.98 MB | [:arrow_right: Go to Download](./modules/middleware/minio.md) | 2025-12-16 |
+| | MongoDB | 383.35 MB | [:arrow_right: Go to Download](./modules/middleware/mongodb.md) | 2025-12-16 |
+| | MySQL | 1.83 GB | [:arrow_right: Go to Download](./modules/middleware/mysql.md) | 2025-12-16 |
+| | PostgreSQL | 974.28 MB | [:arrow_right: Go to Download](./modules/middleware/postgresql.md) | 2025-12-16 |
+| | RabbitMQ | 365.17 MB | [:arrow_right: Go to Download](./modules/middleware/rabbitmq.md) | 2025-12-16 |
+| | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
+| | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
 | Management | Global Management | 515.62 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-11-13 |
 | | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2025-08-04 |
