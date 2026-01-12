@@ -17,8 +17,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | -------- | ---- | --- | ------- |
-| offline-community-v0.37.0-arm64.tar | v0.37.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.37.0.md) | 2026-01-12 |
 | offline-community-v0.37.0-amd64.tar | v0.37.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.37.0.md) | 2026-01-12 |
+| offline-community-v0.37.0-arm64.tar | v0.37.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.37.0.md) | 2026-01-12 |
 
 [社区版：更多历史版本](./free/dce5-installer-history.md){ .md-button } 
 
