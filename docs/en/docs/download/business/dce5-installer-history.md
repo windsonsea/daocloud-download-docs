@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2025-06-11
+date: 2026-01-26
 hide:
   - toc
 ---
@@ -12,15 +12,17 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
+| offline-v0.37.0-amd64.tar | v0.37.0 | AMD 64 | 34.55 GB | [:arrow_right: Go to Download](./dce5-installer-v0.37.0.md) | 2026-01-12 |
+| offline-v0.37.0-arm64.tar | v0.37.0 | <font color="green">ARM 64</font> | 31.26 GB | [:arrow_right: Go to Download](./dce5-installer-v0.37.0.md) | 2026-01-12 |
 | offline-v0.36.0-arm64.tar | v0.36.0 | <font color="green">ARM 64</font> | 31.18 GB | [:arrow_right: Go to Download](./dce5-installer-v0.36.0.md) | 2025-12-09 |
 | offline-v0.36.0-amd64.tar | v0.36.0 | AMD 64 | 34.44 GB | [:arrow_right: Go to Download](./dce5-installer-v0.36.0.md) | 2025-12-09 |
-| offline-v0.35.0-arm64.tar | v0.35.0 | <font color="green">ARM 64</font> | 31.14 GB | [:arrow_right: Go to Download](./dce5-installer-v0.35.0.md) | 2025-11-10 |
-| offline-v0.35.0-amd64.tar | v0.35.0 | AMD 64 | 34.40 GB | [:arrow_right: Go to Download](./dce5-installer-v0.35.0.md) | 2025-11-10 |
 
 ??? note "Click to view historical releases"
 
     | Filename | Version | Architecture | Size | Download | Date |
     | -------- | ------- | ------------ | ---- | -------- | ---- |
+    | offline-v0.35.0-arm64.tar | v0.35.0 | <font color="green">ARM 64</font> | 31.14 GB | [:arrow_right: Go to Download](./dce5-installer-v0.35.0.md) | 2025-11-10 |
+    | offline-v0.35.0-amd64.tar | v0.35.0 | AMD 64 | 34.40 GB | [:arrow_right: Go to Download](./dce5-installer-v0.35.0.md) | 2025-11-10 |
     | offline-v0.34.0-amd64.tar | v0.34.0 | AMD 64 | 33.88 GB | [:arrow_right: Go to Download](./dce5-installer-v0.34.0.md) | 2025-10-15 |
     | offline-v0.34.0-arm64.tar | v0.34.0 | <font color="green">ARM 64</font> | 30.76 GB | [:arrow_right: Go to Download](./dce5-installer-v0.34.0.md) | 2025-10-15 |
     | offline-v0.33.0-arm64.tar | v0.33.0 | <font color="green">ARM 64</font> | 30.77 GB | [:arrow_right: Go to Download](./dce5-installer-v0.33.0.md) | 2025-09-08 |
