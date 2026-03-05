@@ -77,7 +77,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | Redis | 607.47 MB | [:arrow_right: 下载页](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
-| 管理 | 全局管理 | 518.43 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-02-28 |
+| 管理 | 全局管理 | 475.82 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-02-28 |
 | | 运营管理 | 96.41 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2025-08-04 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
 
