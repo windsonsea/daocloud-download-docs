@@ -39,11 +39,11 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 |--------| ---- | --- | --------- |
-| standard-addon-offline-package-v0.37.0-amd64.tar.gz | v0.37.0 | [:arrow_right: 下载页](./addon/v0.37.0.md) | 2026-01-13 |
-| standard-addon-offline-package-v0.37.0-arm64.tar.gz | v0.37.0 | [:arrow_right: 下载页](./addon/v0.37.0.md) | 2026-01-13 |
-| gpu-addon-offline-package-v0.37.0-amd64.tar.gz | v0.37.0 | [:arrow_right: 下载页](./addon/v0.37.0.md) | 2026-01-13 |
-| gpu-addon-offline-package-v0.37.0-arm64.tar.gz | v0.37.0 | [:arrow_right: 下载页](./addon/v0.37.0.md) | 2026-01-13 |
-| metax-addon-offline-package-v0.37.0-amd64.tar.gz | v0.37.0 | [:arrow_right: 下载页](./addon/v0.37.0.md) | 2026-01-13 |
+| metax-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | [:arrow_right: 下载页](./addon/v0.38.0.md) | 2026-03-04 |
+| gpu-addon-offline-package-v0.38.0-arm64.tar.gz | v0.38.0 | [:arrow_right: 下载页](./addon/v0.38.0.md) | 2026-03-04 |
+| gpu-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | [:arrow_right: 下载页](./addon/v0.38.0.md) | 2026-03-04 |
+| standard-addon-offline-package-v0.38.0-arm64.tar.gz | v0.38.0 | [:arrow_right: 下载页](./addon/v0.38.0.md) | 2026-03-04 |
+| standard-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | [:arrow_right: 下载页](./addon/v0.38.0.md) | 2026-03-04 |
 
 [Addon：更多历史版本](./addon/history.md){ .md-button }
 
@@ -77,7 +77,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | Redis | 607.47 MB | [:arrow_right: 下载页](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
-| 管理 | 全局管理 | 475.82 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-02-28 |
+| 管理 | 全局管理 | 476.00 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-03-02 |
 | | 运营管理 | 96.41 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2025-08-04 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
 
