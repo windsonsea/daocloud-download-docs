@@ -13,8 +13,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Lastest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.38.0_amd64.tar.gz | v0.38.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.38.0_amd64.tar.gz) | 2026-02-09 |
-| prerequisite_v0.38.0_arm64.tar.gz | v0.38.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.38.0_arm64.tar.gz) | 2026-02-09 |
+| prerequisite_v0.39.0_amd64.tar.gz | v0.39.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.39.0_amd64.tar.gz) | 2026-04-09 |
+| prerequisite_v0.39.0_arm64.tar.gz | v0.39.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.39.0_arm64.tar.gz) | 2026-04-09 |
 
 ## Download DCE 5.0 Community
 
@@ -22,8 +22,8 @@ This package is dedicated to the community and is available for free trial.
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | --------- | ----------- |
-| offline-community-v0.38.0-arm64.tar | v0.38.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.38.0.md) | 2026-02-09 |
-| offline-community-v0.38.0-amd64.tar | v0.38.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.38.0.md) | 2026-02-09 |
+| offline-community-v0.39.0-arm64.tar | v0.39.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.39.0.md) | 2026-04-09 |
+| offline-community-v0.39.0-amd64.tar | v0.39.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.39.0.md) | 2026-04-09 |
 
 [Legacy Packages for DCE 5.0 Community](./free/dce5-installer-history.md){ .md-button } 
 
@@ -33,8 +33,8 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| offline-v0.38.0-arm64.tar | v0.38.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.38.0.md) | 2026-02-09 |
-| offline-v0.38.0-amd64.tar | v0.38.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.38.0.md) | 2026-02-09 |
+| offline-v0.39.0-arm64.tar | v0.39.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.39.0.md) | 2026-04-09 |
+| offline-v0.39.0-amd64.tar | v0.39.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.39.0.md) | 2026-04-09 |
 
 [Legacy Packages for DCE 5.0 Enterprise](./business/dce5-installer-history.md){ .md-button } 
 
@@ -58,8 +58,8 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
-| Workbench | Workbench | 460.00 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-01-22 |
-| Container | Container Management | 770.29 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-02-02 |
+| Workbench | Workbench | 460.00 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-04-01 |
+| Container | Container Management | 770.29 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-04-01 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
