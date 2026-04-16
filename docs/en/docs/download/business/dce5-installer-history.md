@@ -12,10 +12,10 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
-| offline-v0.39.0-amd64.tar | v0.39.0 | AMD 64 | 35.08 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
-| offline-v0.39.0-arm64.tar | v0.39.0 | <font color="green">ARM 64</font> | 31.70 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
-| offline-v0.38.0-amd64.tar | v0.38.0 | AMD 64 | 34.98 GB | [:arrow_right: 下载页](./dce5-installer-v0.38.0.md) | 2026-02-09 |
-| offline-v0.38.0-arm64.tar | v0.38.0 | ARM 64 | 31.66 GB | [:arrow_right: 下载页](./dce5-installer-v0.38.0.md) | 2026-02-09 |
+| offline-v0.39.0-amd64.tar | v0.39.0 | AMD 64 | 35.08 GB | [:arrow_right: Go to Download](./dce5-installer-v0.39.0.md) | 2026-04-09 |
+| offline-v0.39.0-arm64.tar | v0.39.0 | <font color="green">ARM 64</font> | 31.70 GB | [:arrow_right: Go to Download](./dce5-installer-v0.39.0.md) | 2026-04-09 |
+| offline-v0.38.0-amd64.tar | v0.38.0 | AMD 64 | 34.98 GB | [:arrow_right: Go to Download](./dce5-installer-v0.38.0.md) | 2026-02-09 |
+| offline-v0.38.0-arm64.tar | v0.38.0 | ARM 64 | 31.66 GB | [:arrow_right: Go to Download](./dce5-installer-v0.38.0.md) | 2026-02-09 |
 
 ??? note "Click to view historical releases"
 
