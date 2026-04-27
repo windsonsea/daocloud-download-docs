@@ -39,3 +39,5 @@ nav:
                   - 全局管理: download/modules/ghippo.md
                   - 运营管理: download/modules/gmagpie.md
                   - 设备管理: download/modules/topohub.md
+              - 推理:
+                  - 推理加速: download/modules/inferx.md
