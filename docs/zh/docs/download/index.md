@@ -81,6 +81,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | 管理 | 全局管理 | 476.00 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-03-02 |
 | | 运营管理 | 96.41 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-03-24 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
+| 推理 | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-04-27 |
 
 !!! note
 
