@@ -19,7 +19,7 @@ In the directory where the offline installation package and checksum file are do
 
 ```sh
 echo "$(cat inferx_v0.1.0_amd64_checksum.sha512sum)" | sha512sum -c
-````
+```
 
 If the verification succeeds, the output will look like:
 
