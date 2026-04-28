@@ -86,6 +86,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | Management | Global Management | 515.62 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-03-02 |
 | | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2025-03-24 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
+| Inference | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-04-27 |
 
 !!! note
 
