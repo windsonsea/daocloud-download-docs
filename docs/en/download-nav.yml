@@ -34,6 +34,7 @@ nav:
                   - RocketMQ: download/modules/middleware/rocketmq.md
               - Cloud Native AI:
                   - LLM Studio: download/modules/hydra.md
+                  - AI Lab: download/modules/baize.md
               - Cloud Edge Collaboration: download/modules/kant.md
               - Management:
                   - Global Management: download/modules/ghippo.md
