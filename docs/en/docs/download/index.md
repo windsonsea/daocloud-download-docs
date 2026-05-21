@@ -3,9 +3,9 @@ MTPE: windsonsea
 date: 2025-11-18
 ---
 
-# DaoCloud Enterprise 5.0
+# DCE 5.0
 
-DaoCloud Enterprise 5.0 has two versions for Community and Enterprise.
+DCE 5.0 has two versions for Community and Enterprise.
 
 Currently, only offline packages are provided in the download center. For online installation methods, refer to [Online Installation](../install/index.md).
 
