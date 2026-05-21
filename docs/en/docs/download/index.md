@@ -83,7 +83,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
-| Management | Global Management | 515.62 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-03-02 |
+| Management | Global Management | 515.53 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2025-03-02 |
 | | Operations Management | 91.00 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2025-03-24 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
 | Inference | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-04-27 |
