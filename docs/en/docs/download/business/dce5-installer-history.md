@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# DCE 5.0 Enterprise Edition
+# DCE 5.0 Enterprise Packages
 
 This page lists all released DCE 5.0 Enterprise offline packages:
 

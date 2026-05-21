@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# DCE 5.0 Community Edition
+# DCE 5.0 Community Packages
 
 This page lists all released DCE 5.0 Community offline packages:
 
