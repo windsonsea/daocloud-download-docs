@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# DaoCloud Enterprise 5.0 Enterprise Edition
+# DCE 5.0 Enterprise Edition
 
 This page lists all released DCE 5.0 Enterprise offline packages:
 
