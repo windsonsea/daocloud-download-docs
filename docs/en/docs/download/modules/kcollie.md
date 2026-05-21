@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-01-11
+date: 2026-04-30
 hide:
   - toc
 ---
@@ -13,18 +13,20 @@ This page provides offline packages for different versions of the Cluster Inspec
 
 | Version | Architecture | Size | Package | Checksum | Date |
 |---------|--------------|------|---------|----------|------|
-| [v0.14.0](../../kcollie/intro/release-notes.md) | AMD 64 | 272.72 MB | [:arrow_down: kcollie_v0.14.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.14.0_amd64.tar) | [:arrow_down: kcollie_v0.14.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.14.0_amd64_checksum.sha512sum) | 2025-12-02 |
-| [v0.10.0](../../kpanda/intro/release-notes.md) | AMD 64 | 252.95 MB | [:arrow_down: kcollie_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.10.0_amd64.tar) | [:arrow_down: kcollie_v0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.10.0_amd64_checksum.sha512sum) | 2024-09-29 |
+| [v0.16.0](../../kcollie/intro/release-notes.md) | AMD64 | 281.48 MB | [:arrow_down: kcollie_v0.16.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.16.0_amd64.tar) | [:arrow_down: kcollie_v0.16.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.16.0_amd64_checksum.sha512sum) | 2026-04-30 |
+| [v0.15.0](../../kcollie/intro/release-notes.md) | AMD64 | 272.74 MB | [:arrow_down: kcollie_v0.15.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.15.0_amd64.tar) | [:arrow_down: kcollie_v0.15.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.15.0_amd64_checksum.sha512sum) | 2026-04-01 |
+| [v0.14.0](../../kcollie/intro/release-notes.md) | AMD64 | 272.72 MB | [:arrow_down: kcollie_v0.14.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.14.0_amd64.tar) | [:arrow_down: kcollie_v0.14.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.14.0_amd64_checksum.sha512sum) | 2025-12-02 |
+| [v0.10.0](../../kpanda/intro/release-notes.md) | AMD64 | 252.95 MB | [:arrow_down: kcollie_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.10.0_amd64.tar) | [:arrow_down: kcollie_v0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.10.0_amd64_checksum.sha512sum) | 2024-09-29 |
 
 ??? note "Click to view historical releases"
 
     | Version | Architecture | Size | Package | Checksum | Date |
     |---------|--------------|------|---------|----------|------|
-    | [v0.6.1](../../kpanda/intro/release-notes.md) | AMD 64 | 174.34 MB | [:arrow_down: kcollie_v0.6.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.1_amd64.tar) | [:arrow_down: kcollie_v0.6.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.1_amd64_checksum.sha512sum) | 2024-01-03 |
-    | [v0.6.0](../../kpanda/intro/release-notes.md) | AMD 64 | 174.30 MB | [:arrow_down: kcollie_v0.6.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.0_amd64.tar) | [:arrow_down: kcollie_v0.6.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.0_amd64_checksum.sha512sum) | 2024-01-02 |
-    | [v0.5.2](../../kpanda/intro/release-notes.md) | AMD 64 | 216.70 MB | [:arrow_down: kcollie_v0.5.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.2_amd64.tar) | [:arrow_down: kcollie_v0.5.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.2_amd64_checksum.sha512sum) | 2023-10-26 |
-    | [v0.5.1](../../kpanda/intro/release-notes.md) | AMD 64 | 211.94 MB | [:arrow_down: kcollie_v0.5.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.1_amd64.tar) | [:arrow_down: kcollie_v0.5.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.1_amd64_checksum.sha512sum) | 2023-10-20 |
-    | [v0.5.0](../../kpanda/intro/release-notes.md) | AMD 64 | 216.64 MB | [:arrow_down: kcollie_v0.5.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.0_amd64.tar) | [:arrow_down: kcollie_v0.5.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.0_amd64_checksum.sha512sum) | 2023-09-01 |
+    | [v0.6.1](../../kpanda/intro/release-notes.md) | AMD64 | 174.34 MB | [:arrow_down: kcollie_v0.6.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.1_amd64.tar) | [:arrow_down: kcollie_v0.6.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.1_amd64_checksum.sha512sum) | 2024-01-03 |
+    | [v0.6.0](../../kpanda/intro/release-notes.md) | AMD64 | 174.30 MB | [:arrow_down: kcollie_v0.6.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.0_amd64.tar) | [:arrow_down: kcollie_v0.6.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.6.0_amd64_checksum.sha512sum) | 2024-01-02 |
+    | [v0.5.2](../../kpanda/intro/release-notes.md) | AMD64 | 216.70 MB | [:arrow_down: kcollie_v0.5.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.2_amd64.tar) | [:arrow_down: kcollie_v0.5.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.2_amd64_checksum.sha512sum) | 2023-10-26 |
+    | [v0.5.1](../../kpanda/intro/release-notes.md) | AMD64 | 211.94 MB | [:arrow_down: kcollie_v0.5.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.1_amd64.tar) | [:arrow_down: kcollie_v0.5.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.1_amd64_checksum.sha512sum) | 2023-10-20 |
+    | [v0.5.0](../../kpanda/intro/release-notes.md) | AMD64 | 216.64 MB | [:arrow_down: kcollie_v0.5.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.0_amd64.tar) | [:arrow_down: kcollie_v0.5.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.5.0_amd64_checksum.sha512sum) | 2023-09-01 |
     | [v0.4.0](../../kpanda/intro/release-notes.md) | AMD64 | 205.11 MB | [:arrow_down: kcollie_v0.4.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.4.0_amd64.tar) | [:arrow_down: kcollie_v0.4.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.4.0_amd64_checksum.sha512sum) | 2023-08-08 |
 
 ## Verification

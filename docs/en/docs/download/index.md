@@ -60,7 +60,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 460.00 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-04-01 |
 | Container | Container Management | 770.29 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-04-01 |
-| | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
+| | Cluster Inspection | 281.48 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
 | | MultiCloud Management | 663.57 MB | [:arrow_right: Go to Download](./modules/kairship.md) | 2024-10-09 |
