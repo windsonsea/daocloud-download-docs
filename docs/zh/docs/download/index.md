@@ -8,8 +8,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 文件大小 | 下载 | 更新日期 |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.40.0_amd64.tar.gz | v0.40.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.40.0_amd64.tar.gz) | 2026-04-09 |
-| prerequisite_v0.40.0_arm64.tar.gz | v0.40.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.40.0_arm64.tar.gz) | 2026-04-09 |
+| prerequisite_v0.41.0_amd64.tar.gz | v0.41.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_amd64.tar.gz) | 2026-04-09 |
+| prerequisite_v0.41.0_arm64.tar.gz | v0.41.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_arm64.tar.gz) | 2026-04-09 |
 
 ## 下载社区版
 
@@ -17,8 +17,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | -------- | ---- | --- | ------- |
-| offline-community-v0.40.0-amd64.tar | v0.40.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.40.0.md) | 2026-05-15 |
-| offline-community-v0.40.0-arm64.tar | v0.40.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.40.0.md) | 2026-05-15 |
+| offline-community-v0.41.0-amd64.tar | v0.41.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.41.0.md) | 2026-06-08 |
+| offline-community-v0.41.0-arm64.tar | v0.41.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.41.0.md) | 2026-06-08 |
 
 [社区版：更多历史版本](./free/dce5-installer-history.md){ .md-button } 
 
@@ -28,8 +28,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
-| offline-v0.40.0-amd64.tar | v0.40.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.40.0.md) | 2026-05-15 |
-| offline-v0.40.0-arm64.tar | v0.40.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.40.0.md) | 2026-05-15 |
+| offline-v0.41.0-amd64.tar | v0.41.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.41.0.md) | 2026-06-08 |
+| offline-v0.41.0-arm64.tar | v0.41.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.41.0.md) | 2026-06-08 |
 
 [商业版：更多历史版本](./business/dce5-installer-history.md){ .md-button } 
 
@@ -54,7 +54,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | 频道 | 模块 | 文件大小 | 下载 | 更新日期 |
 | --- | ---- | ------ | ---- | ------ |
 | 工作台 | 应用工作台 | 472.79 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-05-12 |
-| 容器 | 容器管理 | 781.69 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-05-13 |
+| 容器 | 容器管理 | 792.02 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-06-02 |
 | | 集群巡检 | 174.30 MB | [:arrow_right: 下载页](./modules/kcollie.md) | 2024-09-29 |
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
 | | 安全管理 | 167.29 MB | [:arrow_right: 下载页](./modules/dowl.md) | 2023-11-26 |
@@ -63,10 +63,10 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
-| 微服务 | 可观测性 | 2.63 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-01-14 |
+| 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-06-02 |
 | | 仪表盘| 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎| 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
-| | 服务网格 | 1.26 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-02-03 |
+| | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-06-02 |
 | | AI Lab | 1.65 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-04-28 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
@@ -79,7 +79,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
 | 管理 | 全局管理 | 515.53 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-05-12 |
-| | 运营管理 | 96.41 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-03-24 |
+| | 运营管理 | 124.51 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-06-02 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
 | 推理 | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-04-27 |
 
