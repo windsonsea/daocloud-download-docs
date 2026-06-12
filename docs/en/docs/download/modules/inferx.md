@@ -13,7 +13,7 @@ This page provides offline installation packages for different versions of the i
 
 | Version | Architecture | File Size | Package | Checksum File | Release Date |
 | ---- | --- | ------ | ------ | ------ | ------- |
-| [v0.3.0](../../inferx/intro/release-notes.md) | AMD64 | 10.77GB | [:arrow_down: inferx_v0.3.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.3.0_amd64.tar) | [:arrow_down: inferx_v0.3.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.3.0_amd64_checksum.sha512sum) | 2026-06-08 |
+| [v0.3.0](../../inferx/intro/release-notes.md) | AMD 64 | 10.77 GB | [:arrow_down: inferx_v0.3.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.3.0_amd64.tar) | [:arrow_down: inferx_v0.3.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.3.0_amd64_checksum.sha512sum) | 2026-06-08 |
 | [v0.2.0](../../inferx/intro/release-notes.md) | AMD64 | 10.77 GB | [:arrow_down: inferx_v0.2.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.2.0_amd64.tar) | [:arrow_down: inferx_v0.2.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.2.0_amd64_checksum.sha512sum) | 2026-05-12 |
 | [v0.1.0](../../inferx/intro/release-notes.md) | AMD64 | 9.98 GB | [:arrow_down: inferx_v0.2.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.2.0_amd64.tar) | [:arrow_down: inferx_v0.2.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/inferx_v0.2.0_amd64_checksum.sha512sum) | 2026-04-27 |
 
