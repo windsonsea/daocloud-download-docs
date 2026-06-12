@@ -14,15 +14,15 @@ hide:
 | offline-v0.41.0-arm64.tar | v0.41.0 | <font color="green">ARM 64</font> | 31.64 GB | [:arrow_right: 下载页](./dce5-installer-v0.41.0.md) | 2026-06-08 |
 | offline-v0.40.0-amd64.tar | v0.40.0 | AMD 64 | 35.06 GB | [:arrow_right: 下载页](./dce5-installer-v0.40.0.md) | 2026-05-15 |
 | offline-v0.40.0-arm64.tar | v0.40.0 | <font color="green">ARM 64</font> | 31.66 GB | [:arrow_right: 下载页](./dce5-installer-v0.40.0.md) | 2026-05-15 |
-| offline-v0.39.0-amd64.tar | v0.39.0 | AMD 64 | 35.08 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
-| offline-v0.39.0-arm64.tar | v0.39.0 | <font color="green">ARM 64</font> | 31.70 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
-| offline-v0.38.0-amd64.tar | v0.38.0 | AMD 64 | 34.98 GB | [:arrow_right: 下载页](./dce5-installer-v0.38.0.md) | 2026-02-09 |
-| offline-v0.38.0-arm64.tar | v0.38.0 | ARM 64 | 31.66 GB | [:arrow_right: 下载页](./dce5-installer-v0.38.0.md) | 2026-02-09 |
 
 ??? note "展开查看历史版本"
 
     | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
     | ------- | --- | ---- | ------ | --- | ------- |
+    | offline-v0.39.0-amd64.tar | v0.39.0 | AMD 64 | 35.08 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
+    | offline-v0.39.0-arm64.tar | v0.39.0 | <font color="green">ARM 64</font> | 31.70 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
+    | offline-v0.38.0-amd64.tar | v0.38.0 | AMD 64 | 34.98 GB | [:arrow_right: 下载页](./dce5-installer-v0.38.0.md) | 2026-02-09 |
+    | offline-v0.38.0-arm64.tar | v0.38.0 | ARM 64 | 31.66 GB | [:arrow_right: 下载页](./dce5-installer-v0.38.0.md) | 2026-02-09 |
     | offline-v0.37.0-amd64.tar | v0.37.0 | AMD 64 | 34.55 GB | [:arrow_right: 下载页](./dce5-installer-v0.37.0.md) | 2026-01-12 |
     | offline-v0.37.0-arm64.tar | v0.37.0 | <font color="green">ARM 64</font> | 31.26 GB | [:arrow_right: 下载页](./dce5-installer-v0.37.0.md) | 2026-01-12 |
     | offline-v0.36.0-arm64.tar | v0.36.0 | <font color="green">ARM 64</font> | 31.18 GB | [:arrow_right: 下载页](./dce5-installer-v0.36.0.md) | 2025-12-09 |

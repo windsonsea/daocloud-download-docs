@@ -1,11 +1,11 @@
 ---
 MTPE: windsonsea
-date: 2026-05-15
+date: 2026-06-12
 hide:
   - navigation
 ---
 
-# DCE 5.0 Enterprise with Installer v0.40.0
+# DCE 5.0 Enterprise with Installer v0.41.0
 
 This page provides offline installation packages and checksum files for DCE 5.0 Enterprise edition.
 
@@ -15,8 +15,8 @@ This page provides offline installation packages and checksum files for DCE 5.0 
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
-| offline-v0.40.0-amd64.tar | v0.40.0 | AMD64 | 35.06 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.40.0-amd64.tar) | 2026-05-15 |
-| offline-v0.40.0-arm64.tar | v0.40.0 | <font color="green">ARM64</font> | 31.66 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.40.0-arm64.tar) | 2026-05-15 |
+| offline-v0.41.0-amd64.tar | v0.41.0 | AMD 64 | 35.13 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.41.0-amd64.tar) | 2026-06-08 |
+| offline-v0.41.0-arm64.tar | v0.41.0 | <font color="green">ARM 64</font> | 31.64 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.41.0-arm64.tar) | 2026-06-08 |
 
 ## Verification
 
@@ -27,13 +27,13 @@ Go to the directory where the offline package is downloaded.
     Run the following command to verify:
 
     ```sh
-    echo "ce970ee13c534fdebdbaa610087f026d865586a4641bef36cf391321b1d0542ffda89b6b88424d33edc9bc84a712e3d05abf9eabe5ea9309c31236a82cecdc91  offline-v0.40.0-amd64.tar" | sha512sum -c
+    echo "3ff7330d0950b93e4ebb9cf04af72b8ca0a886faaf034470b00b9ffbb69bc34105ecd19993eda951d9edcb7d1bb95d69a8b2398277ff41492f145aa3bb77efd7  offline-v0.41.0-amd64.tar" | sha512sum -c
     ```
 
     If successful:
 
     ```none
-    offline-v0.40.0-amd64.tar: OK
+    offline-v0.41.0-amd64.tar: OK
     ```
 
 === "<font color="green">ARM64</font>"
@@ -41,13 +41,13 @@ Go to the directory where the offline package is downloaded.
     Run the following command to verify:
 
     ```sh
-    echo "d9c44b69c25bc5e26f4b722bfb6c1d274c7f707edb31af6fbd2e2427c51299a4c6379daa847bf551927117fca15ab0ed4dde14bea81845272bd09476fa087227  offline-v0.40.0-arm64.tar" | sha512sum -c
+    echo "6e953fbfdd19fe7683c8af0e8a899e7a56dc747bc942572d3b71726f29d7abcef4ae19d5db325872daf9408b791f68a919b5baec6b2e1647fc7faef8cd9c2c91  offline-v0.41.0-arm64.tar" | sha512sum -c
     ```
 
     If successful:
 
     ```none
-    offline-v0.40.0-arm64.tar: OK
+    offline-v0.41.0-arm64.tar: OK
     ```
 
 ## Installation
@@ -57,13 +57,13 @@ After verification, extract:
 === "AMD64"
 
     ```sh
-    tar -xvf offline-v0.40.0-amd64.tar
+    tar -xvf offline-v0.41.0-amd64.tar
     ```
 
 === "<font color="green">ARM64</font>"
 
     ```sh
-    tar -xvf offline-v0.40.0-arm64.tar
+    tar -xvf offline-v0.41.0-arm64.tar
     ```
 
 - See [Enterprise Installation Guide](../../install/commercial/start-install.md)
@@ -76,8 +76,8 @@ DCE 5.0 Enterprise includes the following modules, which can be used on-demand t
 | Modules | Description | Versions |
 | ------- | ----------- | -------- |
 | Global Management | Responsible for user access control, permissions, workspace and hierarchy, audit logs, and custom appearance. | [v0.46.0](../../ghippo/intro/release-notes.md#v0460) |
-| Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [v0.46.1](../../kpanda/intro/release-notes.md#v0461) |
-| Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.41.2](../../insight/intro/release-notes.md#v0412) |
+| Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [v0.47.0](../../kpanda/intro/release-notes.md#v0470) |
+| Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.42.0](../../insight/intro/release-notes.md#v0420) |
 | Workbench | A container-based DevOps application platform that supports Jenkins, Tekton, GitOps, and other pipeline jobs. | [v0.40.1](../../amamba/intro/release-notes.md#v0401) |
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
 | Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.55.0](../../skoala/intro/release-notes.md#v0550) |
@@ -88,11 +88,11 @@ DCE 5.0 Enterprise includes the following modules, which can be used on-demand t
 | Middleware MySQL | The most widely used open-source relational database. | [v0.30.1](../../middleware/mysql/release-notes.md#v0301) |
 | Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.32.0](../../middleware/rabbitmq/release-notes.md#v0320) |
 | Middleware Redis | An in-memory database caching service. | [v0.31.0](../../middleware/redis/release-notes.md#v0310) |
-| Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
+| Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.25.0](../../kangaroo/intro/release-notes.md#v0250) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.6](../../network/intro/release-notes.md#v0166) |
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v1.0.2](../../storage/hwameistor/release-notes.md#v102) |
-| AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.26.0](../../baize/intro/release-notes.md#v0260) |
-| LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities | [v0.14.0](../../hydra/intro/release-notes.md#v0140) |
+| AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.27.0](../../baize/intro/release-notes.md#v0270) |
+| LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities | [v0.15.0](../../hydra/intro/release-notes.md#v0150) |
 | Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.22.0](../../kant/intro/release-notes.md#v0220) |
 
 ## More
