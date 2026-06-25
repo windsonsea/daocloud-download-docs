@@ -13,8 +13,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Lastest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.41.0_amd64.tar.gz | v0.41.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_amd64.tar.gz) | 2026-04-09 |
-| prerequisite_v0.41.0_arm64.tar.gz | v0.41.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_arm64.tar.gz) | 2026-04-09 |
+| prerequisite_v0.41.0_amd64.tar.gz | v0.41.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_amd64.tar.gz) | 2026-06-08 |
+| prerequisite_v0.41.0_arm64.tar.gz | v0.41.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_arm64.tar.gz) | 2026-06-08 |
 
 ## Download DCE 5.0 Community
 
@@ -59,7 +59,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 472.82 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-06-10 |
-| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-06-02 |
+| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-06-12 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
