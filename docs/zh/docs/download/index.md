@@ -8,8 +8,8 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 | 最新离线包 | 版本 | 文件大小 | 下载 | 更新日期 |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.41.0_amd64.tar.gz | v0.41.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_amd64.tar.gz) | 2026-04-09 |
-| prerequisite_v0.41.0_arm64.tar.gz | v0.41.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_arm64.tar.gz) | 2026-04-09 |
+| prerequisite_v0.41.0_amd64.tar.gz | v0.41.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_amd64.tar.gz) | 2026-06-08 |
+| prerequisite_v0.41.0_arm64.tar.gz | v0.41.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.41.0_arm64.tar.gz) | 2026-06-08 |
 
 ## 下载社区版
 
@@ -64,8 +64,8 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-06-12 |
-| | 仪表盘| 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
-| | 微服务引擎| 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
+| | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
+| | 微服务引擎 | 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-06-02 |
 | | AI Lab | 1.69 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-06-11 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
