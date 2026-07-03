@@ -65,7 +65,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-06-12 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
-| | 微服务引擎 | 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-06-26 |
+| | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-06-26 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-06-02 |
 | | AI Lab | 1.69 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-06-11 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
