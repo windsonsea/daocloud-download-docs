@@ -44,11 +44,11 @@ DCE 5.0 provides comprehensive Addons for different use cases, which can be down
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
-| metax-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
-| gpu-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
-| gpu-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
-| standard-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
 | standard-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
+| standard-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
+| gpu-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
+| gpu-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
+| metax-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: Go to Download](./addon/v0.41.2.md) | 2026-06-27 |
 
 [Legacy Packages for Addons](./addon/history.md){ .md-button }
 
