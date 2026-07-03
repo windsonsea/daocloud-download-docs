@@ -12,26 +12,31 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
+| metax-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | AMD 64 | 4.12 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
+| gpu-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | <font color="green">ARM 64</font> | 9.37 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
+| gpu-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | AMD 64 | 18.88 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
+| standard-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | <font color="green">ARM 64</font> | 21.79 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
+| standard-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | AMD 64 | 35.19 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
 | standard-addon-offline-package-v0.40.0-amd64.tar.gz | v0.40.0 | AMD64 | 36.33 GB | [:arrow_right: Go to Download](./v0.40.0.md) | 2026-05-18 |
 | standard-addon-offline-package-v0.40.0-arm64.tar.gz | v0.40.0 | <font color="green">ARM64</font> | 22.86 GB | [:arrow_right: Go to Download](./v0.40.0.md) | 2026-05-18 |
 | gpu-addon-offline-package-v0.40.0-amd64.tar.gz | v0.40.0 | AMD64 | 18.88 GB | [:arrow_right: Go to Download](./v0.40.0.md) | 2026-05-18 |
 | gpu-addon-offline-package-v0.40.0-arm64.tar.gz | v0.40.0 | <font color="green">ARM64</font> | 9.37 GB | [:arrow_right: Go to Download](./v0.40.0.md) | 2026-05-18 |
 | metax-addon-offline-package-v0.40.0-amd64.tar.gz | v0.40.0 | AMD64 | 4.12 GB | [:arrow_right: Go to Download](./v0.40.0.md) | 2026-05-18 |
-| standard-addon-offline-package-v0.39.0-amd64.tar.gz | v0.39.0 | AMD64 | 32.40 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
-| standard-addon-offline-package-v0.39.0-arm64.tar.gz | v0.39.0 | <font color="green">ARM64</font> | 22.67 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
-| gpu-addon-offline-package-v0.39.0-amd64.tar.gz | v0.39.0 | AMD64 | 17.91 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
-| gpu-addon-offline-package-v0.39.0-arm64.tar.gz | v0.39.0 | <font color="green">ARM64</font> | 8.44 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
-| metax-addon-offline-package-v0.39.0-amd64.tar.gz | v0.39.0 | AMD64 | 4.12 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
-| standard-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | AMD64 | 29.70 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
-| standard-addon-offline-package-v0.38.0-arm64.tar.gz | v0.38.0 | <font color="green">ARM64</font> | 20.19 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
-| gpu-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | AMD64 | 17.91 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
-| gpu-addon-offline-package-v0.38.0-arm64.tar.gz | v0.38.0 | <font color="green">ARM64</font> | 8.44 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
-| metax-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | AMD64 | 4.12 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
 
 ??? note "Click to view historical releases"
 
     | Filename | Version | Architecture | Size | Download | Date |
     | -------- | ------- | ------------ | ---- | -------- | ---- |
+    | standard-addon-offline-package-v0.39.0-amd64.tar.gz | v0.39.0 | AMD64 | 32.40 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
+    | standard-addon-offline-package-v0.39.0-arm64.tar.gz | v0.39.0 | <font color="green">ARM64</font> | 22.67 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
+    | gpu-addon-offline-package-v0.39.0-amd64.tar.gz | v0.39.0 | AMD64 | 17.91 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
+    | gpu-addon-offline-package-v0.39.0-arm64.tar.gz | v0.39.0 | <font color="green">ARM64</font> | 8.44 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
+    | metax-addon-offline-package-v0.39.0-amd64.tar.gz | v0.39.0 | AMD64 | 4.12 GB | [:arrow_right: Go to Download](./v0.39.0.md) | 2026-04-16 |
+    | standard-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | AMD64 | 29.70 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
+    | standard-addon-offline-package-v0.38.0-arm64.tar.gz | v0.38.0 | <font color="green">ARM64</font> | 20.19 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
+    | gpu-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | AMD64 | 17.91 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
+    | gpu-addon-offline-package-v0.38.0-arm64.tar.gz | v0.38.0 | <font color="green">ARM64</font> | 8.44 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
+    | metax-addon-offline-package-v0.38.0-amd64.tar.gz | v0.38.0 | AMD64 | 4.12 GB | [:arrow_right: Go to Download](./v0.38.0.md) | 2026-03-04 |
     | standard-addon-offline-package-v0.37.0-amd64.tar.gz | v0.37.0 | AMD64 | 28.60 GB | [:arrow_right: Go to Download](./v0.37.0.md) | 2026-01-13 |
     | standard-addon-offline-package-v0.37.0-arm64.tar.gz | v0.37.0 | <font color="green">ARM64</font> | 19.13 GB | [:arrow_right: Go to Download](./v0.37.0.md) | 2026-01-13 |
     | gpu-addon-offline-package-v0.37.0-amd64.tar.gz | v0.37.0 | AMD64 | 17.91 GB | [:arrow_right: Go to Download](./v0.37.0.md) | 2026-01-13 |
