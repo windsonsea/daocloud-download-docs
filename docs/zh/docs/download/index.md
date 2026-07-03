@@ -39,11 +39,11 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 |--------| ---- | --- | --------- |
-| metax-addon-offline-package-v0.40.0-amd64.tar.gz | v0.40.0 | [:arrow_right: 下载页](./addon/v0.40.0.md) | 2026-05-18 |
-| gpu-addon-offline-package-v0.40.0-arm64.tar.gz | v0.40.0 | [:arrow_right: 下载页](./addon/v0.40.0.md) | 2026-05-18 |
-| gpu-addon-offline-package-v0.40.0-amd64.tar.gz | v0.40.0 | [:arrow_right: 下载页](./addon/v0.40.0.md) | 2026-05-18 |
-| standard-addon-offline-package-v0.40.0-arm64.tar.gz | v0.40.0 | [:arrow_right: 下载页](./addon/v0.40.0.md) | 2026-05-18 |
-| standard-addon-offline-package-v0.40.0-amd64.tar.gz | v0.40.0 | [:arrow_right: 下载页](./addon/v0.40.0.md) | 2026-05-18 |
+| metax-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: 下载页](./addon/v0.41.2.md) | 2026-06-27 |
+| gpu-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | [:arrow_right: 下载页](./addon/v0.41.2.md) | 2026-06-27 |
+| gpu-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: 下载页](./addon/v0.41.2.md) | 2026-06-27 |
+| standard-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | [:arrow_right: 下载页](./addon/v0.41.2.md) | 2026-06-27 |
+| standard-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | [:arrow_right: 下载页](./addon/v0.41.2.md) | 2026-06-27 |
 
 [Addon：更多历史版本](./addon/history.md){ .md-button }
 
@@ -53,7 +53,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 
 | 频道 | 模块 | 文件大小 | 下载 | 更新日期 |
 | --- | ---- | ------ | ---- | ------ |
-| 工作台 | 应用工作台 | 472.82 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-06-10 |
+| 工作台 | 应用工作台 | 489.47 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-06-30 |
 | 容器 | 容器管理 | 792.10 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-07-02 |
 | | 集群巡检 | 174.30 MB | [:arrow_right: 下载页](./modules/kcollie.md) | 2024-09-29 |
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
@@ -65,9 +65,9 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-06-12 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
-| | 微服务引擎 | 1.66 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2024-12-30 |
+| | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-06-26 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-06-02 |
-| | AI Lab | 1.69 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-06-11 |
+| | AI Lab | 2.43 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-06-29 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: 下载页](./modules/middleware/minio.md) | 2025-12-16 |
@@ -78,8 +78,8 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | Redis | 607.47 MB | [:arrow_right: 下载页](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
-| 管理 | 全局管理 | 515.53 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-05-12 |
-| | 运营管理 | 124.51 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-06-09 |
+| 管理 | 全局管理 | 498.05 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-07-01 |
+| | 运营管理 | 124.49 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-06-27 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
 | 推理 | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-04-27 |
 
