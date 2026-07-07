@@ -58,7 +58,7 @@ hide:
     执行以下命令解压缩 tar 包：
 
     ```sh
-    tar -zxvf offline-community-v0.42.0-amd64.tar
+    tar -xvf offline-community-v0.42.0-amd64.tar
     ```
 
 === "<font color="green">ARM 64</font>"
