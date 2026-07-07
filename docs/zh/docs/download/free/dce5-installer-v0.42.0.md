@@ -66,7 +66,7 @@ hide:
     执行以下命令解压缩 tar 包：
 
     ```sh
-    tar -zxvf offline-community-v0.42.0-arm64.tar
+    tar -xvf offline-community-v0.42.0-arm64.tar
     ```
 
 - 安装请参阅[社区版安装流程](../../install/community/k8s/online.md#_2)
