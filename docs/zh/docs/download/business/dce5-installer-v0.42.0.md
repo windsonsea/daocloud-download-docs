@@ -66,7 +66,7 @@ hide:
     执行以下命令解压缩 tar 包：
 
     ```sh
-    tar -zxvf offline-v0.42.0-arm64.tar
+    tar -xvf offline-v0.42.0-arm64.tar
     ```
 
 - 安装请参阅[商业版安装流程](../../install/commercial/start-install.md)
