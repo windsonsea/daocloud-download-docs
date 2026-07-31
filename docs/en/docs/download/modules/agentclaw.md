@@ -5,30 +5,31 @@ hide:
 
 # ClawOS
 
-本页可下载 ClawOS 模块各版本的离线安装包。
+This page provides offline installation packages for different versions of the ClawOS module.
 
-## 下载
+## Download
 
-| 版本 | 架构 | 文件大小 | 安装包 | 校验文件 | 更新日期 |
+| Version | Architecture | File Size | Installation Package | Checksum File | Update Date |
 | ---- | --- | ------ | ------ | ------ | ------- |
 | [v0.5.1](../../agentclaw/intro/release-notes.md) | AMD 64 | 2.10 GB | [:arrow_down: agentclaw_v0.5.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/agentclaw_v0.5.1_amd64.tar) | [:arrow_down: agentclaw_v0.5.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/agentclaw_v0.5.1_amd64_checksum.sha512sum) | 2026-07-31 |
 | [v0.5.1](../../agentclaw/intro/release-notes.md) | <font color="green">ARM 64</font> | 2.10 GB | [:arrow_down: agentclaw_v0.5.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/agentclaw_v0.5.1_arm64.tar) | [:arrow_down: agentclaw_v0.5.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/agentclaw_v0.5.1_arm64_checksum.sha512sum) | 2026-07-31 |
 
-## 校验
+## Verification
 
-在下载离线安装包和校验文件的目录，以 `v0.5.1_amd64` 为例，执行以下命令校验完整性：
+In the directory where the offline installation package and checksum file are downloaded, use `v0.5.1_amd64` as an example and run the following command to verify the package integrity:
 
 ```sh
 echo "$(cat agentclaw_v0.5.1_amd64_checksum.sha512sum)" | sha512sum -c
 ```
 
-校验成功后打印结果类似于：
+If the verification is successful, the output should be similar to:
 
 ```none
 agentclaw_v0.5.1_amd64.tar: ok
 ```
 
-## 安装
+## Installation
 
-如果是初次安装，请[申请免费体验](../../dce/license0.md)或联系我们授权：电邮 info@daocloud.io 或致电 400 002 6898。
-如果有任何许可密钥相关的问题，请联系 DaoCloud 交付团队。
+For first-time installation, [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
+
+For any license key-related issues, please contact the DaoCloud delivery team.
