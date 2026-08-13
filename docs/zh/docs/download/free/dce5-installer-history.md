@@ -10,6 +10,8 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
+| offline-community-v0.43.0-amd64.tar | v0.43.0 | AMD 64 | 17.44 GB | [:arrow_right: 下载页](./dce5-installer-v0.43.0.md) | 2026-08-13 |
+| offline-community-v0.43.0-arm64.tar | v0.43.0 | <font color="green">ARM 64</font> | 16.69 GB | [:arrow_right: 下载页](./dce5-installer-v0.43.0.md) | 2026-08-13 |
 | offline-community-v0.42.0-amd64.tar | v0.42.0 | AMD 64 | 14.21 GB | [:arrow_right: 下载页](./dce5-installer-v0.42.0.md) | 2026-07-07 |
 | offline-community-v0.42.0-arm64.tar | v0.42.0 | <font color="green">ARM 64</font> | 12.73 GB | [:arrow_right: 下载页](./dce5-installer-v0.42.0.md) | 2026-07-07 |
 | offline-community-v0.41.0-amd64.tar | v0.41.0 | AMD 64 | 12.97 GB | [:arrow_right: 下载页](./dce5-installer-v0.41.0.md) | 2026-06-08 |
