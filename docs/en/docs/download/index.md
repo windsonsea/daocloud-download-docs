@@ -59,7 +59,7 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 489.47 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-07-03 |
-| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-07-02 |
+| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-08-03 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
@@ -68,9 +68,9 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
-| Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-06-12 |
+| Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-08-03 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
-| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-06-26 |
+| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-08-11 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
 | | AI Lab | 2.43 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-06-29 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
@@ -83,11 +83,11 @@ The numerous modules included in DCE 5.0 can be downloaded separately to upgrade
 | | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
-| Management | Global Management | 498.05 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-07-07 |
+| Management | Global Management | 498.05 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-08-06 |
 | | Operations Management | 124.51 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
 | Inference | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-04-27 |
-| | ClawOS | - | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-07-31 |
+| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-08-06 |
 
 !!! note
 
