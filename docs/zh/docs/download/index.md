@@ -62,7 +62,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 镜像仓库 | 304.16 MB | [:arrow_right: 下载页](./modules/kangaroo.md) | 2024-10-11 |
 | | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
-| | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
+| | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2026-08-30 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-08-03 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-08-26 |
