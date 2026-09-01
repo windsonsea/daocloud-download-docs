@@ -3,9 +3,7 @@ MTPE: windsonsea
 date: 2025-11-18
 ---
 
-# DCE 5.0
-
-DCE 5.0 has two versions for Community and Enterprise.
+# Download Hub
 
 Currently, only offline packages are provided in the download center. For online installation methods, refer to [Online Installation](../install/index.md).
 
@@ -40,7 +38,7 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 ## Download Addons
 
-DCE 5.0 provides comprehensive Addons for different use cases, which can be downloaded and used as needed.
+DaoCloud provides comprehensive Addons for different use cases, which can be downloaded and used as needed.
 
 | Lastest Package | Version | Download | Date |
 | -------- | ------- | -------- | ----------- |
@@ -54,7 +52,7 @@ DCE 5.0 provides comprehensive Addons for different use cases, which can be down
 
 ## Download Modules
 
-The numerous modules included in DCE 5.0 can be downloaded separately to upgrade each module on demand.
+The numerous modules can be downloaded separately to upgrade each module on demand.
 
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |

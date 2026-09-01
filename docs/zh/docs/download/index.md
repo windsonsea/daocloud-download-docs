@@ -1,6 +1,4 @@
-# DaoCloud Enterprise 5.0 下载导览页
-
-DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
+# 下载导览页
 
 目前下载中心仅提供离线安装包。有关在线安装方式，请参阅[在线安装](../install/index.md)。
 
@@ -35,7 +33,7 @@ DaoCloud Enterprise 5.0 有两个版本：社区版和商业版。
 
 ## 下载 Addon 离线包
 
-DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下载使用。
+针对不同的应用场景提供了完善的 Addon，您可以按需下载使用。
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 |--------| ---- | --- | --------- |
@@ -49,11 +47,11 @@ DCE 5.0 针对不同的应用场景提供了完善的 Addon，您可以按需下
 
 ## 下载子模块
 
-DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行升级。
+为众多子模块提供了单独的离线包供下载，可按需对每个模块进行升级。
 
 | 频道 | 模块 | 文件大小 | 下载 | 更新日期 |
 | --- | ---- | ------ | ---- | ------ |
-| 工作台 | 应用工作台 | 489.48 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-08-26 |
+| 工作台 | 应用工作台 | 489.48 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-07-03 |
 | 容器 | 容器管理 | 792.10 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-08-03 |
 | | 集群巡检 | 174.30 MB | [:arrow_right: 下载页](./modules/kcollie.md) | 2024-09-29 |
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
@@ -62,7 +60,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 | | 镜像仓库 | 304.16 MB | [:arrow_right: 下载页](./modules/kangaroo.md) | 2024-10-11 |
 | | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
-| | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2026-08-30 |
+| | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-08-03 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-08-26 |
@@ -95,7 +93,7 @@ DCE 5.0 包含的众多子模块可以单独下载，按需对每个模块进行
 
 ## 下载产品文档
 
-本节提供 DCE 5.0 各个模块的离线文档 PDF 和 Docx 供查阅和下载。
+本节提供各个模块的离线文档 PDF 和 Docx 供查阅和下载。
 
 | 模块 | 文件大小 | 下载 | 更新日期 | 备注 |
 | --- | ---- | ---- | ------ | ---- |
