@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Community with Installer v0.13.0
+# DCE Community with Installer v0.13.0
 
-This page provides offline installation packages and verification files for DCE 5.0 Community.
+This page provides offline installation packages and verification files for DCE Community.
 
 [Return to Download Guide](../index.md){ .md-button } [Legacy Packages](./dce5-installer-history.md){ .md-button }
 
@@ -75,7 +75,7 @@ After successfully verifying the offline package,
 
 ## Modules
 
-DCE 5.0 Community includes the following modules by default:
+DCE Community includes the following modules by default:
 
 | Modules | Introduction | What's New |
 | -------- | ----------- | ---------- |

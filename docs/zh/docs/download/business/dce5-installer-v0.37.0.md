@@ -4,9 +4,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 商业版 v0.37.0
+# DCE 商业版 v0.37.0
 
-本页可下载 DCE 5.0 商业版的离线安装包和校验文件。
+本页可下载 DCE 商业版的离线安装包和校验文件。
 
 [返回下载导览页](../index.md#_2){ .md-button } [更多历史版本](./dce5-installer-history.md){ .md-button }
 

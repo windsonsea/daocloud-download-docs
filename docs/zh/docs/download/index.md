@@ -79,7 +79,7 @@
 | 管理 | 全局管理 | 498.06 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-08-06 |
 | | 运营管理 | 124.49 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-06-27 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
-| 云原生 AI | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-04-27 |
+| 云原生 AI | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-09-03 |
 | | ClawOS | 2.37 GB | [:arrow_right: 下载页](./modules/agentclaw.md) | 2026-09-03 |
 
 !!! note
@@ -97,7 +97,7 @@
 
 | 模块 | 文件大小 | 下载 | 更新日期 | 备注 |
 | --- | ---- | ---- | ------ | ---- |
-| DCE 5.0 产品介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2025-01-21 | DCE 5.0 总体产品简介 |
+| DCE 产品介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2025-01-21 | DCE 总体产品简介 |
 | 商业版安装部署手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2025-03-09 | 精修版 |
 | 应用工作台 | 1.9 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
 | 容器管理 | 24.9 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2025-03-10 | [mdctl](https://github.com/samzong/mdctl) 批量 md-docx 转换版 |
@@ -124,5 +124,5 @@
 
     ![书签和目录](./images/bookmark-toc.png)
 
-[安装 DCE 5.0](../install/index.md){ .md-button .md-button--primary }
+[安装 DCE](../install/index.md){ .md-button .md-button--primary }
 [申请社区免费体验](../dce/license0.md){ .md-button .md-button--primary }
