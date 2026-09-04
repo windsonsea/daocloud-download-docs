@@ -7,7 +7,7 @@ hide:
 
 # Addon Historical Versions
 
-This page lists all the Addon offline packages released for DCE 5.0.
+This page lists all the Addon offline packages released for DCE.
 You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |

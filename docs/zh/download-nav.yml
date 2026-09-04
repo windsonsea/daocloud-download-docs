@@ -2,8 +2,8 @@ nav:
   - 下载中心:
       - DaoCloud 下载站:
           - 导览页: download/index.md
-          - 下载 DCE 5.0 社区版: download/free/dce5-installer-history.md
-          - 下载 DCE 5.0 商业版: download/business/dce5-installer-history.md
+          - 下载 DCE 社区版: download/free/dce5-installer-history.md
+          - 下载 DCE 商业版: download/business/dce5-installer-history.md
           - 下载 Addon 离线包: download/addon/history.md
           - 下载子模块:
               - 应用工作台: download/modules/amamba.md

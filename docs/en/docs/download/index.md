@@ -14,7 +14,7 @@ Currently, only offline packages are provided in the download center. For online
 | prerequisite_v0.43.0_amd64.tar.gz | v0.43.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.43.0_amd64.tar.gz) | 2026-08-13 |
 | prerequisite_v0.43.0_arm64.tar.gz | v0.43.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.43.0_arm64.tar.gz) | 2026-08-13 |
 
-## Download DCE 5.0 Community
+## Download DCE Community
 
 This package is dedicated to the community and is available for free trial.
 
@@ -23,9 +23,9 @@ This package is dedicated to the community and is available for free trial.
 | offline-community-v0.43.0-amd64.tar | v0.43.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.43.0.md) | 2026-08-13 |
 | offline-community-v0.43.0-arm64.tar | v0.43.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.43.0.md) | 2026-08-13 |
 
-[Legacy Packages for DCE 5.0 Community](./free/dce5-installer-history.md){ .md-button } 
+[Legacy Packages for DCE Community](./free/dce5-installer-history.md){ .md-button } 
 
-## Download DCE 5.0 Enterprise
+## Download DCE Enterprise
 
 This package is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules.
 
@@ -34,7 +34,7 @@ This package is suitable for private cloud, hybrid cloud, multicloud, microservi
 | offline-v0.43.0-amd64.tar | v0.43.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.43.0.md) | 2026-08-13 |
 | offline-v0.43.0-arm64.tar | v0.43.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.43.0.md) | 2026-08-13 |
 
-[Legacy Packages for DCE 5.0 Enterprise](./business/dce5-installer-history.md){ .md-button } 
+[Legacy Packages for DCE Enterprise](./business/dce5-installer-history.md){ .md-button } 
 
 ## Download Addons
 
@@ -57,7 +57,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 489.47 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-07-03 |
-| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-08-03 |
+| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-09-02 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
@@ -66,9 +66,9 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
-| Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-08-03 |
+| Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-09-03 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
-| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-08-11 |
+| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-08-26 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
 | | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-09-02 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
@@ -84,25 +84,25 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | Management | Global Management | 498.05 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-08-06 |
 | | Operations Management | 124.51 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
-| Inference | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-04-27 |
-| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-08-06 |
+| Inference | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-09-03 |
+| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-09-03 |
 
 !!! note
 
     - After upgrading the module, you may need to re-import the license and activate it.
-    - DCE 5.0 is still in the early stage of release, and offline packages for various modules will be added gradually.
+    - DCE is still in the early stage of release, and offline packages for various modules will be added gradually.
     - If you have any questions, [provide feedback](https://github.com/DaoCloud/DaoCloud-docs/issues).
     - Welcome to scan the QR code to communicate with developers:
 
-    ![WeCom Group for DCE 5.0 Community](https://docs.daocloud.io/daocloud-docs-images/docs/images/assist.png)
+    ![WeCom Group for DCE Community](https://docs.daocloud.io/daocloud-docs-images/docs/images/assist.png)
 
 ## Download Product Documentation
 
-This section provides offline documentation in PDF and Docx formats for various modules of DCE 5.0, available for viewing and download.
+This section provides offline documentation in PDF and Docx formats for various modules of DCE, available for viewing and download.
 
 | Module | File Size | Download | Updated Date | Notes |
 | --- | ---- | ---- | ------ | ---- |
-| DCE 5.0 Product Overview | 1.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2025-01-21 | General introduction to DCE 5.0 |
+| DCE Product Overview | 1.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2025-01-21 | General introduction to DCE |
 | Commercial Package Installation & Deployment Guide | 5.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2025-03-09 | Refined version |
 | Workbench | 1.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Container Management | 24.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
@@ -126,5 +126,5 @@ This section provides offline documentation in PDF and Docx formats for various 
     - For batch generation of Docx and PDF files, refer to [mdctl batch processing steps](https://docs.daocloud.io/native/git/md-docx).
     - While viewing PDFs, you can use **bookmarks** and **table of contents** to quickly browse and navigate to specific sections.
 
-[Install DCE 5.0](../install/index.md){ .md-button .md-button--primary }
+[Install DCE](../install/index.md){ .md-button .md-button--primary }
 [Free Trial](../dce/license0.md){ .md-button .md-button--primary }

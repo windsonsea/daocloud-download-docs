@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Enterprise with Installer v0.42.0
+# DCE Enterprise with Installer v0.42.0
 
-This page provides offline installation packages and checksum files for DCE 5.0 Enterprise edition.
+This page provides offline installation packages and checksum files for DCE Enterprise edition.
 
 [Return to Download Index](../index.md#download-dce-50-enterprise){ .md-button } [More Historical Versions](./dce5-installer-history.md){ .md-button }
 
@@ -71,7 +71,7 @@ After verification, extract:
 
 ## Modules
 
-DCE 5.0 Enterprise includes the following modules, which can be used on-demand to meet various application scenarios:
+DCE Enterprise includes the following modules, which can be used on-demand to meet various application scenarios:
 
 | Modules | Description | Versions |
 | ------- | ----------- | -------- |

@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Enterprise with Installer v0.11.0
+# DCE Enterprise with Installer v0.11.0
 
-This page provides downloads for the offline package and checksum files of DCE 5.0 Enterprise.
+This page provides downloads for the offline package and checksum files of DCE Enterprise.
 
 [Return to Download Index](../index.md#download-enterprise-package){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
@@ -71,12 +71,12 @@ After the offline package has been successfully verifyd,
     tar -zxvf offline-v0.11.0-arm64.tar
     ```
 
-- For installation instructions, refer to [DCE 5.0 Enterprise Installation Process](../../install/commercial/start-install.md)
+- For installation instructions, refer to [DCE Enterprise Installation Process](../../install/commercial/start-install.md)
 - After successful installation, please contact us for authorization: email info@daocloud.io or call 400 002 6898
 
 ## Modules
 
-DCE 5.0 Enterprise includes the following modules,
+DCE Enterprise includes the following modules,
 which are plug-and-play to meet various application scenarios:
 
 | Modules | Description | Versions |

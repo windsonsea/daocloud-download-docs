@@ -6,7 +6,7 @@ hide:
 
 # DaoCloud Enterprise 5.0 商业版
 
-本页列出了已发布的 DCE 5.0 所有商业版离线安装包，您可以按需择一下载：
+本页列出了已发布的 DCE 所有商业版离线安装包，您可以按需择一下载：
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
@@ -102,4 +102,4 @@ hide:
     | offline-v0.5.0-arm64.tar | v0.5.0 | <font color="green">ARM 64</font> | 14.56 GB | [:arrow_right: 下载页](./dce5-installer-v0.5.0.md) | 2023-03-06 |
     | offline-v0.5.0-amd64.tar | v0.5.0 | AMD 64 | 15.86 GB | [:arrow_right: 下载页](./dce5-installer-v0.5.0.md) | 2023-03-06 |
 
-参见 [DCE 5.0 商业版安装步骤](../../install/index.md#_3)。
+参见 [DCE 商业版安装步骤](../../install/index.md#_3)。
