@@ -52,7 +52,7 @@
 | 频道 | 模块 | 文件大小 | 下载 | 更新日期 |
 | --- | ---- | ------ | ---- | ------ |
 | 工作台 | 应用工作台 | 489.48 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-07-03 |
-| 容器 | 容器管理 | 792.10 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-08-03 |
+| 容器 | 容器管理 | 792.10 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-09-02 |
 | | 集群巡检 | 174.30 MB | [:arrow_right: 下载页](./modules/kcollie.md) | 2024-09-29 |
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
 | | 安全管理 | 167.29 MB | [:arrow_right: 下载页](./modules/dowl.md) | 2023-11-26 |
@@ -65,7 +65,7 @@
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-08-26 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-07-28 |
-| | AI Lab | 2.43 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-06-29 |
+| | AI Lab | 1.64 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-09-02 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: 下载页](./modules/middleware/minio.md) | 2025-12-16 |
