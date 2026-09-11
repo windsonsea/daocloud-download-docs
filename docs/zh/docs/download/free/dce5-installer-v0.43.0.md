@@ -85,4 +85,4 @@ DCE 社区版默认包含以下模块：
 ## 更多
 
 - [在线文档](../../dce/index.md)
-- [报告 bug](https://github.com/DaoCloud/DaoCloud-docs/issues)
+- [报告 Bug](https://github.com/DaoCloud/DaoCloud-docs/issues)

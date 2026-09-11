@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-# DaoCloud Enterprise 5.0 商业版
+# DaoCloud Enterprise 商业版
 
-本页列出了已发布的 DCE 所有商业版离线安装包，您可以按需择一下载：
+本页列出了已发布的 DaoCloud Enterprise（DCE）所有商业版离线安装包，您可以按需下载：
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
@@ -14,13 +14,13 @@ hide:
 | offline-v0.43.0-arm64.tar | v0.43.0 | <font color="green">ARM 64</font> | 35.41 GB | [:arrow_right: 下载页](./dce5-installer-v0.43.0.md) | 2026-08-13 |
 | offline-v0.42.0-amd64.tar | v0.42.0 | AMD 64 | 35.57 GB | [:arrow_right: 下载页](./dce5-installer-v0.42.0.md) | 2026-07-07 |
 | offline-v0.42.0-arm64.tar | v0.42.0 | <font color="green">ARM 64</font> | 31.52 GB | [:arrow_right: 下载页](./dce5-installer-v0.42.0.md) | 2026-07-07 |
-| offline-v0.41.0-amd64.tar | v0.41.0 | AMD 64 | 35.13 GB | [:arrow_right: 下载页](./dce5-installer-v0.41.0.md) | 2026-06-08 |
-| offline-v0.41.0-arm64.tar | v0.41.0 | <font color="green">ARM 64</font> | 31.64 GB | [:arrow_right: 下载页](./dce5-installer-v0.41.0.md) | 2026-06-08 |
 
 ??? note "展开查看历史版本"
 
     | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
     | ------- | --- | ---- | ------ | --- | ------- |
+    | offline-v0.41.0-amd64.tar | v0.41.0 | AMD 64 | 35.13 GB | [:arrow_right: 下载页](./dce5-installer-v0.41.0.md) | 2026-06-08 |
+    | offline-v0.41.0-arm64.tar | v0.41.0 | <font color="green">ARM 64</font> | 31.64 GB | [:arrow_right: 下载页](./dce5-installer-v0.41.0.md) | 2026-06-08 |
     | offline-v0.40.0-amd64.tar | v0.40.0 | AMD 64 | 35.06 GB | [:arrow_right: 下载页](./dce5-installer-v0.40.0.md) | 2026-05-15 |
     | offline-v0.40.0-arm64.tar | v0.40.0 | <font color="green">ARM 64</font> | 31.66 GB | [:arrow_right: 下载页](./dce5-installer-v0.40.0.md) | 2026-05-15 |
     | offline-v0.39.0-amd64.tar | v0.39.0 | AMD 64 | 35.08 GB | [:arrow_right: 下载页](./dce5-installer-v0.39.0.md) | 2026-04-09 |
