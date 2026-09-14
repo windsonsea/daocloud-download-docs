@@ -8,7 +8,7 @@ hide:
 
 本页可下载 d.run AI 操作系统的离线安装包。
 
-[返回下载导览页](../index.md#_2){ .md-button } [更多历史版本](./dce5-installer-history.md){ .md-button }
+[返回下载导览页](../index.md#_2){ .md-button } [更多历史版本](./index.md){ .md-button }
 
 ## 下载
 

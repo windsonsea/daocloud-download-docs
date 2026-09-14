@@ -15,8 +15,8 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
-| offline-v0.43.0-arm64.tar | v0.43.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.43.0.md) | 2026-08-13 |
-| offline-v0.43.0-amd64.tar | v0.43.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.43.0.md) | 2026-08-13 |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
 
 [查看更多历史版本](./tf/index.md){ .md-button } 
 
@@ -26,8 +26,8 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
-| offline-v0.43.0-arm64.tar | v0.43.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.43.0.md) | 2026-08-13 |
-| offline-v0.43.0-amd64.tar | v0.43.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.43.0.md) | 2026-08-13 |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
 
 [查看更多历史版本](./drun/index.md){ .md-button } 
 
