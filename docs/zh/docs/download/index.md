@@ -9,7 +9,31 @@
 | prerequisite_v0.44.0_amd64.tar.gz | v0.44.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_amd64.tar.gz) | 2026-09-14 |
 | prerequisite_v0.44.0_arm64.tar.gz | v0.44.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_arm64.tar.gz) | 2026-09-14 |
 
-## 下载社区版
+## 下载 d.run Token 工厂效能平台
+
+此产品适合 AI 智算场景打造的一体化平台。
+
+| 最新离线包 | 版本 | 下载 | 更新日期 |
+| ----- | ----- | ---- | --------- |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
+
+[查看更多历史版本](./tf/index.md){ .md-button } 
+
+## 下载 d.run AI 操作系统
+
+此产品适合面向企业全部门输出稳定高效的 AI 服务。
+
+| 最新离线包 | 版本 | 下载 | 更新日期 |
+| ----- | ----- | ---- | --------- |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
+
+[查看更多历史版本](./drun/index.md){ .md-button } 
+
+## 下载 DCE 云原生操作系统
+
+### 下载 DCE 社区版
 
 此版本面向社区，欢迎免费体验。
 
@@ -18,9 +42,9 @@
 | offline-community-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.44.0.md) | 2026-09-14 |
 | offline-community-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.44.0.md) | 2026-09-14 |
 
-[社区版：更多历史版本](./free/dce5-installer-history.md){ .md-button } 
+[查看更多历史版本](./free/dce5-installer-history.md){ .md-button } 
 
-## 下载商业版
+### 下载 DCE 商业版
 
 此版本适合搭建私有云、混合云、多云、微服务等场景，可以定制丰富多样的云原生模块。
 
@@ -29,7 +53,7 @@
 | offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.44.0.md) | 2026-09-14 |
 | offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.44.0.md) | 2026-09-14 |
 
-[商业版：更多历史版本](./business/dce5-installer-history.md){ .md-button } 
+[查看更多历史版本](./business/dce5-installer-history.md){ .md-button } 
 
 ## 下载 Addon 离线包
 
@@ -43,7 +67,7 @@
 | standard-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | [:arrow_right: 下载页](./addon/v0.43.0.md) | 2026-08-17 |
 | standard-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | [:arrow_right: 下载页](./addon/v0.43.0.md) | 2026-08-17 |
 
-[Addon：更多历史版本](./addon/history.md){ .md-button }
+[查看更多历史版本](./addon/history.md){ .md-button }
 
 ## 下载子模块
 

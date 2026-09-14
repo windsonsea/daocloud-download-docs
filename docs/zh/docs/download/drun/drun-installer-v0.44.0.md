@@ -4,11 +4,11 @@ hide:
   - navigation
 ---
 
-# DCE 商业版 v0.44.0
+# d.run AI 操作系统 v0.44.0
 
-本页可下载 DCE 商业版的离线安装包和校验文件。
+本页可下载 d.run AI 操作系统的离线安装包和校验文件。
 
-[返回下载导览页](../index.md#_2){ .md-button } [更多历史版本](./dce5-installer-history.md){ .md-button }
+[返回下载导览页](../index.md#_2){ .md-button } [更多历史版本](./index.md){ .md-button }
 
 ## 下载
 
@@ -74,7 +74,7 @@ hide:
 
 ## 模块
 
-DCE 商业版包含以下模块，按需即插即用满足各类应用场景：
+d.run AI 操作系统包含以下模块，按需即插即用满足各类应用场景：
 
 | 模块 | 介绍 | 最新动态 |
 | ---- | --- | ------ |
@@ -99,8 +99,7 @@ DCE 商业版包含以下模块，按需即插即用满足各类应用场景：
 | 网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [v0.19.0](../../network/intro/release-notes.md#v0190) |
 | 存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v1.1.1](../../storage/hwameistor/release-notes.md#v111) |
 
-
 ## 更多
 
-- [在线文档](../../dce/index.md)
+- [在线文档](../../index.md)
 - [报告 bug](https://github.com/DaoCloud/DaoCloud-docs/issues)
