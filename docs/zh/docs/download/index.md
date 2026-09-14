@@ -6,8 +6,8 @@
 
 | 最新离线包 | 版本 | 文件大小 | 下载 | 更新日期 |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.43.0_amd64.tar.gz | v0.43.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.43.0_amd64.tar.gz) | 2026-08-13 |
-| prerequisite_v0.43.0_arm64.tar.gz | v0.43.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.43.0_arm64.tar.gz) | 2026-08-13 |
+| prerequisite_v0.44.0_amd64.tar.gz | v0.44.0 | 119.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_amd64.tar.gz) | 2026-08-13 |
+| prerequisite_v0.44.0_arm64.tar.gz | v0.44.0 | 107.0 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_arm64.tar.gz) | 2026-08-13 |
 
 ## 下载社区版
 
