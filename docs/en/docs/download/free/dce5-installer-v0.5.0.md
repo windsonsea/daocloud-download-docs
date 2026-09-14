@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Community with Installer v0.5.0
+# DCE Community with Installer v0.5.0
 
-This page allows you to download the offline package and checksum file of DCE 5.0 Community.
+This page allows you to download the offline package and checksum file of DCE Community.
 
 [Return to Download Index](../index.md){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
@@ -71,12 +71,12 @@ After the offline package has been successfully verifyd,
      tar -zxvf offline-community-v0.5.0-arm64.tar
      ```
 
-- For installation, refer to [DCE 5.0 Community Installation Process](../../install/community/k8s/online.md#_2)
+- For installation, refer to [DCE Community Installation Process](../../install/community/k8s/online.md#_2)
 - After successful installation, [Free Trial](../../dce/license0.md)
 
 ## Modules
 
-DCE 5.0 Community includes the following modules by default:
+DCE Community includes the following modules by default:
 
 | Modules | Introduction | What's New |
 | -------- | ----------- | ---------- |

@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Community with Installer v0.12.0
+# DCE Community with Installer v0.12.0
 
-This page provides downloads for the offline package and checksum files for DCE 5.0 Community.
+This page provides downloads for the offline package and checksum files for DCE Community.
 
 [Return to Download Index](../index.md){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
@@ -76,7 +76,7 @@ After the offline package has been successfully verifyd,
 
 ## Modules
 
-DCE 5.0 Community includes the following modules by default:
+DCE Community includes the following modules by default:
 
 | Modules | Introduction | What's New |
 | -------- | ----------- | ---------- |

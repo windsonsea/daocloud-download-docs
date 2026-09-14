@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Community with Installer v0.3.28
+# DCE Community with Installer v0.3.28
 
-This page allows you to download the offline package of DCE 5.0 Community.
+This page allows you to download the offline package of DCE Community.
 
 [Return to Download Index](../index.md){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
@@ -40,12 +40,12 @@ After the offline package has been successfully verifyd, unpack the tarball:
 tar -zxvf offline-community-v0.3.28.tar
 ```
 
-Then refer to [DCE 5.0 Community Installation Process](../../install/index.md#_2) to install.
+Then refer to [DCE Community Installation Process](../../install/index.md#_2) to install.
 If you are installing for the first time or have forgotten your license key, [apply for a free community experience](../../dce/license0.md).
 
 ## Modules
 
-DCE 5.0 Community includes the following modules by default:
+DCE Community includes the following modules by default:
 
 | Modules | Introduction | What's New |
 | -------- | ----------- | ---------- |

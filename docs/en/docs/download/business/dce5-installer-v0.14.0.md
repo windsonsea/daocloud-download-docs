@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Enterprise with Installer v0.14.0
+# DCE Enterprise with Installer v0.14.0
 
-This page provides downloads for the offline installation package and verification files for DCE 5.0 Enterprise.
+This page provides downloads for the offline installation package and verification files for DCE Enterprise.
 
 [Return to Download Guide](../index.md#_2){ .md-button } [More Version History](./dce5-installer-history.md){ .md-button }
 
@@ -75,7 +75,7 @@ After successfully verifying the offline package,
 
 ## Modules
 
-DCE 5.0 Enterprise includes the following modules, which can be used on-demand to meet various application scenarios:
+DCE Enterprise includes the following modules, which can be used on-demand to meet various application scenarios:
 
 | Modules | Description | Versions |
 | ------- | ----------- | -------- |

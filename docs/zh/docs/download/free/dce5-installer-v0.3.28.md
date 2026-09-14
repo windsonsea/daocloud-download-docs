@@ -4,9 +4,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 社区版 v0.3.28
+# DCE 社区版 v0.3.28
 
-本页可下载 DCE 5.0 社区版的离线安装包。
+本页可下载 DCE 社区版的离线安装包。
 
 [返回下载导览页](../index.md){ .md-button } [更多历史版本](./dce5-installer-history.md){ .md-button }
 
@@ -43,7 +43,7 @@ tar -zxvf offline-community-v0.3.28.tar
 
 ## 模块
 
-DCE 5.0 社区版默认包含以下模块：
+DCE 社区版默认包含以下模块：
 
 | 模块 | 介绍 | 最新动态 |
 | --- | ---- | ------ |

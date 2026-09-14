@@ -1,9 +1,9 @@
 nav:
   - Downloads:
-      - DaoCloud Enterprise 5.0:
+      - DaoCloud Download Hub:
           - Index: download/index.md
-          - Download DCE 5.0 Community: download/free/dce5-installer-history.md
-          - Download DCE 5.0 Enterprise: download/business/dce5-installer-history.md
+          - Download DCE Community: download/free/dce5-installer-history.md
+          - Download DCE Enterprise: download/business/dce5-installer-history.md
           - Download Addon: download/addon/history.md
           - Download Modules:
               - Workbench: download/modules/amamba.md
@@ -32,7 +32,13 @@ nav:
                   - RabbitMQ: download/modules/middleware/rabbitmq.md
                   - Redis: download/modules/middleware/redis.md
                   - RocketMQ: download/modules/middleware/rocketmq.md
+              - Cloud Native AI:
+                  - LLM Studio: download/modules/hydra.md
+                  - AI Lab: download/modules/baize.md
+                  - Inference Acceleration: download/modules/inferx.md
+                  - ClawOS: download/modules/agentclaw.md
               - Cloud Edge Collaboration: download/modules/kant.md
               - Management:
                   - Global Management: download/modules/ghippo.md
                   - Operation Management: download/modules/gmagpie.md
+                  - Device Management: download/modules/topohub.md

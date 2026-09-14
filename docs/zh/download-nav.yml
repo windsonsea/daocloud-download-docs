@@ -1,9 +1,9 @@
 nav:
   - 下载中心:
-      - DaoCloud Enterprise 5.0:
+      - DaoCloud 下载站:
           - 导览页: download/index.md
-          - 下载 DCE 5.0 社区版: download/free/dce5-installer-history.md
-          - 下载 DCE 5.0 商业版: download/business/dce5-installer-history.md
+          - 下载 DCE 社区版: download/free/dce5-installer-history.md
+          - 下载 DCE 商业版: download/business/dce5-installer-history.md
           - 下载 Addon 离线包: download/addon/history.md
           - 下载子模块:
               - 应用工作台: download/modules/amamba.md
@@ -32,7 +32,13 @@ nav:
                   - RabbitMQ: download/modules/middleware/rabbitmq.md
                   - Redis: download/modules/middleware/redis.md
                   - RocketMQ: download/modules/middleware/rocketmq.md
+              - 云原生 AI:
+                  - 大模型服务平台: download/modules/hydra.md
+                  - AI Lab: download/modules/baize.md
+                  - 推理加速: download/modules/inferx.md
+                  - ClawOS: download/modules/agentclaw.md
               - 云边协同: download/modules/kant.md
-              - 全局&运营管理:
+              - 全局/运营/设备管理:
                   - 全局管理: download/modules/ghippo.md
                   - 运营管理: download/modules/gmagpie.md
+                  - 设备管理: download/modules/topohub.md

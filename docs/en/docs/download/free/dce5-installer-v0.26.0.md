@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Community with Installer v0.26.0
+# DCE Community with Installer v0.26.0
 
-This page provides downloads for the offline installation package and verification files for DCE 5.0 Community.
+This page provides downloads for the offline installation package and verification files for DCE Community.
 
 [Return to Download Guide](../index.md){ .md-button } [More Version History](./dce5-installer-history.md){ .md-button }
 
@@ -75,12 +75,12 @@ After successfully verifying the offline package,
 
 ## Modules
 
-DCE 5.0 Community includes the following modules by default:
+DCE Community includes the following modules by default:
 
 | Modules | Introduction | What's New |
 | -------- | ----------- | ---------- |
-| Global Management | Responsible for user access control, permissions, workspace and hierarchy, audit logs, and custom appearance. | [0.34.0](../../ghippo/intro/release-notes.md#v0340) |
-| Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [0.36.0](../../kpanda/intro/release-notes.md#v0360) |
+| Global Management | Responsible for user access control, permissions, workspace and hierarchy, audit logs, and custom appearance. | [v0.34.0](../../ghippo/intro/release-notes.md#v0340) |
+| Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [v0.36.0](../../kpanda/intro/release-notes.md#v0360) |
 | Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [0.34.1](../../insight/intro/release-notes.md#v0341) |
 
 ## More

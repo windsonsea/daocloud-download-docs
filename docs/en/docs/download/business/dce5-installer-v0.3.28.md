@@ -5,9 +5,9 @@ hide:
   - navigation
 ---
 
-# DCE 5.0 Enterprise with Installer v0.3.28
+# DCE Enterprise with Installer v0.3.28
 
-This page allows you to download the offline package of DCE 5.0 Enterprise.
+This page allows you to download the offline package of DCE Enterprise.
 
 [Return to Download Index](../index.md#download-enterprise-package){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
@@ -40,13 +40,13 @@ After the offline package has been successfully verifyd, unpack the tarball:
 tar -zxvf offline-v0.3.28.tar
 ```
 
-Then refer to [Install DCE 5.0 Enterprise](../../install/index.md#_3) to install.
+Then refer to [Install DCE Enterprise](../../install/index.md#_3) to install.
 For first-time installation, please contact us for authorization: email info@daocloud.io or call 400 002 6898.
 If you have any license key related questions, please contact DaoCloud delivery team.
 
 ## Modules
 
-The DCE 5.0 Enterprise includes the following modules, which are plug-and-play to meet various use cases:
+The DCE Enterprise includes the following modules, which are plug-and-play to meet various use cases:
 
 | Modules | Description | Versions |
 | ------- | ----------- | -------- |
