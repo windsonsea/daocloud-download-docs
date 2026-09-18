@@ -50,5 +50,7 @@ spidernet_v0.5.0_amd64.tar: ok
 
 ## Installation
 
+Refer to [Offline Upgrade Networking](../../network/intro/offline.md) for installation instructions.
+
 If you are installing for the first time, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
 If you have any license key related questions, please contact DaoCloud delivery team.

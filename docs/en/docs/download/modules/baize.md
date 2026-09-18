@@ -44,7 +44,7 @@ baize_v0.25.1_amd64.tar: ok
 
 ## Installation
 
-Refer to [Offline Upgrade AI Lab](../../baize/quickstart/baize.md#offline-upgrade)。
+Refer to [Offline Upgrade AI Lab](../../baize/quickstart/baize.md#offline-upgrade).
 
-If this is your first installation, please apply for a free trial or contact us for authorization: email info@daocloud.io or call 400 002 6898.
+If this is your first installation, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
 If you have any questions regarding the license key, please contact the DaoCloud delivery team.

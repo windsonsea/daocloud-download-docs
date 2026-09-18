@@ -9,7 +9,7 @@ hide:
 
 This page allows you to download the offline package and checksum files for DCE Enterprise.
 
-[Return to Download Index](../index.md#download-enterprise-package){ .md-button }
+[Return to Download Index](../index.md#download-dce-enterprise){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
 
 ## Download
@@ -85,7 +85,7 @@ DCE Enterprise includes the following modules that can be used on-demand to meet
 | Insight | Provides rich dashboards, scene monitoring, data queries, alerts, etc. | [0.18.2](../../insight/intro/release-notes.md#v0180) |
 | Workbench | Container-based DevOps application platform, supporting Jenkins, Tekton, GitOps, and more pipeline jobs. | [0.18.1](../../amamba/intro/release-notes.md#v0181) |
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, cross-cloud resources for application orchestration, with multicloud disaster recovery and fault recovery capabilities. | [0.10.3](../../kairship/intro/release-notes.md#v0103) |
-| Microservice Engine | Provides governance capabilities such as service registration and discovery, service governance, configuration management, and microservice gateway |
+| Microservice Engine | Provides governance capabilities such as service registration and discovery, service governance, configuration management, and microservice gateway  [0.24.2](../../skoala/intro/release-notes.md#v0242) |
 | Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud native applications. | [v0.17.0](../../mspider/intro/release-notes.md#v0170) |
 | Middleware Elasticsearch | Currently the preferred full-text search engine. | [0.9.0](../../middleware/elasticsearch/release-notes.md#v090) |
 | Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [0.7.0](../../middleware/kafka/release-notes.md#v070) |

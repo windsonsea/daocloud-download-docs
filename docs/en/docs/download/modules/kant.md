@@ -81,6 +81,8 @@ kant_0.6.1_amd64.tar: ok
 
 ## Installation
 
+Refer to [Offline Upgrade Cloud Edge Collaboration](../../kant/intro/offline-upgrade.md) for installation instructions.
+
 If this is your first installation, please [apply for a free trial](../../dce/license0.md)
 or contact us for authorization: email info@daocloud.io or call 400 002 6898.
 For any license key-related inquiries, please contact the DaoCloud delivery team.

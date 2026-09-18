@@ -13,6 +13,8 @@ On this page, you can download offline packages for various versions of the micr
 
 | Version  | Architecture | Size | Package | Checksum | Date |
 |----------|--------------|------|---------|----------|------|
+| [v0.57.2](../../skoala/intro/release-notes.md) | <font color="green">ARM 64</font> | 3.21 GB | [:arrow_down: skoala_v0.57.2_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.2_arm64.tar) | [:arrow_down: skoala_v0.57.2_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.2_arm64_checksum.sha512sum) | 2026-09-15 |
+| [v0.57.2](../../skoala/intro/release-notes.md) | AMD 64 | 3.29 GB | [:arrow_down: skoala_v0.57.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.2_amd64.tar) | [:arrow_down: skoala_v0.57.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.2_amd64_checksum.sha512sum) | 2026-09-15 |
 | [v0.57.1](../../skoala/intro/release-notes.md) | <font color="green">ARM 64</font> | 3.21 GB | [:arrow_down: skoala_v0.57.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.1_arm64.tar) | [:arrow_down: skoala_v0.57.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.1_arm64_checksum.sha512sum) | 2026-09-08 |
 | [v0.57.1](../../skoala/intro/release-notes.md) | AMD 64 | 3.29 GB | [:arrow_down: skoala_v0.57.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.1_amd64.tar) | [:arrow_down: skoala_v0.57.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.1_amd64_checksum.sha512sum) | 2026-09-08 |
 | [v0.57.0](../../skoala/intro/release-notes.md) | <font color="green">ARM 64</font> | 3.44 GB | [:arrow_down: skoala_v0.57.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.0_arm64.tar) | [:arrow_down: skoala_v0.57.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.57.0_arm64_checksum.sha512sum) | 2026-08-26 |
@@ -124,7 +126,7 @@ skoala_v0.28.0_amd64.tar: ok
 
 ## Installation
 
-Refer to [Offline Upgrade Microservice Engine](../../skoala/quickstart/skoala.md#offline-upgrade)。
+Refer to [Offline Upgrade Microservice Engine](../../skoala/quickstart/skoala.md#offline-upgrade).
 
-If this is your first installation, please apply for a free trial or contact us for authorization: email info@daocloud.io or call 400 002 6898.
+If this is your first installation, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
 If you have any questions regarding the license key, please contact the DaoCloud delivery team.
