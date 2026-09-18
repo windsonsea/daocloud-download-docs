@@ -9,7 +9,7 @@ hide:
 
 This page allows you to download the offline package of DCE Enterprise.
 
-[Return to Download Index](../index.md#download-enterprise-package){ .md-button }
+[Return to Download Index](../index.md#download-dce-enterprise){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
 
 ## Download

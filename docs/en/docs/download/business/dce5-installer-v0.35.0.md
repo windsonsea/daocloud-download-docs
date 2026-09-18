@@ -9,7 +9,7 @@ hide:
 
 This page provides downloads for the offline installation package and verification files for DCE Enterprise.
 
-[Return to Download Guide](../index.md#download-dce-50-enterprise){ .md-button } [More Version History](./dce5-installer-history.md){ .md-button }
+[Return to Download Guide](../index.md#download-dce-enterprise){ .md-button } [More Version History](./dce5-installer-history.md){ .md-button }
 
 ## Download
 
@@ -86,6 +86,7 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
 | Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.50.1](../../skoala/intro/release-notes.md#v0501) |
 | Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud-native applications. | [v0.37.0](../../mspider/intro/release-notes.md#v0370) |
+| Device Management | A Kubernetes cloud-native infrastructure management component built for intelligent computing centers, enabling unified management of hardware resources such as hosts and switches. | [v0.5.0](../../topohub/intro/release-notes.md#v050) |
 | Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.25.2](../../middleware/elasticsearch/release-notes.md#v0252) |
 | Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.26.0](../../middleware/kafka/release-notes.md#v0260) |
 | Middleware MinIO | A lightweight, open-source object storage solution that is very popular. | [v0.22.0](../../middleware/minio/release-notes.md#v0220) |

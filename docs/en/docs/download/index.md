@@ -7,46 +7,72 @@ date: 2025-11-18
 
 Currently, only offline packages are provided in the download center. For online installation methods, refer to [Online Installation](../install/index.md).
 
-## Download Prerequisite Dependencies
+## Download Dependencies
 
-| Lastest Package | Version | Size | Download | Date |
+| Latest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.43.0_amd64.tar.gz | v0.43.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.43.0_amd64.tar.gz) | 2026-08-13 |
-| prerequisite_v0.43.0_arm64.tar.gz | v0.43.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.43.0_arm64.tar.gz) | 2026-08-13 |
+| prerequisite_v0.44.0_amd64.tar.gz | v0.44.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_amd64.tar.gz) | 2026-09-14 |
+| prerequisite_v0.44.0_arm64.tar.gz | v0.44.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_arm64.tar.gz) | 2026-09-14 |
 
-## Download DCE Community
+## Download d.run Token Factory
 
-This package is dedicated to the community and is available for free trial.
+This product is an integrated platform built for AI intelligent computing scenarios.
 
-| Lastest Package | Version | Download | Date |
-| -------- | ------- | --------- | ----------- |
-| offline-community-v0.43.0-amd64.tar | v0.43.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.43.0.md) | 2026-08-13 |
-| offline-community-v0.43.0-arm64.tar | v0.43.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.43.0.md) | 2026-08-13 |
+| Latest Package | Version | Download | Date |
+| ----- | ----- | ---- | --------- |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
 
-[Legacy Packages for DCE Community](./free/dce5-installer-history.md){ .md-button } 
+[More Historical Versions](./tf/index.md){ .md-button }
 
-## Download DCE Enterprise
+## Download d.run AI OS
 
-This package is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules.
+This product is suitable for delivering stable and efficient AI services to all departments of an enterprise.
 
-| Lastest Package | Version | Download | Date |
-| -------- | ------- | -------- | ----------- |
-| offline-v0.43.0-amd64.tar | v0.43.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.43.0.md) | 2026-08-13 |
-| offline-v0.43.0-arm64.tar | v0.43.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.43.0.md) | 2026-08-13 |
+| Latest Package | Version | Download | Date |
+| ----- | ----- | ---- | --------- |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
 
-[Legacy Packages for DCE Enterprise](./business/dce5-installer-history.md){ .md-button } 
+[More Historical Versions](./drun/index.md){ .md-button }
+
+## Download DaoCloud Enterprise
+
+### Download DCE Community
+
+This version is dedicated to the community and is available for free trial.
+
+| Latest Package | Version | Download | Date |
+| -------- | ---- | --- | ------- |
+| offline-community-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.44.0.md) | 2026-09-14 |
+| offline-community-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.44.0.md) | 2026-09-14 |
+
+[Legacy Packages for DCE Community](./free/dce5-installer-history.md){ .md-button }
+
+### Download DCE Enterprise
+
+This version is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules.
+
+| Latest Package | Version | Download | Date |
+| ----- | ----- | ---- | --------- |
+| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.44.0.md) | 2026-09-14 |
+
+[Legacy Packages for DCE Enterprise](./business/dce5-installer-history.md){ .md-button }
 
 ## Download Addons
 
 DaoCloud provides comprehensive Addons for different use cases, which can be downloaded and used as needed.
 
-| Lastest Package | Version | Download | Date |
-| -------- | ------- | -------- | ----------- |
-| metax-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | [:arrow_right: Go to Download](./addon/v0.43.0.md) | 2026-08-17 |
-| gpu-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | [:arrow_right: Go to Download](./addon/v0.43.0.md) | 2026-08-17 |
-| gpu-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | [:arrow_right: Go to Download](./addon/v0.43.0.md) | 2026-08-17 |
-| standard-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | [:arrow_right: Go to Download](./addon/v0.43.0.md) | 2026-08-17 |
-| standard-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | [:arrow_right: Go to Download](./addon/v0.43.0.md) | 2026-08-17 |
+| Latest Package | Version | Download | Date |
+|--------| ---- | --- | --------- |
+| jenkins-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| jenkins-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| metax-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| gpu-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| gpu-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| standard-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| standard-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
 
 [Legacy Packages for Addons](./addon/history.md){ .md-button }
 
@@ -56,19 +82,19 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
-| Workbench | Workbench | 489.47 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-07-03 |
-| Container | Container Management | 792.02 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-09-02 |
+| Workbench | Workbench | 489.48 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-07-03 |
+| Container | Container Management | 792.10 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-09-02 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
 | | MultiCloud Management | 663.57 MB | [:arrow_right: Go to Download](./modules/kairship.md) | 2024-10-09 |
 | | Container Registry | 304.16 MB | [:arrow_right: Go to Download](./modules/kangaroo.md) | 2024-10-11 |
-| | Network | 64.03 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
+| | Network | 63.76 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
 | Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-09-03 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
-| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-09-08 |
+| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-09-15 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
 | | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-09-17 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
@@ -81,10 +107,10 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
-| Management | Global Management | 498.05 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-08-06 |
-| | Operations Management | 124.51 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
+| Management | Global Management | 498.06 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-08-06 |
+| | Operations Management | 124.49 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
-| Inference | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-09-03 |
+| Cloud Native AI | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-09-03 |
 | | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-09-03 |
 
 !!! note
@@ -116,6 +142,7 @@ This section provides offline documentation in PDF and Docx formats for various 
 | Service Mesh | 3.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Middleware | 14.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | AI Lab | 10.3 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/AI-lab.pdf) | 2024-12-31 | Refined version |
+| LLM Studio | 5.2 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra-docs.pdf) | 2025-11-24 | Refined version |
 | Cloud Edge Collaboration | 3.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | Global Management | 5.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
 | **Docx for All Modules** | 125.04 MB | [:arrow_down: Download Docx Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2025-03-10 | Includes Docx files corresponding to the above PDFs |
@@ -125,6 +152,8 @@ This section provides offline documentation in PDF and Docx formats for various 
 
     - For batch generation of Docx and PDF files, refer to [mdctl batch processing steps](https://docs.daocloud.io/native/git/md-docx).
     - While viewing PDFs, you can use **bookmarks** and **table of contents** to quickly browse and navigate to specific sections.
+
+    ![Bookmarks and Table of Contents](./images/bookmark-toc.png)
 
 [Install DCE](../install/index.md){ .md-button .md-button--primary }
 [Free Trial](../dce/license0.md){ .md-button .md-button--primary }

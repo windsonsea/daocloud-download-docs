@@ -63,5 +63,5 @@ mcamel-rocketmq_0.1.1_amd64.tar: OK
 
 ## Installation
 
-If this is your first installation, please apply for a free trial or contact us for authorization: Email info@daocloud.io or call 400 002 6898.
+If this is your first installation, please [apply for a free trial](../../../dce/license0.md) or contact us for authorization: Email info@daocloud.io or call 400 002 6898.
 If you have any questions related to license keys, please contact the DaoCloud delivery team.

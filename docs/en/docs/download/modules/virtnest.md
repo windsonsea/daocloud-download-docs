@@ -76,5 +76,5 @@ virtnest_v0.5.0_amd64.tar: ok
 
 Refer to the [Virtual Machine](../../virtnest/install/offline-install.md) installation process for installation instructions.
 
-If this is your first installation, please apply for a free trial or contact us for authorization: Email info@daocloud.io or call 400 002 6898.
+If this is your first installation, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: Email info@daocloud.io or call 400 002 6898.
 If you have any questions related to license keys, please contact the DaoCloud delivery team.

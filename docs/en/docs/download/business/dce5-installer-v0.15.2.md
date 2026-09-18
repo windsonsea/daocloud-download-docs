@@ -9,7 +9,7 @@ hide:
 
 This page provides downloads for the offline installation package and verification files for DCE Enterprise.
 
-[Return to Download Guide](../index.md#_2){ .md-button } [More Version History](./dce5-installer-history.md){ .md-button }
+[Return to Download Guide](../index.md#download-dce-enterprise){ .md-button } [More Version History](./dce5-installer-history.md){ .md-button }
 
 ## Download
 

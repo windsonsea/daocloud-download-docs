@@ -16,7 +16,7 @@ This page allows you to download the offline package of DCE Community.
 
 | Version Name | Size | Installer | Date |
 | ------------ | -------- | ---------- | ---------- |
-| offline-community-v0.3.28.tar | 5.8 GB | [:arrow_down: Download](https://proxy-qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.3.28.tar ) | 2022-11-18 |
+| offline-community-v0.3.28.tar | 5.8 GB | [:arrow_down: Download](https://proxy-qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-community-v0.3.28.tar) | 2022-11-18 |
 
 ## Verification
 

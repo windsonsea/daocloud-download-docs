@@ -9,7 +9,7 @@ hide:
 
 This page allows you to download the offline package and checksum files for DCE Enterprise.
 
-[Return to Download Index](../index.md#_2){ .md-button }
+[Return to Download Index](../index.md#download-dce-enterprise){ .md-button }
 [Legacy Packages](./dce5-installer-history.md){ .md-button }
 
 ## Download
