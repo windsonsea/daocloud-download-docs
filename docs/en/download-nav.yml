@@ -1,7 +1,7 @@
 nav:
   - Downloads:
-      - DaoCloud Download Hub:
-          - Index: download/index.md
+      - Download Hub:
+          - download/index.md
           - Download d.run Token Factory: download/tf/index.md
           - Download d.run AI OS: download/drun/index.md
           - Download DaoCloud Enterprise:
@@ -38,7 +38,7 @@ nav:
               - Cloud Native AI:
                   - LLM Studio: download/modules/hydra.md
                   - AI Lab: download/modules/baize.md
-                  - Inference Acceleration: download/modules/inferx.md
+                  - InferX Suite: download/modules/inferx.md
                   - ClawOS: download/modules/agentclaw.md
               - Cloud Edge Collaboration: download/modules/kant.md
               - Management:
