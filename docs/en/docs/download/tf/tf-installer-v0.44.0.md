@@ -79,10 +79,9 @@ d.run Token Factory includes the following modules, which can be used on-demand 
 
 | Modules | Description | Versions |
 | ---- | --- | ------ |
-| ClawOS | Multi-agent runtime and governance platform | [v0.5.0](../../tf/clawos/workspace/index.md) |
-| AI Apps | Build intelligent applications | [v0.5.0](../../tf/dak/index.md) |
 | LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities. | [v0.18.3](../../insight/intro/release-notes.md#v0183) |
-| InferX | Inference acceleration management | [v0.5.0](../../inferx/index.md) |
+| AI Apps | Build intelligent applications | [v0.5.0](../../tf/dak/index.md) |
+| InferX Suite | Inference acceleration management | [v0.5.0](../../inferx/index.md) |
 | Compute Cloud | A platform for operating compute resources | [v0.17.0](../../tf/zestu/index.md) |
 | Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and other core Kubernetes features. | [v0.50.0](../../kpanda/intro/release-notes.md#v0500) |
 | Device Management | A Kubernetes cloud native infrastructure management component built for intelligent computing centers, enabling unified management of hosts, switches, and other hardware resources. | [v0.6.0](../../mspider/intro/release-notes.md#v060) |
