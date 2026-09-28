@@ -103,7 +103,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | MongoDB | 383.35 MB | [:arrow_right: Go to Download](./modules/middleware/mongodb.md) | 2025-12-16 |
 | | MySQL | 1.83 GB | [:arrow_right: Go to Download](./modules/middleware/mysql.md) | 2025-12-16 |
 | | PostgreSQL | 974.28 MB | [:arrow_right: Go to Download](./modules/middleware/postgresql.md) | 2025-12-16 |
-| | RabbitMQ | 365.17 MB | [:arrow_right: Go to Download](./modules/middleware/rabbitmq.md) | 2025-12-16 |
+| | RabbitMQ |423.20 MB| [:arrow_right: Go to Download](./modules/middleware/rabbitmq.md) |2026-09-28|
 | | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |

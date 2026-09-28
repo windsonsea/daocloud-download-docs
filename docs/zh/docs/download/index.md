@@ -98,7 +98,7 @@
 | | MongoDB | 383.35 MB | [:arrow_right: 下载页](./modules/middleware/mongodb.md) | 2025-12-16 |
 | | MySQL | 1.83 GB | [:arrow_right: 下载页](./modules/middleware/mysql.md) | 2025-12-16 |
 | | PostgreSQL | 974.28 MB | [:arrow_right: 下载页](./modules/middleware/postgresql.md) | 2025-12-16 |
-| | RabbitMQ | 365.17 MB | [:arrow_right: 下载页](./modules/middleware/rabbitmq.md) | 2025-12-16 |
+| | RabbitMQ |423.20 MB| [:arrow_right: 下载页](./modules/middleware/rabbitmq.md) |2026-09-28|
 | | Redis | 607.47 MB | [:arrow_right: 下载页](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
