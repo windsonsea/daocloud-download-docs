@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2022-11-23
+date: 2026-09-30
 hide:
   - navigation
 ---
@@ -16,7 +16,7 @@ This page allows you to download the offline package of DCE Enterprise.
 
 | Filename | Size | Download | Date |
 | -------- | -------- | ---------- | ---------- |
-| offline-v0.3.28.tar | 21 GB | [:arrow_down: Download](https://proxy-qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.3.28.tar) | 2022- 11-18 |
+| offline-v0.3.28.tar | 21 GB | [:arrow_down: Download](https://proxy-qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.3.28.tar) | 2022-11-18 |
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2025-07-07
+date: 2026-09-30
 hide:
   - navigation
 ---
@@ -15,8 +15,8 @@ This page provides downloads for the offline installation package and verificati
 
 | Filename | Version | Architecture | Size | Download | Date |
 | --------- | ------ | ------------ | ---- | -------- | ---- |
-| offline-v0.31.0-amd64.tar | v0.31.0 | AMD 64 | 32.43 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.31.0-amd64.tar) | 2025-07-07 |
-| offline-v0.31.0-arm64.tar | v0.31.0 | <font color="green">ARM 64</font> | 29.44 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.31.0-arm64.tar) | 2025-07-07 |
+| offline-v0.31.0-amd64.tar | v0.31.0 | AMD 64 | 32.95 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.31.0-amd64.tar) | 2025-07-07 |
+| offline-v0.31.0-arm64.tar | v0.31.0 | <font color="green">ARM 64</font> | 29.99 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.31.0-arm64.tar) | 2025-07-07 |
 
 ## Verification
 
