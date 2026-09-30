@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2026-09-11
+date: 2026-09-30
 hide:
   - navigation
 ---
@@ -22,7 +22,7 @@ This page provides offline installation packages and checksum files for DCE Ente
 
 Go to the directory where the offline package is downloaded.
 
-=== "AMD64"
+=== "AMD 64"
 
     Run the following command to verify:
 
@@ -36,7 +36,7 @@ Go to the directory where the offline package is downloaded.
     offline-v0.43.0-amd64.tar: OK
     ```
 
-=== "<font color="green">ARM64</font>"
+=== "<font color="green">ARM 64</font>"
 
     Run the following command to verify:
 
@@ -54,13 +54,13 @@ Go to the directory where the offline package is downloaded.
 
 After verification, extract:
 
-=== "AMD64"
+=== "AMD 64"
 
     ```sh
     tar -xvf offline-v0.43.0-amd64.tar
     ```
 
-=== "<font color="green">ARM64</font>"
+=== "<font color="green">ARM 64</font>"
 
     ```sh
     tar -xvf offline-v0.43.0-arm64.tar

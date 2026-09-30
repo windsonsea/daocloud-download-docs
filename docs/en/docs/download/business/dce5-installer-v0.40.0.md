@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2026-05-15
+date: 2026-09-30
 hide:
   - navigation
 ---
@@ -15,14 +15,14 @@ This page provides offline installation packages and checksum files for DCE Ente
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
-| offline-v0.40.0-amd64.tar | v0.40.0 | AMD64 | 35.06 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.40.0-amd64.tar) | 2026-05-15 |
-| offline-v0.40.0-arm64.tar | v0.40.0 | <font color="green">ARM64</font> | 31.66 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.40.0-arm64.tar) | 2026-05-15 |
+| offline-v0.40.0-amd64.tar | v0.40.0 | AMD 64 | 35.06 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.40.0-amd64.tar) | 2026-05-15 |
+| offline-v0.40.0-arm64.tar | v0.40.0 | <font color="green">ARM 64</font> | 31.66 GB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/offline-v0.40.0-arm64.tar) | 2026-05-15 |
 
 ## Verification
 
 Go to the directory where the offline package is downloaded.
 
-=== "AMD64"
+=== "AMD 64"
 
     Run the following command to verify:
 
@@ -36,7 +36,7 @@ Go to the directory where the offline package is downloaded.
     offline-v0.40.0-amd64.tar: OK
     ```
 
-=== "<font color="green">ARM64</font>"
+=== "<font color="green">ARM 64</font>"
 
     Run the following command to verify:
 
@@ -54,13 +54,13 @@ Go to the directory where the offline package is downloaded.
 
 After verification, extract:
 
-=== "AMD64"
+=== "AMD 64"
 
     ```sh
     tar -xvf offline-v0.40.0-amd64.tar
     ```
 
-=== "<font color="green">ARM64</font>"
+=== "<font color="green">ARM 64</font>"
 
     ```sh
     tar -xvf offline-v0.40.0-arm64.tar

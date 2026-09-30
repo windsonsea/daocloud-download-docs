@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-01-18
+date: 2026-09-30
 hide:
   - toc
 ---
@@ -29,7 +29,7 @@ On this page, you can download offline packages for different versions of the co
     | [0.12.1](../../kangaroo/intro/release-notes.md) | AMD 64 | 299.24 MB | [:arrow_down: kangaroo_0.12.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.12.1_amd64.tar) | [:arrow_down: kangaroo_0.12.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.12.1_amd64_checksum.sha512sum) | 2023-11-03 |
     | [0.12.0](../../kangaroo/intro/release-notes.md) | AMD 64 | 299.24 MB | [:arrow_down: kangaroo_0.12.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.12.0_amd64.tar) | [:arrow_down: kangaroo_0.12.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.12.0_amd64_checksum.sha512sum) | 2023-10-29 |
     | [0.11.0](../../kangaroo/intro/release-notes.md) | AMD 64 | 296.23 MB | [:arrow_down: kangaroo_0.11.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.11.0_amd64.tar) | [:arrow_down: kangaroo_0.11.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.11.0_amd64_checksum.sha512sum) | 2023-09-04 |
-    | [v0.10.0](../../kangaroo/intro/release-notes.md) | AMD64        | 293.24 MB | [:arrow_down: kangaroo_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.10.0_amd64.tar) | [:arrow_down: kangaroo_0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.10.0_amd64_checksum.sha512sum) | 2023-8-22   |
+    | [v0.10.0](../../kangaroo/intro/release-notes.md) | AMD 64        | 293.24 MB | [:arrow_down: kangaroo_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.10.0_amd64.tar) | [:arrow_down: kangaroo_0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.10.0_amd64_checksum.sha512sum) | 2023-8-22   |
 
 ## Verification
 
