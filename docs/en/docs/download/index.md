@@ -11,8 +11,8 @@ Currently, only offline packages are provided in the download center. For online
 
 | Latest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.44.0_amd64.tar.gz | v0.44.0 | 119.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_amd64.tar.gz) | 2026-09-14 |
-| prerequisite_v0.44.0_arm64.tar.gz | v0.44.0 | 107.0 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.44.0_arm64.tar.gz) | 2026-09-14 |
+| prerequisite_v0.45.0_amd64.tar.gz | v0.45.0 | 143.17 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.45.0_amd64.tar.gz) | 2026-10-14 |
+| prerequisite_v0.45.0_arm64.tar.gz | v0.45.0 | 129.28 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.45.0_arm64.tar.gz) | 2026-10-14 |
 
 ## Download d.run Token Factory
 
@@ -20,8 +20,8 @@ This product is an integrated platform built for AI intelligent computing scenar
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
-| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
-| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.45.0.md) | 2026-10-14 |
 
 [More Historical Versions](./tf/index.md){ .md-button }
 
@@ -31,8 +31,8 @@ This product is suitable for delivering stable and efficient AI services to all 
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
-| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
-| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.45.0.md) | 2026-10-14 |
 
 [More Historical Versions](./drun/index.md){ .md-button }
 
@@ -44,8 +44,8 @@ This version is dedicated to the community and is available for free trial.
 
 | Latest Package | Version | Download | Date |
 | -------- | ---- | --- | ------- |
-| offline-community-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.44.0.md) | 2026-09-14 |
-| offline-community-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.44.0.md) | 2026-09-14 |
+| offline-community-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.45.0.md) | 2026-10-14 |
+| offline-community-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.45.0.md) | 2026-10-14 |
 
 [Legacy Packages for DCE Community](./free/dce5-installer-history.md){ .md-button }
 
@@ -55,8 +55,8 @@ This version is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
-| offline-v0.44.0-arm64.tar | v0.44.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.44.0.md) | 2026-09-14 |
-| offline-v0.44.0-amd64.tar | v0.44.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.44.0.md) | 2026-09-14 |
+| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.45.0.md) | 2026-10-14 |
 
 [Legacy Packages for DCE Enterprise](./business/dce5-installer-history.md){ .md-button }
 

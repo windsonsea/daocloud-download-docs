@@ -79,12 +79,12 @@ d.run Token Factory includes the following modules, which can be used on-demand 
 
 | Modules | Description | Versions |
 | ---- | --- | ------ |
-| LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities. | [v0.17.1](../../insight/intro/release-notes.md#v0171) |
+| LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities. | [v0.17.1](../../hydra/intro/release-notes.md#v0171) |
 | AI Apps | Build intelligent applications | [v0.5.0](../../tf/dak/index.md) |
 | InferX | Inference acceleration management | [v0.4.0](../../inferx/index.md) |
 | Compute Cloud | A platform for operating compute resources | [v0.17.0](../../tf/zestu/index.md) |
 | Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and other core Kubernetes features. | [v0.49.0](../../kpanda/intro/release-notes.md#v0490) |
-| Device Management | A Kubernetes cloud native infrastructure management component built for intelligent computing centers, enabling unified management of hosts, switches, and other hardware resources. | [v0.6.0](../../mspider/intro/release-notes.md#v060) |
+| Device Management | A Kubernetes cloud native infrastructure management component built for intelligent computing centers, enabling unified management of hosts, switches, and other hardware resources. | [v0.6.0](../../topohub/intro/release-notes.md#v060) |
 | Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.26.0](../../kangaroo/intro/release-notes.md#v0260) |
 | Cloud Native Network | Supports multiple CNI combination solutions for different Linux kernels. | [v0.19.0](../../network/intro/release-notes.md#v0190) |
 | Cloud Native Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v1.1.1](../../storage/hwameistor/release-notes.md#v111) |
