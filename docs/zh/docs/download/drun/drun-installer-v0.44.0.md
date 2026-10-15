@@ -79,11 +79,11 @@ d.run AI 操作系统包含以下模块，按需即插即用满足各类应用�
 | 模块 | 介绍 | 最新动态 |
 | ---- | --- | ------ |
 | ClawOS | 多智能体运行和治理平台 | [v0.5.0](../../drun/clawos/workspace/index.md) |
-| 大模型服务平台 | 提供从模型部署到运维管理的全生命周期服务，帮助企业和开发者高效地接入和使用各类大模型能力 | [v0.18.3](../../insight/intro/release-notes.md#v0183) |
-| AI Lab | 训推一体化平台，算力资源统一调度，简化 AI 应用开发和部署 | [v0.29.2](../../insight/intro/release-notes.md#v0292) |
+| 大模型服务平台 | 提供从模型部署到运维管理的全生命周期服务，帮助企业和开发者高效地接入和使用各类大模型能力 | [v0.18.3](../../hydra/intro/release-notes.md#v0183) |
+| AI Lab | 训推一体化平台，算力资源统一调度，简化 AI 应用开发和部署 | [v0.29.2](../../baize/intro/release-notes.md#v0292) |
 | InferX | 推理加速管理 | [v0.5.0](../../inferx/index.md) |
 | 容器管理 | 管理集群、节点、工作负载、Helm 应用、CRD、命名空间等 K8s 核心功能 | [v0.50.0](../../kpanda/intro/release-notes.md#v0500) |
-| 设备管理 | 面向智算中心打造的 Kubernetes 云原生基础设施管理组件，能够统一管理主机、交换机等硬件资源 | [v0.6.0](../../mspider/intro/release-notes.md#v060) |
+| 设备管理 | 面向智算中心打造的 Kubernetes 云原生基础设施管理组件，能够统一管理主机、交换机等硬件资源 | [v0.6.0](../../topohub/intro/release-notes.md#v060) |
 | 镜像仓库 | 用于存储 K8s、DevOps 和容器应用开发的镜像 | [v0.26.0](../../kangaroo/intro/release-notes.md#v0260) |
 | 云原生网络 | 针对不同的 Linux 内核，支持多种 CNI 组合方案 | [v0.19.0](../../network/intro/release-notes.md#v0190) |
 | 云原生存储 | 提供统一数据存储服务，支持文件、对象、块、本地存储，轻松接入存储厂商方案 | [v1.1.1](../../storage/hwameistor/release-notes.md#v111) |

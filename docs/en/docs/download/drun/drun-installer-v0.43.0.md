@@ -80,11 +80,11 @@ d.run AI OS includes the following modules, which can be used on-demand to meet 
 | Modules | Description | Versions |
 | ---- | --- | ------ |
 | ClawOS | Multi-agent runtime and governance platform | [v0.4.0](../../drun/clawos/workspace/index.md) |
-| LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities. | [v0.17.1](../../insight/intro/release-notes.md#v0183) |
-| AI Lab | An integrated training and inference platform with unified scheduling of compute resources, simplifying AI application development and deployment. | [v0.28.0](../../insight/intro/release-notes.md#v0280) |
+| LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities. | [v0.17.1](../../hydra/intro/release-notes.md#v0183) |
+| AI Lab | An integrated training and inference platform with unified scheduling of compute resources, simplifying AI application development and deployment. | [v0.28.0](../../baize/intro/release-notes.md#v0280) |
 | InferX | Inference acceleration management | [v0.4.0](../../inferx/index.md) |
 | Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and other core Kubernetes features. | [v0.49.0](../../kpanda/intro/release-notes.md#v0490) |
-| Device Management | A Kubernetes cloud native infrastructure management component built for intelligent computing centers, enabling unified management of hosts, switches, and other hardware resources. | [v0.6.0](../../mspider/intro/release-notes.md#v060) |
+| Device Management | A Kubernetes cloud native infrastructure management component built for intelligent computing centers, enabling unified management of hosts, switches, and other hardware resources. | [v0.6.0](../../topohub/intro/release-notes.md#v060) |
 | Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.26.0](../../kangaroo/intro/release-notes.md#v0260) |
 | Cloud Native Network | Supports multiple CNI combination solutions for different Linux kernels. | [v0.19.0](../../network/intro/release-notes.md#v0190) |
 | Cloud Native Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v1.1.1](../../storage/hwameistor/release-notes.md#v111) |
