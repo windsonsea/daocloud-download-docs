@@ -96,7 +96,6 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-09-15 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
-| | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-10-09 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: Go to Download](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: Go to Download](./modules/middleware/minio.md) | 2025-12-16 |
@@ -106,12 +105,13 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | RabbitMQ |423.20 MB| [:arrow_right: Go to Download](./modules/middleware/rabbitmq.md) |2026-09-28|
 | | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
+| Cloud Native AI | LLM Studio | 1.42 GB | [:arrow_right: Go to Download](./modules/hydra.md) | 2026-10-20 |
+| | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-10-09 |
+| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-10-13 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
 | Management | Global Management | 498.06 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-08-06 |
 | | Operations Management | 124.49 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
-| Cloud Native AI | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-09-03 |
-| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-10-13 |
 
 !!! note
 
