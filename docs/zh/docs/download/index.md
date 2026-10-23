@@ -91,7 +91,6 @@
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-09-15 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-07-28 |
-| | AI Lab | 1.64 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-10-09 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: 下载页](./modules/middleware/minio.md) | 2025-12-16 |
@@ -101,12 +100,13 @@
 | | RabbitMQ |423.20 MB| [:arrow_right: 下载页](./modules/middleware/rabbitmq.md) |2026-09-28|
 | | Redis | 607.47 MB | [:arrow_right: 下载页](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
+| 云原生 AI | 大模型服务平台 | 1.42 GB | [:arrow_right: 下载页](./modules/hydra.md) | 2026-10-20 |
+| | AI Lab | 1.64 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-10-09 |
+| | ClawOS | 2.37 GB | [:arrow_right: 下载页](./modules/agentclaw.md) | 2026-10-13 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
 | 管理 | 全局管理 | 498.06 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-08-06 |
 | | 运营管理 | 124.49 MB | [:arrow_right: 下载页](./modules/gmagpie.md) | 2026-06-27 |
 | | 设备管理 | 47.89 MB | [:arrow_right: 下载页](./modules/topohub.md) | 2025-06-27 |
-| 云原生 AI | 推理加速 | 9.98 GB | [:arrow_right: 下载页](./modules/inferx.md) | 2026-09-03 |
-| | ClawOS | 2.37 GB | [:arrow_right: 下载页](./modules/agentclaw.md) | 2026-10-13 |
 
 !!! note
 
