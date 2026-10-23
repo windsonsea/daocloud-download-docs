@@ -69,7 +69,7 @@ hide:
     tar -zxvf offline-v0.44.0-arm64.tar
     ```
 
-- 安装请参阅[商业版安装流程](../../install/commercial/start-install.md)
+- 安装请参阅[离线安装 d.run Token 工厂效能平台](https://docs.daocloud.io/tf/install/start-install/)
 - 成功安装之后请联系我们授权：电邮 info@daocloud.io 或致电 400 002 6898
 
 ## 模块
