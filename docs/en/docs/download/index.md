@@ -82,7 +82,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
-| Workbench | Workbench | 489.48 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-07-03 |
+| Workbench | Workbench | 489.48 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-10-08 |
 | Container | Container Management | 792.10 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-09-27 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
@@ -92,7 +92,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Network | 63.76 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
-| Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-09-03 |
+| Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-10-09 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-09-15 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
@@ -111,7 +111,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Operations Management | 124.49 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
 | | Device Management | 47.89 MB | [:arrow_right: Go to Download](./modules/topohub.md) | 2025-06-27 |
 | Cloud Native AI | Inference Acceleration | 9.98 GB | [:arrow_right: Go to Download](./modules/inferx.md) | 2026-09-03 |
-| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-09-03 |
+| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-10-13 |
 
 !!! note
 

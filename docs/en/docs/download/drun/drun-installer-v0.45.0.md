@@ -70,7 +70,7 @@ After successfully verifying the offline package,
     tar -zxvf offline-v0.45.0-arm64.tar
     ```
 
-- For installation instructions, see [Enterprise Installation Guide](../../install/commercial/start-install.md).
+- For installation instructions, see [Offline Install d.run AI OS](https://docs.daocloud.io/en/drun/install/start-install/).
 - After successful installation, contact us for a license: email info@daocloud.io or call 400 002 6898.
 
 ## Modules
