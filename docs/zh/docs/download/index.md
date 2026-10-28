@@ -89,7 +89,7 @@
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-10-09 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
-| | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-10-27 |
+| | 微服务引擎 | 3.29 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-10-27 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-07-28 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
@@ -123,8 +123,8 @@
 
 | 模块 | 文件大小 | 下载 | 更新日期 | 备注 |
 | --- | ---- | ---- | ------ | ---- |
-| d.run Token 工厂介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 2026-10-28 | DCE 总体产品简介 |
-| d.run AI 操作系统介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 2026-10-28 | DCE 总体产品简介 |
+| d.run Token 工厂介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 2026-10-28 | Token 工厂简介 |
+| d.run AI 操作系统介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 2026-10-28 | d.run AI 操作系统简介 |
 | DCE 产品介绍 | 1.25 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2026-10-28 | DCE 总体产品简介 |
 | DCE 商业版安装手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2026-10-28 | 包含15个模块 |
 | DCE 社区版安装手册 | 1.89 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 2026-10-28 | 包含3个基础模块 |
