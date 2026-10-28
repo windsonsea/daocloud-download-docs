@@ -89,7 +89,7 @@
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-10-09 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
-| | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-09-15 |
+| | 微服务引擎 | 3.04 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-10-27 |
 | | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-07-28 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
