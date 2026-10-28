@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2025-11-18
+date: 2026-10-28
 ---
 
 # Download Hub
@@ -94,7 +94,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
 | Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-10-09 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
-| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-09-15 |
+| | Microservice Engine | 3.04 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-10-27 |
 | | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: Go to Download](./modules/middleware/kafka.md) | 2025-12-16 |
@@ -122,31 +122,38 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 
     ![WeCom Group for DCE Community](https://docs.daocloud.io/daocloud-docs-images/docs/images/assist.png)
 
-## Download Product Documentation
+## Download Documentation
 
-This section provides offline documentation in PDF and Docx formats for various modules of DCE, available for viewing and download.
+This section provides offline documentation in PDF and Docx formats for various modules, available for viewing and download.
 
 | Module | File Size | Download | Updated Date | Notes |
 | --- | ---- | ---- | ------ | ---- |
-| DCE Product Overview | 1.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2025-01-21 | General introduction to DCE |
-| Commercial Package Installation & Deployment Guide | 5.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2025-03-09 | Refined version |
-| Workbench | 1.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Container Management | 24.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| MultiCloud Management | 3.1 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kairship.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Container Registry | 2.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Cloud Native Networking | 12.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/network.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Cloud Native Storage | 2.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/storage.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Virtual Machine | 5.3 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/virtnest.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Insight | 798 KB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Microservices Engine | 9.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/skoala.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Service Mesh | 3.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Middleware | 14.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| AI Lab | 10.3 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/AI-lab.pdf) | 2024-12-31 | Refined version |
-| LLM Studio | 5.2 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra-docs.pdf) | 2025-11-24 | Refined version |
-| Cloud Edge Collaboration | 3.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| Global Management | 5.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2025-03-10 | Converted using [mdctl](https://github.com/samzong/mdctl) |
-| **Docx for All Modules** | 125.04 MB | [:arrow_down: Download Docx Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2025-03-10 | Includes Docx files corresponding to the above PDFs |
-| **PDF for All Modules** | 77.46 MB | [:arrow_down: Download PDF Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip) | 2025-03-10 | Collection of all the above PDFs |
+| d.run Token Factory Overview | 1.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 2026-10-28 | Overview of d.run Token Factory |
+| d.run AI OS Overview | 1.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 2026-10-28 | Overview of d.run AI OS |
+| DCE Product Overview | 1.25 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2026-10-28 | General introduction to DCE |
+| DCE Enterprise Installation Guide | 5.8 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2026-10-28 | Includes 15 modules |
+| DCE Community Installation Guide | 1.89 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 2026-10-28 | Includes 3 basic modules |
+| Workbench | 23.11 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2026-10-28 | App development and delivery |
+| Container Management | 32.7 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2026-10-28 | Containerized orchestration of clusters, nodes, and pods |
+| Compute Cloud | 4.09 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/zestu.pdf) | 2026-10-28 | Customizable compute marketplace |
+| MultiCloud Management | 9.4 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kairship.pdf) | 2026-10-28 | Public, private, and hybrid clouds |
+| Container Registry | 6.22 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 2026-10-28 | Image packaging and delivery |
+| App Store | 2.88 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/helm.pdf) | 2026-10-28 | Distribute apps with Helm |
+| Cloud Native Network | 41.52 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/network.pdf) | 2026-10-28 | Intelligent network management |
+| Cloud Native Storage | 13.9 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/storage.pdf) | 2026-10-28 | High-speed storage services |
+| Virtual Machine | 7.74 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/virtnest.pdf) | 2026-10-28 | Containerized virtual machines |
+| Insight | 15.69 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 2026-10-28 | Dynamic observability of logs, traces, and metrics |
+| Microservice Engine | 45.56 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/skoala.pdf) | 2026-10-28 | Microservice governance and gateway |
+| Service Mesh | 49.69 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 2026-10-28 | Non-intrusive traffic governance |
+| Data Service Middleware | 46.22 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 2026-10-28 | Mainstream middleware |
+| AI Lab | 11.33 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ai-lab.pdf) | 2025-12-31 | AI computing and development |
+| AI Apps | 4.73 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 2026-10-28 | Create and use AI apps |
+| ClawOS | 2.08 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ClawOS.pdf) | 2025-12-31 | Agent runtime and governance |
+| LLM Studio | 5.0 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 2025-11-24 | One-stop management of massive LLMs |
+| Cloud Edge Collaboration | 6.91 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2026-10-28 | Extending cloud native to edge devices |
+| Global Management | 13.98 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2026-10-28 | Roles, permissions, and isolation |
+| **Docx for All Modules** | 435.71 MB | [:arrow_down: Download Docx Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2026-10-28 | Includes all Docx files corresponding to the above PDFs |
+| **PDF for All Modules** | 320.72 MB | [:arrow_down: Download PDF Package](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip) | 2026-10-28 | Collection of all the above PDFs |
 
 !!! tip
 
