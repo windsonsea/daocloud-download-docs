@@ -147,6 +147,7 @@
 | 大模型服务平台 | 5.0 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 2025-11-24 | 一站式管理海量大模型 |
 | 云边协同 | 6.91 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2026-10-28 | 云原生延伸至边缘设备 |
 | 全局管理 | 13.98 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2026-10-28 | 角色权限和隔离 |
+| 设备管理 | 824.89 KB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/topohub.pdf) | 2026-10-28 | 管理服务器、交换机等设备 |
 | **以上所有模块的 Docx 压缩包** | 435.71 MB | [:arrow_down: 下载 Docx 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2026-10-28 | 以上 PDF 对应的所有 Docx 文件 |
 | **以上所有模块的 PDF 压缩包** | 320.72 MB | [:arrow_down: 下载 PDF 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip) | 2026-10-28 | 以上 PDF 的集合 |
 
