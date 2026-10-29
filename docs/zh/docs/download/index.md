@@ -145,6 +145,8 @@
 | AI 应用 | 4.73 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 2026-10-28 | 创建和使用 AI 应用 |
 | ClawOS | 2.08 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ClawOS.pdf) | 2025-12-31 | Agent 运行和治理 |
 | 大模型服务平台 | 5.0 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 2025-11-24 | 一站式管理海量大模型 |
+| 驾驶舱 | 1.76 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/crane.pdf) | 2025-11-24 | Token 运营大屏 |
+| 费用中心 | 1.76 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 2025-11-24 | 统计 Token 消耗量和账单 |
 | 云边协同 | 6.91 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2026-10-28 | 云原生延伸至边缘设备 |
 | 全局管理 | 13.98 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2026-10-28 | 角色权限和隔离 |
 | 设备管理 | 824.89 KB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/topohub.pdf) | 2026-10-28 | 管理服务器、交换机等设备 |
