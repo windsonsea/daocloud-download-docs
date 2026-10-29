@@ -150,6 +150,8 @@ This section provides offline documentation in PDF and Docx formats for various 
 | AI Apps | 4.73 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 2026-10-28 | Create and use AI apps |
 | ClawOS | 2.08 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ClawOS.pdf) | 2025-12-31 | Agent runtime and governance |
 | LLM Studio | 5.0 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 2025-11-24 | One-stop management of massive LLMs |
+| Cockpit | 1.76 MB | [:arrow_down: :arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/crane.pdf) | 2025-11-24 | Token dashboards |
+| Billing Center | 1.76 MB | [:arrow_down: :arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 2025-11-24 | Token bills |
 | Cloud Edge Collaboration | 6.91 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2026-10-28 | Extending cloud native to edge devices |
 | Global Management | 13.98 MB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2026-10-28 | Roles, permissions, and isolation |
 | Device Management | 824.89 KB | [:arrow_down: View & Download PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/topohub.pdf) | 2026-10-28 | Manage servers and switches |
