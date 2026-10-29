@@ -61,13 +61,13 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 |--------| ---- | --- | --------- |
-| jenkins-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
-| jenkins-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
-| metax-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
-| gpu-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
-| gpu-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
-| standard-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
-| standard-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: 下载页](./addon/v0.44.0.md) | 2026-09-16 |
+| jenkins-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| jenkins-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| metax-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| gpu-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| gpu-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| standard-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
 
 [查看更多历史版本](./addon/history.md){ .md-button }
 
