@@ -7,7 +7,7 @@ hide:
 
 # Addon Historical Versions
 
-This page lists all the Addon offline packages released for DCE.
+This page lists all the Addon offline packages released by DaoCloud.
 You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
@@ -26,21 +26,21 @@ You can choose and download the one you need.
 | gpu-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | AMD 64 | 22.47 GB | [:arrow_right: Go to Download](./v0.44.0.md) | 2026-09-16 |
 | standard-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | <font color="green">ARM 64</font> | 22.75 GB | [:arrow_right: Go to Download](./v0.44.0.md) | 2026-09-16 |
 | standard-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | AMD 64 | 37.07 GB | [:arrow_right: Go to Download](./v0.44.0.md) | 2026-09-16 |
-| metax-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | AMD 64 | 4.12 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
-| gpu-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | <font color="green">ARM 64</font> | 13.06 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
-| gpu-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | AMD 64 | 22.47 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
-| standard-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | <font color="green">ARM 64</font> | 22.65 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
-| standard-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | AMD 64 | 36.96 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
-| metax-addon-offline-package-v0.42.0-amd64.tar.gz | v0.42.0 | AMD 64 | 4.12 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
-| gpu-addon-offline-package-v0.42.0-arm64.tar.gz | v0.42.0 | <font color="green">ARM 64</font> | 9.88 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
-| gpu-addon-offline-package-v0.42.0-amd64.tar.gz | v0.42.0 | AMD 64 | 19.28 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
-| standard-addon-offline-package-v0.42.0-arm64.tar.gz | v0.42.0 | <font color="green">ARM 64</font> | 22.45 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
-| standard-addon-offline-package-v0.42.0-amd64.tar.gz | v0.42.0 | AMD 64 | 36.73 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
 
 ??? note "Click to view historical releases"
 
     | Filename | Version | Architecture | Size | Download | Date |
     | -------- | ------- | ------------ | ---- | -------- | ---- |
+    | metax-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | AMD 64 | 4.12 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
+    | gpu-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | <font color="green">ARM 64</font> | 13.06 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
+    | gpu-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | AMD 64 | 22.47 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
+    | standard-addon-offline-package-v0.43.0-arm64.tar.gz | v0.43.0 | <font color="green">ARM 64</font> | 22.65 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
+    | standard-addon-offline-package-v0.43.0-amd64.tar.gz | v0.43.0 | AMD 64 | 36.96 GB | [:arrow_right: Go to Download](./v0.43.0.md) | 2026-08-17 |
+    | metax-addon-offline-package-v0.42.0-amd64.tar.gz | v0.42.0 | AMD 64 | 4.12 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
+    | gpu-addon-offline-package-v0.42.0-arm64.tar.gz | v0.42.0 | <font color="green">ARM 64</font> | 9.88 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
+    | gpu-addon-offline-package-v0.42.0-amd64.tar.gz | v0.42.0 | AMD 64 | 19.28 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
+    | standard-addon-offline-package-v0.42.0-arm64.tar.gz | v0.42.0 | <font color="green">ARM 64</font> | 22.45 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
+    | standard-addon-offline-package-v0.42.0-amd64.tar.gz | v0.42.0 | AMD 64 | 36.73 GB | [:arrow_right: Go to Download](./v0.42.0.md) | 2026-07-23 |
     | standard-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | AMD 64 | 35.19 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
     | standard-addon-offline-package-v0.41.2-arm64.tar.gz | v0.41.2 | <font color="green">ARM 64</font> | 21.79 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
     | gpu-addon-offline-package-v0.41.2-amd64.tar.gz | v0.41.2 | AMD 64 | 18.88 GB | [:arrow_right: Go to Download](./v0.41.2.md) | 2026-06-27 |
