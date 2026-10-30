@@ -119,39 +119,39 @@
 
 ## 下载产品文档
 
-本节提供各个模块的离线文档 PDF 和 Docx 供查阅和下载。
+本节按 d.run AI 操作系统和 d.run Token 工厂效能平台左侧导航的 5 个区块，提供各个模块的离线文档 PDF 供查阅和下载，点击模块名称即可查阅或下载。
 
-| 模块 | 文件大小 | 下载 | 更新日期 | 备注 |
+| 区块 | 查阅或下载 | 文件大小 | 更新日期 | 备注 |
 | --- | ---- | ---- | ------ | ---- |
-| d.run Token 工厂介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 2026-10-28 | Token 工厂简介 |
-| d.run AI 操作系统介绍 | 1.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 2026-10-28 | d.run AI 操作系统简介 |
-| DCE 产品介绍 | 1.25 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 2026-10-28 | DCE 总体产品简介 |
-| DCE 商业版安装手册 | 5.8 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 2026-10-28 | 包含15个模块 |
-| DCE 社区版安装手册 | 1.89 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 2026-10-28 | 包含3个基础模块 |
-| 应用工作台 | 23.11 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 2026-10-28 | 应用开发和交付 |
-| 容器管理 | 32.7 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 2026-10-28 | 容器化编排集群、节点、Pod |
-| 算力云 | 4.09 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/zestu.pdf) | 2026-10-28 | 可定制的算力运营市场 |
-| 多云编排 | 9.4 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kairship.pdf) | 2026-10-28 | 公有云、私有云、混合云 |
-| 镜像仓库 | 6.22 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 2026-10-28 | 镜像打包和交付 |
-| 应用商店 | 2.88 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/helm.pdf) | 2026-10-28 | 基于 Helm 分发应用 |
-| 云原生网络 | 41.52 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/network.pdf) | 2026-10-28 | 智能网络管理 |
-| 云原生存储 | 13.9 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/storage.pdf) | 2026-10-28 | 高速存储服务 |
-| 虚拟机 | 7.74 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/virtnest.pdf) | 2026-10-28 | 容器化虚拟机 |
-| 可观测性 | 15.69 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 2026-10-28 | 日志/链路/指标动态观测 |
-| 微服务引擎 | 45.56 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/skoala.pdf) | 2026-10-28 | 微服务治理和网关 |
-| 服务网格 | 49.69 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 2026-10-28 | 非侵入式流量治理 |
-| 数据服务中间件 | 46.22 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 2026-10-28 | 各类主流中间件 |
-| AI Lab | 11.33 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ai-lab.pdf) | 2025-12-31 | AI 算力和开发 |
-| AI 应用 | 4.73 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 2026-10-28 | 创建和使用 AI 应用 |
-| ClawOS | 2.08 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ClawOS.pdf) | 2025-12-31 | Agent 运行和治理 |
-| 大模型服务平台 | 5.0 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 2025-11-24 | 一站式管理海量大模型 |
-| 驾驶舱 | 1.76 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/crane.pdf) | 2025-11-24 | Token 运营大屏 |
-| 费用中心 | 1.76 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 2025-11-24 | 统计 Token 消耗量和账单 |
-| 云边协同 | 6.91 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 2026-10-28 | 云原生延伸至边缘设备 |
-| 全局管理 | 13.98 MB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 2026-10-28 | 角色权限和隔离 |
-| 设备管理 | 824.89 KB | [:arrow_down: 查阅并下载 PDF](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/topohub.pdf) | 2026-10-28 | 管理服务器、交换机等设备 |
-| **以上所有模块的 Docx 压缩包** | 435.71 MB | [:arrow_down: 下载 Docx 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip) | 2026-10-28 | 以上 PDF 对应的所有 Docx 文件 |
-| **以上所有模块的 PDF 压缩包** | 320.72 MB | [:arrow_down: 下载 PDF 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip) | 2026-10-28 | 以上 PDF 的集合 |
+| 探索和安装 | [d.run Token 工厂介绍](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 1.4 MB | 2026-10-28 | Token 工厂简介 |
+| | [d.run AI 操作系统介绍](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 1.4 MB | 2026-10-28 | d.run AI 操作系统简介 |
+| | [DCE 产品介绍](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 1.25 MB | 2026-10-28 | DCE 总体产品简介 |
+| | [DCE 商业版安装手册](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 5.8 MB | 2026-10-28 | 包含15个模块 |
+| | [DCE 社区版安装手册](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 1.89 MB | 2026-10-28 | 包含3个基础模块 |
+| 云原生 AI | [大模型服务平台](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 5.0 MB | 2025-11-24 | 一站式管理海量大模型 |
+| | [AI Lab](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ai-lab.pdf) | 11.33 MB | 2025-12-31 | AI 算力和开发 |
+| | [AI 应用](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 4.73 MB | 2026-10-28 | 创建和使用 AI 应用 |
+| | [ClawOS](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ClawOS.pdf) | 2.08 MB | 2025-12-31 | Agent 运行和治理 |
+| | [算力云](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/zestu.pdf) | 4.09 MB | 2026-10-28 | 可定制的算力运营市场 |
+| 云原生底座 | [应用工作台](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/amamba.pdf) | 23.11 MB | 2026-10-28 | 应用开发和交付 |
+| | [容器管理](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kpanda.pdf) | 32.7 MB | 2026-10-28 | 容器化编排集群、节点、Pod |
+| | [多云编排](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kairship.pdf) | 9.4 MB | 2026-10-28 | 公有云、私有云、混合云 |
+| | [镜像仓库](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kangaroo.pdf) | 6.22 MB | 2026-10-28 | 镜像打包和交付 |
+| | [应用商店](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/helm.pdf) | 2.88 MB | 2026-10-28 | 基于 Helm 分发应用 |
+| | [云原生网络](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/network.pdf) | 41.52 MB | 2026-10-28 | 智能网络管理 |
+| | [云原生存储](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/storage.pdf) | 13.9 MB | 2026-10-28 | 高速存储服务 |
+| | [虚拟机](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/virtnest.pdf) | 7.74 MB | 2026-10-28 | 容器化虚拟机 |
+| | [微服务引擎](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/skoala.pdf) | 45.56 MB | 2026-10-28 | 微服务治理和网关 |
+| | [服务网格](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mspider.pdf) | 49.69 MB | 2026-10-28 | 非侵入式流量治理 |
+| | [数据服务中间件](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/mcamel.pdf) | 46.22 MB | 2026-10-28 | 各类主流中间件 |
+| | [云边协同](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/kant.pdf) | 6.91 MB | 2026-10-28 | 云原生延伸至边缘设备 |
+| | [设备管理](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/topohub.pdf) | 824.89 KB | 2026-10-28 | 管理服务器、交换机等设备 |
+| 运营管理 | [驾驶舱](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/crane.pdf) | 1.76 MB | 2025-11-24 | Token 运营大屏 |
+| | [费用中心](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 1.76 MB | 2025-11-24 | 统计 Token 消耗量和账单 |
+| 运维管理 | [可观测性](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 15.69 MB | 2026-10-28 | 日志/链路/指标动态观测 |
+| | [全局管理](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | 角色权限和隔离 |
+| 全部模块 | **[以上所有模块的 Docx 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip)** | 435.71 MB | 2026-10-28 | 以上 PDF 对应的所有 Docx 文件 |
+| | **[以上所有模块的 PDF 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip)** | 320.72 MB | 2026-10-28 | 以上 PDF 的集合 |
 
 !!! tip
 
