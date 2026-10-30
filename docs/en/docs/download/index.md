@@ -66,13 +66,13 @@ DaoCloud provides comprehensive Addons for different use cases, which can be dow
 
 | Latest Package | Version | Download | Date |
 |--------| ---- | --- | --------- |
-| jenkins-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
-| jenkins-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
-| metax-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
-| gpu-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
-| gpu-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
-| standard-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
-| standard-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | [:arrow_right: Go to Download](./addon/v0.44.0.md) | 2026-09-16 |
+| jenkins-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
+| jenkins-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
+| metax-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
+| gpu-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
+| gpu-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
+| standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
+| standard-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
 
 [Legacy Packages for Addons](./addon/history.md){ .md-button }
 
@@ -107,7 +107,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Cloud Native AI | LLM Studio | 1.42 GB | [:arrow_right: Go to Download](./modules/hydra.md) | 2026-10-20 |
 | | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-10-29 |
-| | ClawOS | 2.37 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-10-13 |
+| | ClawOS | 2.44 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-10-28 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
 | Management | Global Management | 498.06 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-08-06 |
 | | Operations Management | 124.49 MB | [:arrow_right: Go to Download](./modules/gmagpie.md) | 2026-06-27 |
@@ -131,8 +131,8 @@ This section groups the offline documentation by the five navigation blocks on t
 | Explore and Install | [d.run Token Factory Overview](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 1.4 MB | 2026-10-28 | Overview of d.run Token Factory |
 | | [d.run AI OS Overview](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 1.4 MB | 2026-10-28 | Overview of d.run AI OS |
 | | [DCE Product Overview](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 1.25 MB | 2026-10-28 | General introduction to DCE |
-| | [DCE Enterprise Installation Guide](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 5.8 MB | 2026-10-28 | Includes 15 modules |
-| | [DCE Community Installation Guide](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 1.89 MB | 2026-10-28 | Includes 3 basic modules |
+| | [DCE Enterprise Installation Guide](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 5.8 MB | 2026-10-28 | Installs 15 modules |
+| | [DCE Community Installation Guide](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 1.89 MB | 2026-10-28 | Installs 3 basic modules |
 | Cloud Native AI | [LLM Studio](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 5.0 MB | 2025-11-24 | One-stop management of massive LLMs |
 | | [AI Lab](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ai-lab.pdf) | 11.33 MB | 2025-12-31 | AI computing and development |
 | | [AI Apps](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 4.73 MB | 2026-10-28 | Create and use AI apps |
@@ -154,7 +154,7 @@ This section groups the offline documentation by the five navigation blocks on t
 | Operations | [Cockpit](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/crane.pdf) | 1.76 MB | 2025-11-24 | Token dashboards |
 | | [Billing Center](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 1.76 MB | 2025-11-24 | Token bills |
 | OAM | [Insight](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 15.69 MB | 2026-10-28 | Dynamic observability of logs, traces, and metrics |
-| | [Global Management](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | Roles, permissions, and isolation |
+| | [Global Management](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | Roles, permissions, and global settings |
 | All Modules | **[Docx for All Modules](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip)** | 435.71 MB | 2026-10-28 | Includes all Docx files corresponding to the above PDFs |
 | | **[PDF for All Modules](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip)** | 320.72 MB | 2026-10-28 | Collection of all the above PDFs |
 

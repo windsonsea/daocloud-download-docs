@@ -126,8 +126,8 @@
 | 探索和安装 | [d.run Token 工厂介绍](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.pdf) | 1.4 MB | 2026-10-28 | Token 工厂简介 |
 | | [d.run AI 操作系统介绍](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.pdf) | 1.4 MB | 2026-10-28 | d.run AI 操作系统简介 |
 | | [DCE 产品介绍](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/DCE5.0-intro.pdf) | 1.25 MB | 2026-10-28 | DCE 总体产品简介 |
-| | [DCE 商业版安装手册](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 5.8 MB | 2026-10-28 | 包含15个模块 |
-| | [DCE 社区版安装手册](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 1.89 MB | 2026-10-28 | 包含3个基础模块 |
+| | [DCE 商业版安装手册](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5.0-install.pdf) | 5.8 MB | 2026-10-28 | 安装 15 个模块 |
+| | [DCE 社区版安装手册](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dce5-community.pdf) | 1.89 MB | 2026-10-28 | 安装 3 个基础模块 |
 | 云原生 AI | [大模型服务平台](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/hydra.pdf) | 5.0 MB | 2025-11-24 | 一站式管理海量大模型 |
 | | [AI Lab](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ai-lab.pdf) | 11.33 MB | 2025-12-31 | AI 算力和开发 |
 | | [AI 应用](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/dak.pdf) | 4.73 MB | 2026-10-28 | 创建和使用 AI 应用 |
@@ -149,7 +149,7 @@
 | 运营管理 | [驾驶舱](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/crane.pdf) | 1.76 MB | 2025-11-24 | Token 运营大屏 |
 | | [费用中心](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 1.76 MB | 2025-11-24 | 统计 Token 消耗量和账单 |
 | 运维管理 | [可观测性](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 15.69 MB | 2026-10-28 | 日志/链路/指标动态观测 |
-| | [全局管理](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | 角色权限和隔离 |
+| | [全局管理](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | 角色权限和全局设置 |
 | 全部模块 | **[以上所有模块的 Docx 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip)** | 435.71 MB | 2026-10-28 | 以上 PDF 对应的所有 Docx 文件 |
 | | **[以上所有模块的 PDF 压缩包](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip)** | 320.72 MB | 2026-10-28 | 以上 PDF 的集合 |
 
