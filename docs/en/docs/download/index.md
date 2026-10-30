@@ -155,8 +155,8 @@ This section groups the offline documentation by the five navigation blocks on t
 | | [Billing Center](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 1.76 MB | 2025-11-24 | Token bills |
 | OAM | [Insight](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 15.69 MB | 2026-10-28 | Dynamic observability of logs, traces, and metrics |
 | | [Global Management](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | Roles, permissions, and global settings |
-| All Modules | **[Docx for All Modules](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip)** | 435.71 MB | 2026-10-28 | Includes all Docx files corresponding to the above PDFs |
-| | **[PDF for All Modules](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip)** | 320.72 MB | 2026-10-28 | Collection of all the above PDFs |
+| All Modules | **[Docx for all above modules](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/docx.zip)** | 435.71 MB | 2026-10-28 | Includes all Docx files corresponding to the above PDFs |
+| | **[PDF for all above modules](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/pdf.zip)** | 320.72 MB | 2026-10-28 | Collection of all the above PDFs |
 
 !!! tip
 

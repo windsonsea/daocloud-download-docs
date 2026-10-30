@@ -12,12 +12,12 @@ You can choose and download the one you need.
 
 | Filename | Version | Architecture | Size | Download | Date |
 | -------- | ------- | ------------ | ---- | -------- | ---- |
-| jenkins-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | ARM 64 | 6.53GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
+| jenkins-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | <font color="green">ARM 64</font> | 6.53GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
 | jenkins-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | AMD 64 | 6.89GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
 | metax-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | AMD 64 | 4.12GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
-| gpu-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | ARM 64 | 30.19GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
+| gpu-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | <font color="green">ARM 64</font> | 30.19GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
 | gpu-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | AMD 64 | 30.01GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
-| standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | ARM 64 | 28.02GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
+| standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | <font color="green">ARM 64</font> | 28.02GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
 | standard-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | AMD 64 | 39.06GB | [:arrow_right: Go to Download](./v0.45.0.md) | 2026-10-29 |
 | jenkins-addon-offline-package-v0.44.0-arm64.tar.gz | v0.44.0 | <font color="green">ARM 64</font> | 6.53 GB | [:arrow_right: Go to Download](./v0.44.0.md) | 2026-09-16 |
 | jenkins-addon-offline-package-v0.44.0-amd64.tar.gz | v0.44.0 | AMD 64 | 6.89 GB | [:arrow_right: Go to Download](./v0.44.0.md) | 2026-09-16 |
